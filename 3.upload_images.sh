@@ -1,0 +1,1 @@
+aws s3 cp ./generated/s3/ s3://static-images-x7k9m2q4zb/game_thumbnail_images/ --recursive --only-show-errors
