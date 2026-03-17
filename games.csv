@@ -58,6 +58,15 @@ avatarux_slot,140067,Spinfection,,assets/Dcace/Avatarux/Game Icon/Spinfection.pn
 avatarux_slot,140070,MonkeyPop 2,,assets/Dcace/Avatarux/Game Icon/MonkeyPop 2.png
 avatarux_slot,140071,3 Power Dragons,,assets/Dcace/Avatarux/Game Icon/3 Power Dragons.png
 avatarux_slot,140072,3 Power Genies,,assets/Dcace/Avatarux/Game Icon/3 Power Genies.png
+avatarux_slot,140073,Carioca Vibes,,assets/Dcace/Avatarux/Game Icon/Carioca Vibes.png
+avatarux_slot,140074,Crypto Bro,,assets/Dcace/Avatarux/Game Icon/Crypto Bro.png
+avatarux_slot,140075,Fruitillionaire,,assets/Dcace/Avatarux/Game Icon/Fruitillionaire.png
+avatarux_slot,140076,Sphinx Treasure,,assets/Dcace/Avatarux/Game Icon/Sphinx Treasure.png
+avatarux_slot,140077,Big Catch Xmas,,assets/Dcace/Avatarux/Game Icon/Big Catch Xmas.png
+avatarux_slot,140078,Cosmic Jokers,,assets/Dcace/Avatarux/Game Icon/Cosmic Jokers.png
+avatarux_slot,140079,3 Jungle Beats,,assets/Dcace/Avatarux/Game Icon/3 Jungle Beats.png
+avatarux_slot,140080,Crypto Crown 40,,assets/Dcace/Avatarux/Game Icon/Crypto Crown 40.png
+avatarux_slot,140081,Shippy D Pop,,assets/Dcace/Avatarux/Game Icon/Shippy D Pop.png
 bgaming_slot,410002,Panda Luck,,assets/Dcace/BGaming/Game Icon/410002_Panda Luck.png
 bgaming_slot,410003,Chicken Rush,,assets/Dcace/BGaming/Game Icon/410003_Chicken Rush.png
 bgaming_slot,410004,Luck & Magic Scratch,,assets/Dcace/BGaming/Game Icon/410004_Luck & Magic Scratch.png
@@ -162,7 +171,7 @@ bgaming_slot,410102,All Lucky Clovers,,assets/Dcace/BGaming/Game Icon/410102_All
 bgaming_slot,410103,Book of Cats,,assets/Dcace/BGaming/Game Icon/410103_Book of Cats.png
 bgaming_slot,410104,Elvis Frog in Vegas,,assets/Dcace/BGaming/Game Icon/410104_Elvis Frog in Vegas.jpg
 bgaming_slot,410105,Four Lucky Clover,,assets/Dcace/BGaming/Game Icon/410105_Four Lucky Clover.png
-bgaming_slot,410106,Avalon: The Lost Kingdom,,
+bgaming_slot,410106,Avalon: The Lost Kingdom,,assets/Dcace/BGaming/Game Icon/410106_Avalon: The Lost Kingdom.png
 bgaming_slot,410107,Deep Sea,,assets/Dcace/BGaming/Game Icon/410107_Deep Sea.png
 bgaming_slot,410108,Spin And Spell,,assets/Dcace/BGaming/Game Icon/410108_Spin And Spell.png
 bgaming_slot,410111,Jogo Do Bicho,,assets/Dcace/BGaming/Game Icon/410111_Jogo do bicho.png
@@ -187,7 +196,7 @@ bgaming_slot,410142,West Town,,assets/Dcace/BGaming/Game Icon/410142_West town.p
 bgaming_slot,410147,Top Eagle,,assets/Dcace/BGaming/Game Icon/Top Eagle.png
 bgaming_slot,410148,Royal Fruits MultiLines,,assets/Dcace/BGaming/Game Icon/Royal Fruits MultiLines.png
 bgaming_slot,410149,Train to Rio Grande,,assets/Dcace/BGaming/Game Icon/Train to Rio Grande.png
-bgaming_slot,410150,Kraken's Hunger,,
+bgaming_slot,410150,Kraken's Hunger,,assets/Dcace/BGaming/Game Icon/Krakens Hunger.png
 bgaming_slot,410151,Mine Gems,,assets/Dcace/BGaming/Game Icon/Mine Gems.png
 bgaming_slot,410152,Catch the Gold Hold and Win,,assets/Dcace/BGaming/Game Icon/Catch the Gold Hold and Win.png
 bgaming_slot,410153,Street Power,,assets/Dcace/BGaming/Game Icon/Street Power.png
@@ -201,7 +210,7 @@ bgaming_slot,410160,Alien Fruits 2,,assets/Dcace/BGaming/Game Icon/Alien Fruits 
 bgaming_slot,410161,Dragon Age Hold & Win (Dragon Age),,assets/Dcace/BGaming/Game Icon/Dragon Age Hold and Win.png
 bgaming_slot,410162,Fishing Club,,assets/Dcace/BGaming/Game Icon/Fishing Club.png
 bgaming_slot,410163,Gold of Minos,,assets/Dcace/BGaming/Game Icon/Gold of Minos.png
-bgaming_slot,410164,OOF The Goldmine Planet,,
+bgaming_slot,410164,OOF The Goldmine Planet,,assets/Dcace/BGaming/Game Icon/Oof.png
 bgaming_slot,410165,Snoop Dogg Dollars,,assets/Dcace/BGaming/Game Icon/Snoop Dogg Dollars.png
 bgaming_slot,410166,Forgotten,,assets/Dcace/BGaming/Game Icon/Forgotten.png
 bgaming_slot,410167,Rotating Element,,assets/Dcace/BGaming/Game Icon/Rotating Element.png
@@ -268,6 +277,11 @@ bgaming_slot,410232,Aviamasters X-mas,,assets/Dcace/BGaming/Game Icon/Aviamaster
 bgaming_slot,410233,Joker X Love,,assets/Dcace/BGaming/Game Icon/Joker X Love.png
 bgaming_slot,410234,Surrender Multihand Blackjack,,assets/Dcace/BGaming/Game Icon/Surrender Multihand Blackjack.png
 bgaming_slot,410235,Mystery Heist,,assets/Dcace/BGaming/Game Icon/Mystery Heist.png
+bgaming_slot,410236,Golden Avalon Hold and Win,,assets/Dcace/BGaming/Game Icon/Golden Avalon Hold and Win.png
+bgaming_slot,410237,Heart of Tiki,,assets/Dcace/BGaming/Game Icon/Heart of Tiki.png
+bgaming_slot,410238,Fortune Red Packets,,assets/Dcace/BGaming/Game Icon/Fortune Red Packets.png
+bgaming_slot,410239,Always Up! x10000,,assets/Dcace/BGaming/Game Icon/Always Up! x10000.png
+bgaming_slot,410240,Winter Trophy Hold and Win,,assets/Dcace/BGaming/Game Icon/Winter Trophy Hold and Win.png
 bigtime_slot,250001,Bonanza,,assets/Dcace/Big Time Gaming/Game Icon/250001_Bonanza.jpg
 bigtime_slot,250002,Christmas Bonanza,,assets/Dcace/Big Time Gaming/Game Icon/250002_Christmas Bonanza.jpg
 bigtime_slot,250003,Danger High Voltage,,assets/Dcace/Big Time Gaming/Game Icon/250003_Danger High Voltage.jpg
@@ -337,6 +351,9 @@ bigtime_slot,250070,Castle of Terror II,,assets/Dcace/Big Time Gaming/Game Icon/
 bigtime_slot,250071,White Rabbit 2,,assets/Dcace/Big Time Gaming/Game Icon/White Rabbit 2.png
 bigtime_slot,250072,Warlocks,,assets/Dcace/Big Time Gaming/Game Icon/Warlocks.png
 bigtime_slot,250073,Christmas Megapots,,assets/Dcace/Big Time Gaming/Game Icon/Christmas Megapots.png
+bigtime_slot,250074,MONOPOLY TapCards,,assets/Dcace/Big Time Gaming/Game Icon/MONOPOLY TapCards.png
+bigtime_slot,250075,MONOPOLY Deluxe,,assets/Dcace/Big Time Gaming/Game Icon/MONOPOLY Deluxe.png
+bigtime_slot,250076,MONOPOLY Rush Hour,,assets/Dcace/Big Time Gaming/Game Icon/MONOPOLY Rush Hour.png
 blitzcrown_etc,670000,Crash,,assets/Dcace/Blitzcrown/Game Icon/Crash.png
 blitzcrown_etc,670001,Fast Crash,,assets/Dcace/Blitzcrown/Game Icon/Fast Crash.png
 blitzcrown_etc,670002,Twin Crash,,assets/Dcace/Blitzcrown/Game Icon/Twin Crash.png
@@ -682,7 +699,7 @@ booming_slot,610182,Booming Seven Deluxe,,assets/Dcace/Booming Games/Game Icon/B
 booming_slot,610183,Classico,,assets/Dcace/Booming Games/Game Icon/Classico.png
 booming_slot,610198,Booming Seven Deluxe Legacy,,assets/Dcace/Booming Games/Game Icon/Booming Seven Deluxe Legacy.png
 booming_slot,610199,Shields of Gold Valkyrie Hold and Win,,assets/Dcace/Booming Games/Game Icon/Shields of Gold Valkyrie Hold and Win.png
-booming_slot,610200,"64 Gold Coins Hold and Win 20,000",,"assets/Dcace/Booming Games/Game Icon/64 Gold Coins Hold and Win 20000.png"
+booming_slot,610200,"64 Gold Coins Hold and Win 20,000",,assets/Dcace/Booming Games/Game Icon/64 Gold Coins Hold and Win 20000.png
 booming_slot,610201,Burning Classics 2,,assets/Dcace/Booming Games/Game Icon/Burning Classics 2.png
 booming_slot,610202,Burning Classics 5000,,assets/Dcace/Booming Games/Game Icon/Burning Classics 5000.png
 booming_slot,610203,Fish Tales Double Catch,,assets/Dcace/Booming Games/Game Icon/Fish Tales Double Catch.png
@@ -694,6 +711,7 @@ booming_slot,610208,Power of Atlantis Trio,,assets/Dcace/Booming Games/Game Icon
 booming_slot,610209,Ras Relics Bonanza,,assets/Dcace/Booming Games/Game Icon/Ras Relics Bonanza.png
 booming_slot,610210,Reels Paradise,,assets/Dcace/Booming Games/Game Icon/Reels Paradise.png
 booming_slot,610211,Bonza Bucks Hold and Win Extreme 10000,,"assets/Dcace/Booming Games/Game Icon/Bonza Bucks Hold and Win Extreme  10,000.png"
+booming_slot,610212,Genie Wishes,,assets/Dcace/Booming Games/Game Icon/Genie Wishes.png
 bota_live,bota_live,BOTA Live Casino,,
 dcace_slot,99590001,Dice,,assets/Dcace/DCACE/Game Icon/Dice.png
 dcace_slot,99590002,Diamonds,,assets/Dcace/DCACE/Game Icon/Diamonds.png
@@ -709,10 +727,12 @@ dcace_slot,99590011,Blackjack,,assets/Dcace/DCACE/Game Icon/Blackjack.png
 dcace_slot,99590012,Crash,,assets/Dcace/DCACE/Game Icon/Crash.png
 dcace_slot,99590013,Baccarat,,assets/Dcace/DCACE/Game Icon/Baccarat.png
 dcace_slot,99590014,Cross The Road,,assets/Dcace/DCACE/Game Icon/Cross The Road.png
-dcace_slot,99590015,Roulette,,
-dcace_slot,99590016,Slider,,
+dcace_slot,99590015,Roulette,,assets/Dcace/Originals (Tequity)/Game Icon/Roulette.png
+dcace_slot,99590016,Slider,,assets/Dcace/Originals (Tequity)/Game Icon/Slider.png
 dcace_slot,99590017,Cross The Road Volcano,,assets/Dcace/DCACE/Game Icon/Cross The Road Volcano.png
-dcace_slot,99590018,Royal Drop,,
+dcace_slot,99590018,Royal Drop,,assets/Dcace/Originals (Tequity)/Game Icon/Royal Drop.png
+dcace_slot,99590019,Coinflip,,assets/Dcace/Originals (Tequity)/Game Icon/Coinflip.png
+dcace_slot,99590020,Trader,,assets/Dcace/Originals (Tequity)/Game Icon/Trader.png
 dcace_slot,99690001,Vegascaline,,assets/Dcace/DCACE/Game Icon/Vegascaline.png
 dcace_slot,99690002,THE ROBBIN' GOBLINS,,assets/Dcace/DCACE/Game Icon/THE ROBBIN' GOBLINS.png
 evolution_live,48z5pjps3ntvqc1b,Auto-Roulette,,
@@ -1027,6 +1047,8 @@ evoplay_slot,110332,Train of Riches: Capital Express,,assets/Dcace/Evoplay/Game 
 evoplay_slot,110333,Three Trojan Horses,,assets/Dcace/Evoplay/Game Icon/Three Trojan Horses.jpg
 evoplay_slot,110334,Hot Rio Samba,,assets/Dcace/Evoplay/Game Icon/Hot Rio Samba.jpg
 evoplay_slot,110335,Love and Luck Joker,,assets/Dcace/Evoplay/Game Icon/Love and Luck Joker.jpg
+evoplay_slot,110336,Cricket Duel,,assets/Dcace/Evoplay/Game Icon/Cricket Duel_.jpg
+evoplay_slot,110337,Mystic Alaska,,assets/Dcace/Evoplay/Game Icon/Mystic Alaska.jpg
 ezugi_live,120000,Lobby,,
 ezugi_live,120001,Blackjack Gold 5,,assets/Dcace/Ezugi/Game Icon/120001_Gold Blackjack 5.png
 ezugi_live,120004,Blackjack Gold 1,,assets/Dcace/Ezugi/Game Icon/120004_Gold Blackjack 1.png
@@ -1094,6 +1116,8 @@ ezugi_live,120137,EZ Dealer Roulette Bengali,,assets/Dcace/Ezugi/Game Icon/EZ De
 ezugi_live,120138,Christmas Auto Roulette,,assets/Dcace/Ezugi/Game Icon/Christmas Auto Roulette.png
 ezugi_live,120139,Portomaso Roulette 2,,assets/Dcace/Ezugi/Game Icon/Portomaso Roulette 2.png
 ezugi_live,120140,Casino Marina Baccarat A,,assets/Dcace/Ezugi/Game Icon/Casino Marina Baccarat A.png
+ezugi_live,120141,Chinese New Year Auto Roulette,,assets/Dcace/Ezugi/Game Icon/Chinese New Year Auto Roulette.png
+ezugi_live,120142,EZ Dealer Roulette Russian,,assets/Dcace/Ezugi/Game Icon/EZ Dealer Roulette Russian.png
 fantasma_slot,290000,Cloud Corsairs,,assets/Dcace/Fantasma/Game Icon/290000_Cloud Corsairs.png
 fantasma_slot,290001,Wicked Kitty,,assets/Dcace/Fantasma/Game Icon/290001_Wicked Kitty.png
 fantasma_slot,290002,Prometheus Titan of Fire,,assets/Dcace/Fantasma/Game Icon/290002_Prometheus Titan of Fire.png
@@ -1558,8 +1582,17 @@ hacksaw_slot,201694,Le Fisherman,,assets/Dcace/Hacksaw/Game Icon/Le Fisherman.pn
 hacksaw_slot,201695,Grunt Gold,,assets/Dcace/Hacksaw/Game Icon/Grunt Gold.png
 hacksaw_slot,201696,Zeus Ze Zecond,,assets/Dcace/Hacksaw/Game Icon/Zeus Ze Zecond.png
 hacksaw_slot,201697,Diamond Mole,,assets/Dcace/Hacksaw/Game Icon/Diamond Mole.png
+hacksaw_slot,201698,Mortal Oath,,assets/Dcace/Hacksaw/Game Icon/Mortal Oath.png
 hacksaw_slot,201710,Penguin Royale,,assets/Dcace/Hacksaw/Game Icon/Penguin Royale.png
 hacksaw_slot,201711,Superstar Sevens,,assets/Dcace/Hacksaw/Game Icon/Superstar Sevens.png
+hacksaw_slot,201712,Hot Ross,,assets/Dcace/Hacksaw/Game Icon/Hot Ross.png
+hacksaw_slot,201713,Dark Spiral,,assets/Dcace/Hacksaw/Game Icon/Dark Spiral.png
+hacksaw_slot,201714,Ghostly Hallows,,assets/Dcace/Hacksaw/Game Icon/Ghostly Hallows.png
+hacksaw_slot,201715,Monkey Frenzy 2: Boss is Here!,,assets/Dcace/Hacksaw/Game Icon/Monkey Frenzy 2 Boss is Here.png
+hacksaw_slot,201716,Lemur Levels,,assets/Dcace/Hacksaw/Game Icon/Lemur Levels.png
+hacksaw_slot,201717,Dusk Princess,,assets/Dcace/Hacksaw/Game Icon/Dusk Princess.png
+hacksaw_slot,201730,Jumpasaurs,,assets/Dcace/Hacksaw/Game Icon/Jumpasaurs.png
+hacksaw_slot,201732,Eternal Duel,,assets/Dcace/Hacksaw/Game Icon/Eternal Duel.png
 hacksawlatam_slot,551001,SCRATCH! Platinum,,assets/Dcace/Hacksaw/Game Icon/201001_SCRATCH! Platinum.png
 hacksawlatam_slot,551002,SCRATCH! Gold,,assets/Dcace/Hacksaw/Game Icon/201002_SCRATCH! Gold.png
 hacksawlatam_slot,551003,SCRATCH! Silver,,assets/Dcace/Hacksaw/Game Icon/201003_SCRATCH! Silver.png
@@ -1820,8 +1853,17 @@ hacksawlatam_slot,551691,Le Fisherman,,assets/Dcace/Hacksaw/Game Icon/Le Fisherm
 hacksawlatam_slot,551692,Grunt Gold,,assets/Dcace/Hacksaw/Game Icon/Grunt Gold.png
 hacksawlatam_slot,551693,Zeus Ze Zecond,,assets/Dcace/Hacksaw/Game Icon/Zeus Ze Zecond.png
 hacksawlatam_slot,551694,Diamond Mole,,assets/Dcace/Hacksaw/Game Icon/Diamond Mole.png
+hacksawlatam_slot,551695,Mortal Oath,,assets/Dcace/Hacksaw/Game Icon/Mortal Oath.png
 hacksawlatam_slot,551707,Penguin Royale,,assets/Dcace/Hacksaw/Game Icon/Penguin Royale.png
 hacksawlatam_slot,551708,Superstar Sevens,,assets/Dcace/Hacksaw/Game Icon/Superstar Sevens.png
+hacksawlatam_slot,551709,Hot Ross,,assets/Dcace/Hacksaw/Game Icon/Hot Ross.png
+hacksawlatam_slot,551710,Dark Spiral,,assets/Dcace/Hacksaw/Game Icon/Dark Spiral.png
+hacksawlatam_slot,551711,Ghostly Hallows,,assets/Dcace/Hacksaw/Game Icon/Ghostly Hallows.png
+hacksawlatam_slot,551712,Monkey Frenzy 2: Boss is Here!,,assets/Dcace/Hacksaw/Game Icon/Monkey Frenzy 2 Boss is Here.png
+hacksawlatam_slot,551713,Lemur Levels,,assets/Dcace/Hacksaw/Game Icon/Lemur Levels.png
+hacksawlatam_slot,551714,Dusk Princess,,assets/Dcace/Hacksaw/Game Icon/Dusk Princess.png
+hacksawlatam_slot,551727,Jumpasaurs,,assets/Dcace/Hacksaw/Game Icon/Jumpasaurs.png
+hacksawlatam_slot,551729,Eternal Duel,,assets/Dcace/Hacksaw/Game Icon/Eternal Duel.png
 hacksawrow_slot,531001,SCRATCH! Platinum,,assets/Dcace/Hacksaw/Game Icon/201001_SCRATCH! Platinum.png
 hacksawrow_slot,531002,SCRATCH! Gold,,assets/Dcace/Hacksaw/Game Icon/201002_SCRATCH! Gold.png
 hacksawrow_slot,531003,SCRATCH! Silver,,assets/Dcace/Hacksaw/Game Icon/201003_SCRATCH! Silver.png
@@ -2081,8 +2123,17 @@ hacksawrow_slot,531691,Le Fisherman,,assets/Dcace/Hacksaw/Game Icon/Le Fisherman
 hacksawrow_slot,531692,Grunt Gold,,assets/Dcace/Hacksaw/Game Icon/Grunt Gold.png
 hacksawrow_slot,531693,Zeus Ze Zecond,,assets/Dcace/Hacksaw/Game Icon/Zeus Ze Zecond.png
 hacksawrow_slot,531694,Diamond Mole,,assets/Dcace/Hacksaw/Game Icon/Diamond Mole.png
+hacksawrow_slot,531695,Mortal Oath,,assets/Dcace/Hacksaw/Game Icon/Mortal Oath.png
 hacksawrow_slot,531707,Penguin Royale,,assets/Dcace/Hacksaw/Game Icon/Penguin Royale.png
 hacksawrow_slot,531708,Superstar Sevens,,assets/Dcace/Hacksaw/Game Icon/Superstar Sevens.png
+hacksawrow_slot,531709,Hot Ross,,assets/Dcace/Hacksaw/Game Icon/Hot Ross.png
+hacksawrow_slot,531710,Dark Spiral,,assets/Dcace/Hacksaw/Game Icon/Dark Spiral.png
+hacksawrow_slot,531711,Ghostly Hallows,,assets/Dcace/Hacksaw/Game Icon/Ghostly Hallows.png
+hacksawrow_slot,531712,Monkey Frenzy 2: Boss is Here!,,assets/Dcace/Hacksaw/Game Icon/Monkey Frenzy 2 Boss is Here.png
+hacksawrow_slot,531713,Lemur Levels,,assets/Dcace/Hacksaw/Game Icon/Lemur Levels.png
+hacksawrow_slot,531714,Dusk Princess,,assets/Dcace/Hacksaw/Game Icon/Dusk Princess.png
+hacksawrow_slot,531727,Jumpasaurs,,assets/Dcace/Hacksaw/Game Icon/Jumpasaurs.png
+hacksawrow_slot,531729,Eternal Duel,,assets/Dcace/Hacksaw/Game Icon/Eternal Duel.png
 luckymonaco_slot,380000,Tumble Fortune,,assets/Dcace/Lucky Monaco/Game Icon/380000_Tumble Fortune.png
 luckymonaco_slot,380001,Jackpot Star,,assets/Dcace/Lucky Monaco/Game Icon/380001_Jackpot Star.png
 luckymonaco_slot,380002,Cleopatra Tumble,,assets/Dcace/Lucky Monaco/Game Icon/380002_Cleopatra Tumble.png
@@ -2455,6 +2506,7 @@ nolimit_slot,180250,Das xBoot 2wei!,,assets/Dcace/No Limit City/Game Icon/Das xB
 nolimit_slot,180252,Crazy Ex-Girlfriend,,assets/Dcace/No Limit City/Game Icon/Crazy Ex-Girlfriend.png
 nolimit_slot,180255,Golden Shower,,assets/Dcace/No Limit City/Game Icon/Golden Shower.png
 nolimit_slot,180256,Duck Hunters Happy Hour,,assets/Dcace/No Limit City/Game Icon/Duck Hunters Happy Hour.png
+nolimit_slot,180258,Supersized,,assets/Dcace/No Limit City/Game Icon/Supersized.png
 novomatic_slot,520001,Fortune God,,assets/Dcace/Novomatic/Game ICON/Fortune God.png
 novomatic_slot,520002,Book Hotfire,,assets/Dcace/Novomatic/Game ICON/Book Hotfire.png
 novomatic_slot,520003,50 Jokers Hotfire,,assets/Dcace/Novomatic/Game ICON/50 Jokers Hotfire.png
@@ -2581,8 +2633,12 @@ novomatic_slot,520124,3 Merry Pines Hold & Win,,assets/Dcace/Novomatic/Game ICON
 novomatic_slot,520125,Colossus Fortune,,assets/Dcace/Novomatic/Game ICON/Colossus Fortune.png
 novomatic_slot,520126,Magma Strike: Blazing Jackpots,,assets/Dcace/Novomatic/Game ICON/Magma Strike Blazing Jackpots.png
 novomatic_slot,520127,Rock & Riches: Hold & Win,,assets/Dcace/Novomatic/Game ICON/Rock & Riches Hold & Win.png
+novomatic_slot,520128,Giza Fortunes Hold & Win,,assets/Dcace/Novomatic/Game ICON/Giza Fortunes Hold & Win.png
+novomatic_slot,520129,Cash Connection Charming Lady,,assets/Dcace/Novomatic/Game ICON/Cash Connection Charming Lady.png
 novomatic_slot,520130,Phoenix Hotfire Xpand,,assets/Dcace/Novomatic/Game ICON/Phoenix Hotfire Xpand.png
 novomatic_slot,520131,Twister Fortunes Hold & Win,,assets/Dcace/Novomatic/Game ICON/Twister Fortunes Hold & Win.png
+novomatic_slot,520139,Madame Moonlight,,assets/Dcace/Novomatic/Game ICON/Madame Moonlight.png
+novomatic_slot,520140,Devil's Coins Hotifre Hold & Win Buy Bonus,,assets/Dcace/Novomatic/Game ICON/Devil's Coins Hotifre Hold & Win Buy Bonus.png
 octoplay_slot,510001,Aztec Ancients,,assets/Dcace/Octoplay/Game ICON/Aztec Ancients.png
 octoplay_slot,510002,Blarney's Gold,,assets/Dcace/Octoplay/Game ICON/Blarney's Gold.png
 octoplay_slot,510003,Blazing Touch,,assets/Dcace/Octoplay/Game ICON/Blazing Touch.png
@@ -2710,10 +2766,16 @@ octoplay_slot,510127,Crack More Piggy Banks,,assets/Dcace/Octoplay/Game ICON/Cra
 octoplay_slot,510128,Carved in Gold: Hold & Win,,assets/Dcace/Octoplay/Game ICON/Carved in Gold Hold & Win.png
 octoplay_slot,510129,Ballin' Jackpots Hit The Line,,assets/Dcace/Octoplay/Game ICON/Ballin' Jackpots Hit The Line.jpg
 octoplay_slot,510130,3 Christmas Pyramids: Hold & Win,,assets/Dcace/Octoplay/Game ICON/3 Christmas Pyramids Hold & Win.jpg
+octoplay_slot,510131,3 Eternal Drums: Rhythm of Fortune,,assets/Dcace/Octoplay/Game ICON/3 Eternal Drums Rhythm of Fortune.jpg
+octoplay_slot,510132,8's on Fire: Supercharged,,assets/Dcace/Octoplay/Game ICON/8s on Fire Supercharged.jpg
 octoplay_slot,510133,Flaming Chicken: Highway Hazard,,assets/Dcace/Octoplay/Game ICON/Flaming Chicken Highway Hazard.png
+octoplay_slot,510134,15 Totem Stacks: Hold & Win,,assets/Dcace/Octoplay/Game ICON/15 Totem Stacks Hold & Win.jpg
 octoplay_slot,510135,Triple 5's: Supercharged,,assets/Dcace/Octoplay/Game ICON/Triple 5s Supercharged.jpg
 octoplay_slot,510136,Mega Flex: Hold & Win,,assets/Dcace/Octoplay/Game ICON/Mega Flex Hold & Win.jpg
 octoplay_slot,510137,Candyland Pop,,assets/Dcace/Octoplay/Game ICON/Candyland Pop.jpg
+octoplay_slot,510141,3 Fortune Beasts: Hold & Win,,assets/Dcace/Octoplay/Game ICON/3 Fortune Beasts Hold & Win.jpg
+octoplay_slot,510142,Eagle Gold: Hold & Win,,assets/Dcace/Octoplay/Game ICON/Eagle Gold Hold & Win.jpg
+octoplay_slot,510143,Golden L'Hoot,,assets/Dcace/Octoplay/Game ICON/Golden L'Hoot.jpg
 parlaybay_sports,170000,stackem,,assets/Dcace/Parlaybay/Game Icon/170000_Stackem.png
 parlaybay_sports,170001,streak,,assets/Dcace/Parlaybay/Game Icon/170001_Streak.png
 parlaybay_sports,170002,Hot Bets,,assets/Dcace/Parlaybay/Game Icon/170002_Hot Bets.png
@@ -2774,6 +2836,8 @@ petersons_slot,300058,Abrakadabra,,assets/Dcace/Peter & Sons/Game Icon/Abrakadab
 petersons_slot,300059,Barbarossa Dragon Empire,,assets/Dcace/Peter & Sons/Game Icon/Barbarossa Dragon Empire.png
 petersons_slot,300060,Gnomes and Giants,,assets/Dcace/Peter & Sons/Game Icon/Gnomes and Giants.jpg
 petersons_slot,300061,Bad Santa,,assets/Dcace/Peter & Sons/Game Icon/Bad Santa.png
+petersons_slot,300062,Rust World,,assets/Dcace/Peter & Sons/Game Icon/Rust World.png
+petersons_slot,300063,Bunny Heist,,assets/Dcace/Peter & Sons/Game Icon/Bunny Heist.png
 pgsoft_slot,680001,Honey Trap of Diao Chan,,assets/Dcace/PG Soft/Game Icon/1_Honey Trap of Diao Chan.jpg
 pgsoft_slot,680002,Gem Saviour,,assets/Dcace/PG Soft/Game Icon/2_Gem Saviour.jpg
 pgsoft_slot,680003,Fortune Gods,,assets/Dcace/PG Soft/Game Icon/3_Fortune Gods.png
@@ -3040,6 +3104,7 @@ playace_live,640126,Baccarat L052,,assets/Dcace/PlayAce/Game Icon/Baccarat.png
 playace_live,640127,Baccarat L053,,assets/Dcace/PlayAce/Game Icon/Baccarat.png
 playace_live,640128,Baccarat L058,,assets/Dcace/PlayAce/Game Icon/Baccarat.png
 playgo_slot,160000,24k Dragon,,assets/Dcace/Play'n Go/Game Icon/160000_24k Dragon.png
+playgo_slot,160001,3-Hand Casino Hold'em,,assets/Dcace/Play'n Go/Game Icon/160001_3-Hand Casino Hold'em.png
 playgo_slot,160002,5x Magic,,assets/Dcace/Play'n Go/Game Icon/160002_5x Magic.png
 playgo_slot,160003,7 Sins,,assets/Dcace/Play'n Go/Game Icon/160003_7 Sins.png
 playgo_slot,160004,Ace of Spades,,assets/Dcace/Play'n Go/Game Icon/160004_Ace of Spades.png
@@ -3054,6 +3119,7 @@ playgo_slot,160012,Battle Royal,,assets/Dcace/Play'n Go/Game Icon/160012_Battle 
 playgo_slot,160015,Big Win 777,,assets/Dcace/Play'n Go/Game Icon/160015_Big Win 777.png
 playgo_slot,160016,Big Win Cat,,assets/Dcace/Play'n Go/Game Icon/160016_Big Win Cat.png
 playgo_slot,160017,Black Mamba,,assets/Dcace/Play'n Go/Game Icon/160017_Black Mamba.png
+playgo_slot,160018,BlackJack MH,,assets/Dcace/Play'n Go/Game Icon/160018_Black Jack MH.png
 playgo_slot,160019,Blinged,,assets/Dcace/Play'n Go/Game Icon/160019_Blinged.png
 playgo_slot,160020,Book of Dead,,assets/Dcace/Play'n Go/Game Icon/160020_Book of Dead.png
 playgo_slot,160022,Bull in a China Shop,,assets/Dcace/Play'n Go/Game Icon/160022_Bull in a China Shop.png
@@ -3077,12 +3143,15 @@ playgo_slot,160043,Demon,,assets/Dcace/Play'n Go/Game Icon/160043_Demon.png
 playgo_slot,160046,Disco Diamonds,,assets/Dcace/Play'n Go/Game Icon/160046_Disco Diamonds.png
 playgo_slot,160047,Divine Showdown,,assets/Dcace/Play'n Go/Game Icon/160047_Divine Showdown.png
 playgo_slot,160048,Doom of Egypt,,assets/Dcace/Play'n Go/Game Icon/160048_Doom of Egypt.png
+playgo_slot,160049,Double Exposure BlackJack MH,,assets/Dcace/Play'n Go/Game Icon/160049_Double Exposure BlackJack MH.jpg
 playgo_slot,160050,Dragon Maiden,,assets/Dcace/Play'n Go/Game Icon/160050_Dragon Maiden.png
 playgo_slot,160051,Dragon Ship,,assets/Dcace/Play'n Go/Game Icon/160051_Dragon Ship.png
 playgo_slot,160052,Easter Eggs,,assets/Dcace/Play'n Go/Game Icon/160052_Easter Eggs.png
 playgo_slot,160053,Enchanted Crystals,,assets/Dcace/Play'n Go/Game Icon/160053_Enchanted Crystals.png
 playgo_slot,160054,Enchanted Meadow,,assets/Dcace/Play'n Go/Game Icon/160054_Enchanted Meadow.png
 playgo_slot,160055,Energoonz,,assets/Dcace/Play'n Go/Game Icon/160055_Energoonz.png
+playgo_slot,160056,European BlackJack MH,,assets/Dcace/Play'n Go/Game Icon/160056_European BlackJack MH.jpg
+playgo_slot,160057,European Roulette Pro,,assets/Dcace/Play'n Go/Game Icon/160057_European Roulette Pro.png
 playgo_slot,160058,Eye of the Kraken,,assets/Dcace/Play'n Go/Game Icon/160058_Eye of the Kraken.png
 playgo_slot,160059,Feline Fury,,assets/Dcace/Play'n Go/Game Icon/160059_Feline Fury.png
 playgo_slot,160060,Fire Joker,,assets/Dcace/Play'n Go/Game Icon/160060_Fire Joker.png
@@ -3133,7 +3202,9 @@ playgo_slot,160121,Matsuri,,assets/Dcace/Play'n Go/Game Icon/160121_Matsuri.png
 playgo_slot,160122,Mermaid's Diamond,,assets/Dcace/Play'n Go/Game Icon/160122_Mermaid's Diamond.png
 playgo_slot,160123,Merry Xmas,,assets/Dcace/Play'n Go/Game Icon/160123_Merry Xmas.png
 playgo_slot,160124,Miner Donkey Trouble,,assets/Dcace/Play'n Go/Game Icon/160124_Miner Donkey Trouble.png
+playgo_slot,160125,Mini Baccarat,,assets/Dcace/Play'n Go/Game Icon/160125_Mini Baccarat.png
 playgo_slot,160126,Mission Cash,,assets/Dcace/Play'n Go/Game Icon/160126_Mission Cash.png
+playgo_slot,160127,Money Wheel,,assets/Dcace/Play'n Go/Game Icon/160127_Money Wheel.png
 playgo_slot,160128,Moon Princess,,assets/Dcace/Play'n Go/Game Icon/160128_Moon Princess.png
 playgo_slot,160129,MULTIFRUIT 81,,assets/Dcace/Play'n Go/Game Icon/160129_MULTIFRUIT 81.png
 playgo_slot,160130,Mystery Joker,,assets/Dcace/Play'n Go/Game Icon/160130_Mystery Joker.png
@@ -3175,6 +3246,7 @@ playgo_slot,160167,Sabaton,,assets/Dcace/Play'n Go/Game Icon/160167_Sabaton.png
 playgo_slot,160168,Sails of Gold,,assets/Dcace/Play'n Go/Game Icon/160168_Sails of Gold.png
 playgo_slot,160169,Samba Carnival,,assets/Dcace/Play'n Go/Game Icon/160169_Samba Carnival.png
 playgo_slot,160171,Sea Hunter,,assets/Dcace/Play'n Go/Game Icon/160171_Sea Hunter.png
+playgo_slot,160172,Single Deck BlackJack MH,,assets/Dcace/Play'n Go/Game Icon/160172_Single Deck.png
 playgo_slot,160173,Sizzling Spins,,assets/Dcace/Play'n Go/Game Icon/160173_Sizzling Spins.png
 playgo_slot,160174,Space Race,,assets/Dcace/Play'n Go/Game Icon/160174_Space Race.png
 playgo_slot,160176,Spin Party,,assets/Dcace/Play'n Go/Game Icon/160176_Spin Party.png
@@ -3182,6 +3254,7 @@ playgo_slot,160177,Star Joker,,assets/Dcace/Play'n Go/Game Icon/160177_Star Joke
 playgo_slot,160178,Sticky Joker,,assets/Dcace/Play'n Go/Game Icon/160178_Sticky Joker.png
 playgo_slot,160179,Street Magic,,assets/Dcace/Play'n Go/Game Icon/160179_Street Magic.png
 playgo_slot,160180,Super Flip,,assets/Dcace/Play'n Go/Game Icon/160180_Super Flip.png
+playgo_slot,160181,Super Wheel,,assets/Dcace/Play'n Go/Game Icon/160181_Super Wheel.png
 playgo_slot,160182,Sweet 27,,assets/Dcace/Play'n Go/Game Icon/160182_Sweet 27.png
 playgo_slot,160183,Sweet Alchemy,,assets/Dcace/Play'n Go/Game Icon/160183_Sweet Alchemy.png
 playgo_slot,160186,Testament,,assets/Dcace/Play'n Go/Game Icon/160186_Testament.png
@@ -3322,6 +3395,7 @@ playgo_slot,160327,Moon Princess Power of Love,,assets/Dcace/Play'n Go/Game Icon
 playgo_slot,160329,3 Clown Monty II,,assets/Dcace/Play'n Go/Game Icon/160329_3 Clown Monty II.jpg
 playgo_slot,160331,Banquet of Dead,,assets/Dcace/Play'n Go/Game Icon/160331_Banquet of Dead.jpg
 playgo_slot,160334,Boat Bonanza Down Under,,assets/Dcace/Play'n Go/Game Icon/160334_Boat Bonanza Down Under.jpg
+playgo_slot,160335,Casino Hold'em,,assets/Dcace/Play'n Go/Game Icon/160335_Casino Hold'em.png
 playgo_slot,160338,Chambers of Ancients,,assets/Dcace/Play'n Go/Game Icon/160338_Chambers of Ancients.jpg
 playgo_slot,160339,Colt Lightning,,assets/Dcace/Play'n Go/Game Icon/160339_Colt Lightning.png
 playgo_slot,160356,Legacy of Dynasties,,assets/Dcace/Play'n Go/Game Icon/160356_Legacy of Dynasties.jpg
@@ -3434,6 +3508,10 @@ playgo_slot,160476,Rise of Olympus 1000,,assets/Dcace/Play'n Go/Game Icon/Rise o
 playgo_slot,160477,Sails of Riches,,assets/Dcace/Play'n Go/Game Icon/Sails of Riches_.png
 playgo_slot,160478,Piggy Blitz Casino Gold High Limit,,assets/Dcace/Play'n Go/Game Icon/Piggy Blitz Casino Gold High Limit.png
 playgo_slot,160479,Barn Busters,,assets/Dcace/Play'n Go/Game Icon/Barn Busters.png
+playgo_slot,160483,Wild North Radiant Skies GO Collect,,assets/Dcace/Play'n Go/Game Icon/Wild North Radiant Skies GO Collect.png
+playgo_slot,160484,Book of Dead GO Collect,,assets/Dcace/Play'n Go/Game Icon/Book of Dead GO Collect.jpg
+playgo_slot,160485,Book of Dead GO Collect High Limit,,assets/Dcace/Play'n Go/Game Icon/Book of Dead GO Collect High Limit.png
+playgo_slot,160486,Mega Don Triple Threat,,assets/Dcace/Play'n Go/Game Icon/Mega Don Triple Threat.png
 playtech_live,650000,,,
 playtech_live,650001,Speed Baccarat Emperor,,assets/Dcace/PlayTech Casino/Game Icon/Speed Baccarat Emperor.png
 playtech_live,650002,Speed Baccarat Emperor NC,,assets/Dcace/PlayTech Casino/Game Icon/Speed Baccarat Emperor NC.png
@@ -3593,40 +3671,42 @@ playtech_live,650164,Baccarat VZN 2,,assets/Dcace/PlayTech Casino/Game Icon/Blac
 playtech_live,650165,Baccarat VZN 3,,assets/Dcace/PlayTech Casino/Game Icon/Blackjack VZN 3.png
 playtech_live,650166,Roleta Canarinho,,
 playtech_live,650167,Wonderland Lucky Ball,,
-pragmatic_live,101,Live Casino Lobby,,
-pragmatic_live,102,Roulette Lobby,,
-pragmatic_live,103,Blackjack Lobby,,
-pragmatic_live,104,Baccarat Lobby,,
-pragmatic_live,105,Gameshows,,
-pragmatic_live,107,Sic Bo,,
-pragmatic_live,108,Dragon Tiger,,
-pragmatic_live,109,Sic Bo & Dragon Tiger,,
-pragmatic_live,110,D&W,,
-pragmatic_live,111,Other Promos,,
-pragmatic_live,114,Asian Games,,
-pragmatic_live,123,Power Ball,,
+pragmatic_live,1001,Dragon Tiger,,assets/Others/Pragmatic/1001/1001_260x350_NB.png
+pragmatic_live,101,Live Casino Lobby,,assets/Others/Pragmatic/101/101_200x200_NB.png
+pragmatic_live,102,Roulette Lobby,,assets/Others/Pragmatic/102/102_200x200_NB.png
+pragmatic_live,1024,Andar Bahar,,assets/Others/Pragmatic/1024/1024_200x200_NB.png
+pragmatic_live,103,Blackjack Lobby,,assets/Others/Pragmatic/103/103_200x200_NB.png
+pragmatic_live,104,Baccarat Lobby,,assets/Others/Pragmatic/104/104_200x200_NB.png
+pragmatic_live,105,Gameshows,,assets/Others/Pragmatic/105/105_200x200_NB.png
+pragmatic_live,107,Sic Bo,,assets/Others/Pragmatic/107/107_200x200_NB.png
+pragmatic_live,108,Dragon Tiger,,assets/Others/Pragmatic/108/108_200x200_NB.png
+pragmatic_live,109,Sic Bo & Dragon Tiger,,assets/Others/Pragmatic/109/109_200x200_NB.png
+pragmatic_live,110,D&W,,assets/Others/Pragmatic/110/110_200x200_NB.png
+pragmatic_live,1101,Sweet Bonanza CandyLand,,assets/Others/Pragmatic/1101/1101_260x350_NB.png
+pragmatic_live,111,Other Promos,,assets/Others/Pragmatic/111/111_200x200_NB.png
+pragmatic_live,114,Asian Games,,assets/Others/Pragmatic/114/114_200x200_NB.png
+pragmatic_live,123,Power Ball,,assets/Others/Pragmatic/123/123_200x200_NB.png
+pragmatic_live,1301,Spaceman,,assets/Others/Pragmatic/1301/1301_260x350_NB.png
+pragmatic_live,1320,Big Bass Crash,,assets/Others/Pragmatic/1320/1320_260x350_NB.png
+pragmatic_live,1501,The Bingo Spot,,assets/Others/Pragmatic/1501/1501_260x350_NB.png
+pragmatic_live,1601,Snake & Ladders Live,,assets/Others/Pragmatic/1601/1601_260x350_NB.png
+pragmatic_live,1701,Treasure Island,,assets/Others/Pragmatic/1701/1701_260x350_NB.png
 pragmatic_live,203,Speed Roulette 1,,assets/Others/Pragmatic/203/203_260x350_NB.png
 pragmatic_live,204,Mega Roulette,,assets/Others/Pragmatic/204/204_260x350_NB.png
+pragmatic_live,2201,High Flyer,,assets/Others/Pragmatic/2201/2201_260x350_NB.png
 pragmatic_live,225,Auto Roulette,,assets/Others/Pragmatic/225/225_260x350_NB.png
-pragmatic_live,230,Roulette 3,,
+pragmatic_live,230,Roulette 3,,assets/Others/Pragmatic/230/230_200x200_NB.png
+pragmatic_live,230a20,Roulette 3,,assets/Others/Pragmatic/230a20/230a20_260x350_NB.png
 pragmatic_live,240,PowerUP Roulette,,assets/Others/Pragmatic/240/240_260x350_NB.png
-pragmatic_live,303,Blackjack 14,,
+pragmatic_live,2750,Money Time,,assets/Others/Pragmatic/2750/2750_260x350_NB.png
+pragmatic_live,303,Blackjack 14,,assets/Others/Pragmatic/303/303_200x200_NB.png
 pragmatic_live,401,Baccarat 1,,assets/Others/Pragmatic/401/401_260x350_NB.png
 pragmatic_live,402,Speed Baccarat 1,,assets/Others/Pragmatic/402/402_260x350_NB.png
 pragmatic_live,545,VIP Roulette,,assets/Others/Pragmatic/545/545_260x350_NB.png
 pragmatic_live,701,Mega Sic Bo,,assets/Others/Pragmatic/701/701_260x350_NB.png
 pragmatic_live,801,Mega Wheel,,assets/Others/Pragmatic/801/801_260x350_NB.png
 pragmatic_live,901,ONE Blackjack 1,,assets/Others/Pragmatic/901/901_260x350_NB.png
-pragmatic_live,1001,Dragon Tiger,,assets/Others/Pragmatic/1001/1001_260x350_NB.png
-pragmatic_live,1101,Sweet Bonanza CandyLand,,assets/Others/Pragmatic/1101/1101_260x350_NB.png
-pragmatic_live,1301,Spaceman,,assets/Others/Pragmatic/1301/1301_260x350_NB.png
-pragmatic_live,1320,Big Bass Crash,,assets/Others/Pragmatic/1320/1320_260x350_NB.png
-pragmatic_live,1501,The Bingo Spot,,assets/Others/Pragmatic/1501/1501_260x350_NB.png
-pragmatic_live,1601,Snake & Ladders Live,,assets/Others/Pragmatic/1601/1601_260x350_NB.png
-pragmatic_live,1701,Treasure Island,,assets/Others/Pragmatic/1701/1701_260x350_NB.png
-pragmatic_live,2201,High Flyer,,assets/Others/Pragmatic/2201/2201_260x350_NB.png
-pragmatic_live,2750,Money Time,,assets/Others/Pragmatic/2750/2750_260x350_NB.png
-pragmatic_live,230a20,Roulette 3,,assets/Others/Pragmatic/230a20/230a20_260x350_NB.png
+pragmatic_live,902,ONE Blackjack 2,,assets/Others/Pragmatic/902/902_200x200_NB.png
 pragmatic_live,902a9,ONE Blackjack 2,,assets/Others/Pragmatic/902a9/902a9_260x350_NB.png
 pragmatic_slot,ar10plinko,Plinko+,,assets/Others/Pragmatic/ar10plinko/ar10plinko_260x350_NB.png
 pragmatic_slot,ar1chickrush,Chicken+,,assets/Others/Pragmatic/ar1chickrush/ar1chickrush_260x350_NB.png
@@ -3638,31 +3718,31 @@ pragmatic_slot,bjma,Multihand Blackjack,,assets/Others/Pragmatic/bjma/bjma_260x3
 pragmatic_slot,bjmb,American Blackjack,,assets/Others/Pragmatic/bjmb/bjmb_260x350_NB.png
 pragmatic_slot,bnadvanced,Dragon Bonus Baccarat,,assets/Others/Pragmatic/bnadvanced/bnadvanced_260x350_NB.png
 pragmatic_slot,bndt,Dragon Tiger,,assets/Others/Pragmatic/bndt/bndt_260x350_NB.png
-pragmatic_slot,cs3irishcharms,Irish Charms,,
-pragmatic_slot,cs3w,Diamonds are Forever 3 Lines,,
-pragmatic_slot,cs5moneyroll,Money Roll,,
+pragmatic_slot,cs3irishcharms,Irish Charms,,assets/Others/Pragmatic/cs3irishcharms/cs3irishcharms_200x200_NB.png
+pragmatic_slot,cs3w,Diamonds are Forever 3 Lines,,assets/Others/Pragmatic/cs3w/cs3w_200x200_NB.png
+pragmatic_slot,cs5moneyroll,Money Roll,,assets/Others/Pragmatic/cs5moneyroll/cs5moneyroll_200x200_NB.png
 pragmatic_slot,rla,Roulette,,assets/Others/Pragmatic/rla/rla_260x350_NB.png
 pragmatic_slot,sc7piggies,"7 Piggies 5,000",,assets/Others/Pragmatic/sc7piggies/sc7piggies_260x350_NB.png
-pragmatic_slot,scdiamond,"Diamond Strike 100,000",,
+pragmatic_slot,scdiamond,"Diamond Strike 100,000",,assets/Others/Pragmatic/scdiamond/scdiamond_200x200_NB.png
 pragmatic_slot,scgoldrush,"Gold Rush 250,000",,assets/Others/Pragmatic/scgoldrush/scgoldrush_260x350_NB.png
 pragmatic_slot,scpanda,"Panda Gold 10,000",,assets/Others/Pragmatic/scpanda/scpanda_260x350_NB.png
-pragmatic_slot,scqog,"Queen of Gold 100,000",,
-pragmatic_slot,scsafari,"Hot Safari 50,000",,
+pragmatic_slot,scqog,"Queen of Gold 100,000",,assets/Others/Pragmatic/scqog/scqog_200x200_NB.png
+pragmatic_slot,scsafari,"Hot Safari 50,000",,assets/Others/Pragmatic/scsafari/scsafari_200x200_NB.png
 pragmatic_slot,scwolfgold,Wolf Gold 1 Million,,assets/Others/Pragmatic/scwolfgold/scwolfgold_260x350_NB.png
-pragmatic_slot,vs100firehot,Fire Hot 100,,
+pragmatic_slot,vs100firehot,Fire Hot 100,,assets/Others/Pragmatic/vs100firehot/vs100firehot_200x200_NB.png
 pragmatic_slot,vs100hsandks,Hundreds and Thousands,,assets/Others/Pragmatic/vs100hsandks/vs100hsandks_260x350_NB.png
-pragmatic_slot,vs100sh,Shining Hot 100,,
-pragmatic_slot,vs1024butterfly,Jade Butterfly,,
-pragmatic_slot,vs1024dtiger,The Dragon Tiger,,
-pragmatic_slot,vs1024fortune,Fortune Ace,,
-pragmatic_slot,vs1024gmayhem,Gorilla Mayhem,,
-pragmatic_slot,vs1024lionsd,5 Lions Dance,,
-pragmatic_slot,vs1024mahjpanda,Mahjong Panda,,
-pragmatic_slot,vs1024mahjwins,Mahjong Wins,,
+pragmatic_slot,vs100sh,Shining Hot 100,,assets/Others/Pragmatic/vs100sh/vs100sh_200x200_NB.png
+pragmatic_slot,vs1024butterfly,Jade Butterfly,,assets/Others/Pragmatic/vs1024butterfly/vs1024butterfly_200x200_NB.png
+pragmatic_slot,vs1024dtiger,The Dragon Tiger,,assets/Others/Pragmatic/vs1024dtiger/vs1024dtiger_200x200_NB.png
+pragmatic_slot,vs1024fortune,Fortune Ace,,assets/Others/Pragmatic/vs1024fortune/vs1024fortune_200x200_NB.png
+pragmatic_slot,vs1024gmayhem,Gorilla Mayhem,,assets/Others/Pragmatic/vs1024gmayhem/vs1024gmayhem_200x200_NB.png
+pragmatic_slot,vs1024lionsd,5 Lions Dance,,assets/Others/Pragmatic/vs1024lionsd/vs1024lionsd_200x200_NB.png
+pragmatic_slot,vs1024mahjpanda,Mahjong Panda,,assets/Others/Pragmatic/vs1024mahjpanda/vs1024mahjpanda_200x200_NB.png
+pragmatic_slot,vs1024mahjwins,Mahjong Wins,,assets/Others/Pragmatic/vs1024mahjwins/vs1024mahjwins_200x200_NB.png
 pragmatic_slot,vs1024mjwinbns,Mahjong Wins Bonus,,assets/Others/Pragmatic/vs1024mjwinbns/vs1024mjwinbns_260x350_NB.png
 pragmatic_slot,vs1024moonsh,Moonshot,,assets/Others/Pragmatic/vs1024moonsh/vs1024moonsh_260x350_NB.png
-pragmatic_slot,vs1024temuj,Temujin Treasures,,
-pragmatic_slot,vs10amm,Amazing Money Machine,,
+pragmatic_slot,vs1024temuj,Temujin Treasures,,assets/Others/Pragmatic/vs1024temuj/vs1024temuj_200x200_NB.png
+pragmatic_slot,vs10amm,Amazing Money Machine,,assets/Others/Pragmatic/vs10amm/vs10amm_200x200_NB.png
 pragmatic_slot,vs10bbbbrnd,Big Bass Boxing Bonus Round,,assets/Others/Pragmatic/vs10bbbbrnd/vs10bbbbrnd_260x350_NB.png
 pragmatic_slot,vs10bbbnz,Big Bass Day at the Races,,assets/Others/Pragmatic/vs10bbbnz/vs10bbbnz_260x350_NB.png
 pragmatic_slot,vs10bbbnz1000,Big Bass Bonanza 1000,,assets/Others/Pragmatic/vs10bbbnz1000/vs10bbbnz1000_260x350_NB.png
@@ -3676,7 +3756,7 @@ pragmatic_slot,vs10bbglxmas,Big Bass Christmas - Frozen Lake,,assets/Others/Prag
 pragmatic_slot,vs10bbhas,Big Bass - Hold & Spinner,,assets/Others/Pragmatic/vs10bbhas/vs10bbhas_260x350_NB.png
 pragmatic_slot,vs10bbkir,Big Bass Bonanza - Keeping it Reel,,assets/Others/Pragmatic/vs10bbkir/vs10bbkir_260x350_NB.png
 pragmatic_slot,vs10bblotgl,Big Bass - Secrets of the Golden Lake,,assets/Others/Pragmatic/vs10bblotgl/vs10bblotgl_260x350_NB.png
-pragmatic_slot,vs10bblpop,Bubble Pop,,
+pragmatic_slot,vs10bblpop,Bubble Pop,,assets/Others/Pragmatic/vs10bblpop/vs10bblpop_200x200_NB.png
 pragmatic_slot,vs10bbrcdr,Big Bass Raceday Repeat,,assets/Others/Pragmatic/vs10bbrcdr/vs10bbrcdr_260x350_NB.png
 pragmatic_slot,vs10bbrrp,Big Bass Reel Repeat,,assets/Others/Pragmatic/vs10bbrrp/vs10bbrrp_260x350_NB.png
 pragmatic_slot,vs10bbrttr,Big Bass Return to the Races,,assets/Others/Pragmatic/vs10bbrttr/vs10bbrttr_260x350_NB.png
@@ -3688,39 +3768,40 @@ pragmatic_slot,vs10beekeep,Bee Keeper,,assets/Others/Pragmatic/vs10beekeep/vs10b
 pragmatic_slot,vs10bhallbnza,Big Bass Halloween,,assets/Others/Pragmatic/vs10bhallbnza/vs10bhallbnza_260x350_NB.png
 pragmatic_slot,vs10bhallbnza2,Big Bass Halloween 2,,assets/Others/Pragmatic/vs10bhallbnza2/vs10bhallbnza2_260x350_NB.png
 pragmatic_slot,vs10bhallbnza3,Big Bass Halloween 3,,assets/Others/Pragmatic/vs10bhallbnza3/vs10bhallbnza3_260x350_NB.png
-pragmatic_slot,vs10bookazteck,Book of Aztec King,,
+pragmatic_slot,vs10bookazteck,Book of Aztec King,,assets/Others/Pragmatic/vs10bookazteck/vs10bookazteck_200x200_NB.png
 pragmatic_slot,vs10bookfallen,Book of Fallen,,assets/Others/Pragmatic/vs10bookfallen/vs10bookfallen_260x350_NB.png
 pragmatic_slot,vs10booklight,John Hunter and Galileo's Secrets,,assets/Others/Pragmatic/vs10booklight/vs10booklight_260x350_NB.png
 pragmatic_slot,vs10bookoftut,Book of Tut,,assets/Others/Pragmatic/vs10bookoftut/vs10bookoftut_260x350_NB.png
-pragmatic_slot,vs10bookviking,Book of Vikings,,
+pragmatic_slot,vs10bookviking,Book of Vikings,,assets/Others/Pragmatic/vs10bookviking/vs10bookviking_200x200_NB.png
 pragmatic_slot,vs10bxmasbnza,Christmas Big Bass Bonanza,,assets/Others/Pragmatic/vs10bxmasbnza/vs10bxmasbnza_260x350_NB.png
 pragmatic_slot,vs10cenrlgdevl,Knights vs Barbarians,,assets/Others/Pragmatic/vs10cenrlgdevl/vs10cenrlgdevl_260x350_NB.png
 pragmatic_slot,vs10chillihmr,Chilli Heat Spicy Spins,,assets/Others/Pragmatic/vs10chillihmr/vs10chillihmr_260x350_NB.png
-pragmatic_slot,vs10chkchase,Chicken Chase,,
-pragmatic_slot,vs10cowgold,Cowboys Gold,,
-pragmatic_slot,vs10crownfire,Crown of Fire,,
+pragmatic_slot,vs10chkchase,Chicken Chase,,assets/Others/Pragmatic/vs10chkchase/vs10chkchase_200x200_NB.png
+pragmatic_slot,vs10cowgold,Cowboys Gold,,assets/Others/Pragmatic/vs10cowgold/vs10cowgold_200x200_NB.png
+pragmatic_slot,vs10crownfire,Crown of Fire,,assets/Others/Pragmatic/vs10crownfire/vs10crownfire_200x200_NB.png
 pragmatic_slot,vs10ddcbells,Ding Dong Christmas Bells,,assets/Others/Pragmatic/vs10ddcbells/vs10ddcbells_260x350_NB.png
 pragmatic_slot,vs10dgold88,Dragon Gold 88,,assets/Others/Pragmatic/vs10dgold88/vs10dgold88_260x350_NB.png
 pragmatic_slot,vs10diamondrgh,Temple Guardians,,assets/Others/Pragmatic/vs10diamondrgh/vs10diamondrgh_260x350_NB.png
 pragmatic_slot,vs10djneko,DJ Neko,,assets/Others/Pragmatic/vs10djneko/vs10djneko_260x350_NB.png
 pragmatic_slot,vs10dkinghp,Dragon King Hot Pots,,assets/Others/Pragmatic/vs10dkinghp/vs10dkinghp_260x350_NB.png
+pragmatic_slot,vs10dmreels,Happy Dragon,,assets/Others/Pragmatic/vs10dmreels/vs10dmreels_200x200_NB.png
 pragmatic_slot,vs10dublin,Emerald King - Wheel of Wealth,,assets/Others/Pragmatic/vs10dublin/vs10dublin_260x350_NB.png
 pragmatic_slot,vs10dyndigd,Dynamite Diggin Doug,,assets/Others/Pragmatic/vs10dyndigd/vs10dyndigd_260x350_NB.png
-pragmatic_slot,vs10egrich,Queen of Gods,,
-pragmatic_slot,vs10egypt,Ancient Egypt,,
+pragmatic_slot,vs10egrich,Queen of Gods,,assets/Others/Pragmatic/vs10egrich/vs10egrich_200x200_NB.png
+pragmatic_slot,vs10egypt,Ancient Egypt,,assets/Others/Pragmatic/vs10egypt/vs10egypt_200x200_NB.png
 pragmatic_slot,vs10egyptcls,Ancient Egypt Classic,,assets/Others/Pragmatic/vs10egyptcls/vs10egyptcls_260x350_NB.png
 pragmatic_slot,vs10emotiwins,Emotiwins,,assets/Others/Pragmatic/vs10emotiwins/vs10emotiwins_260x350_NB.png
-pragmatic_slot,vs10eyestorm,Eye of the Storm,,
+pragmatic_slot,vs10eyestorm,Eye of the Storm,,assets/Others/Pragmatic/vs10eyestorm/vs10eyestorm_200x200_NB.png
 pragmatic_slot,vs10fangfree,Fangtastic Freespins,,assets/Others/Pragmatic/vs10fangfree/vs10fangfree_260x350_NB.png
 pragmatic_slot,vs10fdrasbf,Floating Dragon - Dragon Boat Festival,,assets/Others/Pragmatic/vs10fdrasbf/vs10fdrasbf_260x350_NB.png
 pragmatic_slot,vs10fdsnake,Floating Dragon - Year of the Snake,,assets/Others/Pragmatic/vs10fdsnake/vs10fdsnake_260x350_NB.png
 pragmatic_slot,vs10fdwhorses,Floating Dragon Wild Horses,,assets/Others/Pragmatic/vs10fdwhorses/vs10fdwhorses_260x350_NB.png
 pragmatic_slot,vs10fingerlfs,Finger Lick'n Free Spins,,assets/Others/Pragmatic/vs10fingerlfs/vs10fingerlfs_260x350_NB.png
 pragmatic_slot,vs10fireice,Escape the Pyramid - Fire & Ice,,assets/Others/Pragmatic/vs10fireice/vs10fireice_260x350_NB.png
-pragmatic_slot,vs10firestrike,Fire Strike,,
-pragmatic_slot,vs10firestrike2,Fire Strike 2,,
+pragmatic_slot,vs10firestrike,Fire Strike,,assets/Others/Pragmatic/vs10firestrike/vs10firestrike_200x200_NB.png
+pragmatic_slot,vs10firestrike2,Fire Strike 2,,assets/Others/Pragmatic/vs10firestrike2/vs10firestrike2_200x200_NB.png
 pragmatic_slot,vs10fisheye,Fish Eye,,assets/Others/Pragmatic/vs10fisheye/vs10fisheye_260x350_NB.png
-pragmatic_slot,vs10floatdrg,Floating Dragon,,
+pragmatic_slot,vs10floatdrg,Floating Dragon,,assets/Others/Pragmatic/vs10floatdrg/vs10floatdrg_200x200_NB.png
 pragmatic_slot,vs10fonzofff,Fonzo's Feline Fortunes,,assets/Others/Pragmatic/vs10fonzofff/vs10fonzofff_260x350_NB.png
 pragmatic_slot,vs10fortnpig,Greedy Fortune Pig,,assets/Others/Pragmatic/vs10fortnpig/vs10fortnpig_260x350_NB.png
 pragmatic_slot,vs10frontrun,Odds On Winner,,assets/Others/Pragmatic/vs10frontrun/vs10frontrun_260x350_NB.png
@@ -3728,41 +3809,41 @@ pragmatic_slot,vs10fruity2,Extra Juicy,,assets/Others/Pragmatic/vs10fruity2/vs10
 pragmatic_slot,vs10gbseries,Fiesta Fortune,,assets/Others/Pragmatic/vs10gbseries/vs10gbseries_260x350_NB.png
 pragmatic_slot,vs10gdchalleng,8 Golden Dragon Challenge,,assets/Others/Pragmatic/vs10gdchalleng/vs10gdchalleng_260x350_NB.png
 pragmatic_slot,vs10gizagods,Gods of Giza,,assets/Others/Pragmatic/vs10gizagods/vs10gizagods_260x350_NB.png
-pragmatic_slot,vs10goldfish,Fishin Reels,,
+pragmatic_slot,vs10goldfish,Fishin Reels,,assets/Others/Pragmatic/vs10goldfish/vs10goldfish_200x200_NB.png
 pragmatic_slot,vs10hottb7fs,Hot to Burn 7 Deadly Free Spins,,assets/Others/Pragmatic/vs10hottb7fs/vs10hottb7fs_260x350_NB.png
 pragmatic_slot,vs10hottuna,Hot Tuna,,assets/Others/Pragmatic/vs10hottuna/vs10hottuna_260x350_NB.png
 pragmatic_slot,vs10jnmntzma,Jane Hunter and the Mask of Montezuma,,assets/Others/Pragmatic/vs10jnmntzma/vs10jnmntzma_260x350_NB.png
 pragmatic_slot,vs10jokerhot,Joker's Jewels Hot,,assets/Others/Pragmatic/vs10jokerhot/vs10jokerhot_260x350_NB.png
 pragmatic_slot,vs10jpblaze,Jackpot Blaze,,assets/Others/Pragmatic/vs10jpblaze/vs10jpblaze_260x350_NB.png
 pragmatic_slot,vs10kingofdth,Kingdom of the Dead,,assets/Others/Pragmatic/vs10kingofdth/vs10kingofdth_260x350_NB.png
-pragmatic_slot,vs10luckcharm,"Lucky, Grace & Charm",,
+pragmatic_slot,vs10luckcharm,"Lucky, Grace & Charm",,assets/Others/Pragmatic/vs10luckcharm/vs10luckcharm_200x200_NB.png
 pragmatic_slot,vs10luckfort,Good Luck & Good Fortune,,assets/Others/Pragmatic/vs10luckfort/vs10luckfort_260x350_NB.png
 pragmatic_slot,vs10luckybnz,Sweet Burst,,assets/Others/Pragmatic/vs10luckybnz/vs10luckybnz_260x350_NB.png
-pragmatic_slot,vs10madame,Madame Destiny,,
-pragmatic_slot,vs10mayangods,John Hunter And The Mayan Gods,,
-pragmatic_slot,vs10mmm,Magic Money Maze,,
+pragmatic_slot,vs10madame,Madame Destiny,,assets/Others/Pragmatic/vs10madame/vs10madame_200x200_NB.png
+pragmatic_slot,vs10mayangods,John Hunter And The Mayan Gods,,assets/Others/Pragmatic/vs10mayangods/vs10mayangods_200x200_NB.png
+pragmatic_slot,vs10mmm,Magic Money Maze,,assets/Others/Pragmatic/vs10mmm/vs10mmm_200x200_NB.png
 pragmatic_slot,vs10noodles,Oodles of Noodles,,assets/Others/Pragmatic/vs10noodles/vs10noodles_260x350_NB.png
-pragmatic_slot,vs10nudgeit,Rise of Giza PowerNudge,,
+pragmatic_slot,vs10nudgeit,Rise of Giza PowerNudge,,assets/Others/Pragmatic/vs10nudgeit/vs10nudgeit_200x200_NB.png
 pragmatic_slot,vs10piggybank,You Can Piggy Bank On It,,assets/Others/Pragmatic/vs10piggybank/vs10piggybank_260x350_NB.png
 pragmatic_slot,vs10powerlines,Peak Power,,assets/Others/Pragmatic/vs10powerlines/vs10powerlines_260x350_NB.png
-pragmatic_slot,vs10returndead,Return of the Dead,,
-pragmatic_slot,vs10runes,Gates of Valhalla,,
+pragmatic_slot,vs10returndead,Return of the Dead,,assets/Others/Pragmatic/vs10returndead/vs10returndead_200x200_NB.png
+pragmatic_slot,vs10runes,Gates of Valhalla,,assets/Others/Pragmatic/vs10runes/vs10runes_200x200_NB.png
 pragmatic_slot,vs10santasl,Santa's Slay,,assets/Others/Pragmatic/vs10santasl/vs10santasl_260x350_NB.png
-pragmatic_slot,vs10snakeeyes,Snakes & Ladders - Snake Eyes,,
-pragmatic_slot,vs10snakeladd,Snakes and Ladders Megadice,,
+pragmatic_slot,vs10snakeeyes,Snakes & Ladders - Snake Eyes,,assets/Others/Pragmatic/vs10snakeeyes/vs10snakeeyes_200x200_NB.png
+pragmatic_slot,vs10snakeladd,Snakes and Ladders Megadice,,assets/Others/Pragmatic/vs10snakeladd/vs10snakeladd_200x200_NB.png
 pragmatic_slot,vs10spellmastr,Spellmaster,,assets/Others/Pragmatic/vs10spellmastr/vs10spellmastr_260x350_NB.png
-pragmatic_slot,vs10spiritadv,Spirit of Adventure,,
-pragmatic_slot,vs10starpirate,Star Pirates Code,,
+pragmatic_slot,vs10spiritadv,Spirit of Adventure,,assets/Others/Pragmatic/vs10spiritadv/vs10spiritadv_200x200_NB.png
+pragmatic_slot,vs10starpirate,Star Pirates Code,,assets/Others/Pragmatic/vs10starpirate/vs10starpirate_200x200_NB.png
 pragmatic_slot,vs10stmreels,Steamin' Reels,,assets/Others/Pragmatic/vs10stmreels/vs10stmreels_260x350_NB.png
 pragmatic_slot,vs10strawberry,Strawberry Cocktail,,assets/Others/Pragmatic/vs10strawberry/vs10strawberry_260x350_NB.png
-pragmatic_slot,vs10threestar,Three Star Fortune,,
-pragmatic_slot,vs10tictac,Tic Tac Take,,
+pragmatic_slot,vs10threestar,Three Star Fortune,,assets/Others/Pragmatic/vs10threestar/vs10threestar_200x200_NB.png
+pragmatic_slot,vs10tictac,Tic Tac Take,,assets/Others/Pragmatic/vs10tictac/vs10tictac_200x200_NB.png
 pragmatic_slot,vs10trail,Mustang Trail,,assets/Others/Pragmatic/vs10trail/vs10trail_260x350_NB.png
-pragmatic_slot,vs10tut,Book Of Tut Respin,,
+pragmatic_slot,vs10tut,Book Of Tut Respin,,assets/Others/Pragmatic/vs10tut/vs10tut_200x200_NB.png
 pragmatic_slot,vs10txbigbass,Big Bass Splash,,assets/Others/Pragmatic/vs10txbigbass/vs10txbigbass_260x350_NB.png
-pragmatic_slot,vs10vampwolf,Vampires vs Wolves,,
-pragmatic_slot,vs10wildtut,Mysterious Egypt,,
-pragmatic_slot,vs117649starz,Starz Megaways,,
+pragmatic_slot,vs10vampwolf,Vampires vs Wolves,,assets/Others/Pragmatic/vs10vampwolf/vs10vampwolf_200x200_NB.png
+pragmatic_slot,vs10wildtut,Mysterious Egypt,,assets/Others/Pragmatic/vs10wildtut/vs10wildtut_200x200_NB.png
+pragmatic_slot,vs117649starz,Starz Megaways,,assets/Others/Pragmatic/vs117649starz/vs117649starz_200x200_NB.png
 pragmatic_slot,vs12bbb,Bigger Bass Bonanza,,assets/Others/Pragmatic/vs12bbb/vs12bbb_260x350_NB.png
 pragmatic_slot,vs12bbbxmas,Bigger Bass Blizzard - Christmas Catch,,assets/Others/Pragmatic/vs12bbbxmas/vs12bbbxmas_260x350_NB.png
 pragmatic_slot,vs12bgrbspl,Bigger Bass Splash,,assets/Others/Pragmatic/vs12bgrbspl/vs12bgrbspl_260x350_NB.png
@@ -3775,52 +3856,53 @@ pragmatic_slot,vs15eyeofspart,Eye of Spartacus,,assets/Others/Pragmatic/vs15eyeo
 pragmatic_slot,vs15fairytale,Fairytale Fortune,,assets/Others/Pragmatic/vs15fairytale/vs15fairytale_260x350_NB.png
 pragmatic_slot,vs15fghtmultlv,Angel vs Sinner,,assets/Others/Pragmatic/vs15fghtmultlv/vs15fghtmultlv_260x350_NB.png
 pragmatic_slot,vs15godsofwar,Zeus vs Hades - Gods of War,,assets/Others/Pragmatic/vs15godsofwar/vs15godsofwar_260x350_NB.png
-pragmatic_slot,vs15samurai4,Rise of Samurai 4,,
-pragmatic_slot,vs15seoultrain,Zombie Train,,
+pragmatic_slot,vs15samurai4,Rise of Samurai 4,,assets/Others/Pragmatic/vs15samurai4/vs15samurai4_200x200_NB.png
+pragmatic_slot,vs15seoultrain,Zombie Train,,assets/Others/Pragmatic/vs15seoultrain/vs15seoultrain_200x200_NB.png
 pragmatic_slot,vs15zeushadseq,Zeus vs Hades - Gods of War 250,,assets/Others/Pragmatic/vs15zeushadseq/vs15zeushadseq_260x350_NB.png
-pragmatic_slot,vs1600drago,Drago - Jewels of Fortune,,
-pragmatic_slot,vs18mashang,Treasure Horse,,
-pragmatic_slot,vs1ball,Lucky Dragon Ball,,
-pragmatic_slot,vs1dragon8,888 Dragons,,
+pragmatic_slot,vs1600drago,Drago - Jewels of Fortune,,assets/Others/Pragmatic/vs1600drago/vs1600drago_200x200_NB.png
+pragmatic_slot,vs18mashang,Treasure Horse,,assets/Others/Pragmatic/vs18mashang/vs18mashang_200x200_NB.png
+pragmatic_slot,vs1ball,Lucky Dragon Ball,,assets/Others/Pragmatic/vs1ball/vs1ball_200x200_NB.png
+pragmatic_slot,vs1dragon8,888 Dragons,,assets/Others/Pragmatic/vs1dragon8/vs1dragon8_200x200_NB.png
 pragmatic_slot,vs1dragon888,Plushie Wins,,assets/Others/Pragmatic/vs1dragon888/vs1dragon888_260x350_NB.png
-pragmatic_slot,vs1fortunetree,Tree of Riches,,
-pragmatic_slot,vs1fufufu,Fu Fu Fu,,
-pragmatic_slot,vs1masterjoker,Master Joker,,
+pragmatic_slot,vs1fortunetree,Tree of Riches,,assets/Others/Pragmatic/vs1fortunetree/vs1fortunetree_200x200_NB.png
+pragmatic_slot,vs1fufufu,Fu Fu Fu,,assets/Others/Pragmatic/vs1fufufu/vs1fufufu_200x200_NB.png
+pragmatic_slot,vs1masterjoker,Master Joker,,assets/Others/Pragmatic/vs1masterjoker/vs1masterjoker_200x200_NB.png
 pragmatic_slot,vs1mjokfp,Master Gems,,assets/Others/Pragmatic/vs1mjokfp/vs1mjokfp_260x350_NB.png
-pragmatic_slot,vs1money,Money Money Money,,
-pragmatic_slot,vs1tigers,Triple Tigers,,
-pragmatic_slot,vs20aladdinsorc,Aladdin and the Sorcerer,,
+pragmatic_slot,vs1money,Money Money Money,,assets/Others/Pragmatic/vs1money/vs1money_200x200_NB.png
+pragmatic_slot,vs1tigers,Triple Tigers,,assets/Others/Pragmatic/vs1tigers/vs1tigers_200x200_NB.png
+pragmatic_slot,vs20aladdinsorc,Aladdin and the Sorcerer,,assets/Others/Pragmatic/vs20aladdinsorc/vs20aladdinsorc_200x200_NB.png
 pragmatic_slot,vs20alieninv,Alien Invaders,,assets/Others/Pragmatic/vs20alieninv/vs20alieninv_260x350_NB.png
-pragmatic_slot,vs20amuleteg,Fortune of Giza,,
-pragmatic_slot,vs20asgard,Kingdom of Asgard,,
-pragmatic_slot,vs20aztecgates,Gates of Aztec,,
+pragmatic_slot,vs20amuleteg,Fortune of Giza,,assets/Others/Pragmatic/vs20amuleteg/vs20amuleteg_200x200_NB.png
+pragmatic_slot,vs20asgard,Kingdom of Asgard,,assets/Others/Pragmatic/vs20asgard/vs20asgard_200x200_NB.png
+pragmatic_slot,vs20aztecgates,Gates of Aztec,,assets/Others/Pragmatic/vs20aztecgates/vs20aztecgates_200x200_NB.png
 pragmatic_slot,vs20bblitz,Money Stacks,,assets/Others/Pragmatic/vs20bblitz/vs20bblitz_260x350_NB.png
-pragmatic_slot,vs20bchprty,Wild Beach Party,,
+pragmatic_slot,vs20bchprty,Wild Beach Party,,assets/Others/Pragmatic/vs20bchprty/vs20bchprty_200x200_NB.png
 pragmatic_slot,vs20beefed,Fat Panda,,assets/Others/Pragmatic/vs20beefed/vs20beefed_260x350_NB.png
-pragmatic_slot,vs20bermuda,Bermuda Riches,,
+pragmatic_slot,vs20bermuda,Bermuda Riches,,assets/Others/Pragmatic/vs20bermuda/vs20bermuda_200x200_NB.png
 pragmatic_slot,vs20bhunter,Bounty Hunter,,assets/Others/Pragmatic/vs20bhunter/vs20bhunter_260x350_NB.png
 pragmatic_slot,vs20bigdawgs,The Big Dawgs,,assets/Others/Pragmatic/vs20bigdawgs/vs20bigdawgs_260x350_NB.png
 pragmatic_slot,vs20bigmass,Waves of Poseidon,,assets/Others/Pragmatic/vs20bigmass/vs20bigmass_260x350_NB.png
 pragmatic_slot,vs20bison,Release the Bison,,assets/Others/Pragmatic/vs20bison/vs20bison_260x350_NB.png
-pragmatic_slot,vs20bl,Busy Bees,,
-pragmatic_slot,vs20bnnzdice,Sweet Bonanza Dice,,
-pragmatic_slot,vs20buddhasgg,Laughing Fortune,,
+pragmatic_slot,vs20bl,Busy Bees,,assets/Others/Pragmatic/vs20bl/vs20bl_200x200_NB.png
+pragmatic_slot,vs20bnnzdice,Sweet Bonanza Dice,,assets/Others/Pragmatic/vs20bnnzdice/vs20bnnzdice_200x200_NB.png
+pragmatic_slot,vs20buddhasgg,Laughing Fortune,,assets/Others/Pragmatic/vs20buddhasgg/vs20buddhasgg_200x200_NB.png
 pragmatic_slot,vs20candyblitz,Candy Blitz,,assets/Others/Pragmatic/vs20candyblitz/vs20candyblitz_260x350_NB.png
 pragmatic_slot,vs20candybltz2,Candy Blitz Bombs,,assets/Others/Pragmatic/vs20candybltz2/vs20candybltz2_260x350_NB.png
 pragmatic_slot,vs20cashmachine,Cash Box,,assets/Others/Pragmatic/vs20cashmachine/vs20cashmachine_260x350_NB.png
-pragmatic_slot,vs20cbrhst,Cyber Heist,,
+pragmatic_slot,vs20cbrhst,Cyber Heist,,assets/Others/Pragmatic/vs20cbrhst/vs20cbrhst_200x200_NB.png
 pragmatic_slot,vs20chestcol,Sweet Craze,,assets/Others/Pragmatic/vs20chestcol/vs20chestcol_260x350_NB.png
-pragmatic_slot,vs20chickdrop,Chicken Drop,,
-pragmatic_slot,vs20chicken,The Great Chicken Escape,,
+pragmatic_slot,vs20chickdrop,Chicken Drop,,assets/Others/Pragmatic/vs20chickdrop/vs20chickdrop_200x200_NB.png
+pragmatic_slot,vs20chicken,The Great Chicken Escape,,assets/Others/Pragmatic/vs20chicken/vs20chicken_200x200_NB.png
 pragmatic_slot,vs20cjcluster,Candy Jar Clusters,,assets/Others/Pragmatic/vs20cjcluster/vs20cjcluster_260x350_NB.png
-pragmatic_slot,vs20cleocatra,Cleocatra,,
+pragmatic_slot,vs20cleocatra,Cleocatra,,assets/Others/Pragmatic/vs20cleocatra/vs20cleocatra_200x200_NB.png
 pragmatic_slot,vs20clreacts,Moleionaire,,assets/Others/Pragmatic/vs20clreacts/vs20clreacts_260x350_NB.png
-pragmatic_slot,vs20clspwrndg,Sweet Powernudge,,
+pragmatic_slot,vs20clspwrndg,Sweet Powernudge,,assets/Others/Pragmatic/vs20clspwrndg/vs20clspwrndg_200x200_NB.png
 pragmatic_slot,vs20clustcol,Sweet Kingdom,,assets/Others/Pragmatic/vs20clustcol/vs20clustcol_260x350_NB.png
+pragmatic_slot,vs20clustersw,Snow Party,,assets/Others/Pragmatic/vs20clustersw/vs20clustersw_200x200_NB.png
 pragmatic_slot,vs20clustext,Gears of Horus,,assets/Others/Pragmatic/vs20clustext/vs20clustext_260x350_NB.png
 pragmatic_slot,vs20clustwild,Sticky Bees,,assets/Others/Pragmatic/vs20clustwild/vs20clustwild_260x350_NB.png
-pragmatic_slot,vs20cms,Sugar Rush Summer Time,,
-pragmatic_slot,vs20colcashzone,Colossal Cash Zone,,
+pragmatic_slot,vs20cms,Sugar Rush Summer Time,,assets/Others/Pragmatic/vs20cms/vs20cms_200x200_NB.png
+pragmatic_slot,vs20colcashzone,Colossal Cash Zone,,assets/Others/Pragmatic/vs20colcashzone/vs20colcashzone_200x200_NB.png
 pragmatic_slot,vs20crankit,Crank it Up,,assets/Others/Pragmatic/vs20crankit/vs20crankit_260x350_NB.png
 pragmatic_slot,vs20daydead,Day of Dead,,assets/Others/Pragmatic/vs20daydead/vs20daydead_260x350_NB.png
 pragmatic_slot,vs20devilic,Devilicious,,assets/Others/Pragmatic/vs20devilic/vs20devilic_260x350_NB.png
@@ -3833,25 +3915,25 @@ pragmatic_slot,vs20doghouse,The Dog House,,assets/Others/Pragmatic/vs20doghouse/
 pragmatic_slot,vs20doghouse2,The Dog House - Dog or Alive,,assets/Others/Pragmatic/vs20doghouse2/vs20doghouse2_260x350_NB.png
 pragmatic_slot,vs20doghousemh,The Dog House Multihold,,assets/Others/Pragmatic/vs20doghousemh/vs20doghousemh_260x350_NB.png
 pragmatic_slot,vs20drgbless,Dragon Hero,,assets/Others/Pragmatic/vs20drgbless/vs20drgbless_260x350_NB.png
-pragmatic_slot,vs20drtgold,Drill That Gold,,
-pragmatic_slot,vs20dugems,Hot Pepper,,
+pragmatic_slot,vs20drtgold,Drill That Gold,,assets/Others/Pragmatic/vs20drtgold/vs20drtgold_200x200_NB.png
+pragmatic_slot,vs20dugems,Hot Pepper,,assets/Others/Pragmatic/vs20dugems/vs20dugems_200x200_NB.png
 pragmatic_slot,vs20earthquake,Cyclops Smash,,assets/Others/Pragmatic/vs20earthquake/vs20earthquake_260x350_NB.png
 pragmatic_slot,vs20egypttrs,Egyptian Fortunes,,assets/Others/Pragmatic/vs20egypttrs/vs20egypttrs_260x350_NB.png
-pragmatic_slot,vs20eightdragons,8 Dragons,,
+pragmatic_slot,vs20eightdragons,8 Dragons,,assets/Others/Pragmatic/vs20eightdragons/vs20eightdragons_200x200_NB.png
 pragmatic_slot,vs20eking,Emerald King,,assets/Others/Pragmatic/vs20eking/vs20eking_260x350_NB.png
 pragmatic_slot,vs20ekingrr,Emerald King Rainbow Road,,assets/Others/Pragmatic/vs20ekingrr/vs20ekingrr_260x350_NB.png
 pragmatic_slot,vs20elevclust,Gem Elevator,,assets/Others/Pragmatic/vs20elevclust/vs20elevclust_260x350_NB.png
-pragmatic_slot,vs20emptybank,Empty the Bank,,
+pragmatic_slot,vs20emptybank,Empty the Bank,,assets/Others/Pragmatic/vs20emptybank/vs20emptybank_200x200_NB.png
 pragmatic_slot,vs20excalibur,Excalibur Unleashed,,assets/Others/Pragmatic/vs20excalibur/vs20excalibur_260x350_NB.png
-pragmatic_slot,vs20farmfest,Barn Festival,,
+pragmatic_slot,vs20farmfest,Barn Festival,,assets/Others/Pragmatic/vs20farmfest/vs20farmfest_200x200_NB.png
 pragmatic_slot,vs20fatbook,Book of Monsters,,assets/Others/Pragmatic/vs20fatbook/vs20fatbook_260x350_NB.png
-pragmatic_slot,vs20fh,Fire Hot 20,,
+pragmatic_slot,vs20fh,Fire Hot 20,,assets/Others/Pragmatic/vs20fh/vs20fh_200x200_NB.png
 pragmatic_slot,vs20fishptrn,Happy Nets,,assets/Others/Pragmatic/vs20fishptrn/vs20fishptrn_260x350_NB.png
 pragmatic_slot,vs20forge,Forge of Olympus,,assets/Others/Pragmatic/vs20forge/vs20forge_260x350_NB.png
 pragmatic_slot,vs20forgewilds,Forging Wilds,,assets/Others/Pragmatic/vs20forgewilds/vs20forgewilds_260x350_NB.png
 pragmatic_slot,vs20fortbon,Fruity Treats,,assets/Others/Pragmatic/vs20fortbon/vs20fortbon_260x350_NB.png
 pragmatic_slot,vs20fourmc,Candy Corner,,assets/Others/Pragmatic/vs20fourmc/vs20fourmc_260x350_NB.png
-pragmatic_slot,vs20fparty2,Fruit Party 2,,
+pragmatic_slot,vs20fparty2,Fruit Party 2,,assets/Others/Pragmatic/vs20fparty2/vs20fparty2_200x200_NB.png
 pragmatic_slot,vs20framazon,Fruits of the Amazon,,assets/Others/Pragmatic/vs20framazon/vs20framazon_260x350_NB.png
 pragmatic_slot,vs20frankie,Frightening Frankie,,assets/Others/Pragmatic/vs20frankie/vs20frankie_260x350_NB.png
 pragmatic_slot,vs20fruitparty,Fruit Party,,assets/Others/Pragmatic/vs20fruitparty/vs20fruitparty_260x350_NB.png
@@ -3863,103 +3945,105 @@ pragmatic_slot,vs20gatotx,Gates of Gatot Kaca 1000,,assets/Others/Pragmatic/vs20
 pragmatic_slot,vs20gembondx,Bow of Artemis,,assets/Others/Pragmatic/vs20gembondx/vs20gembondx_260x350_NB.png
 pragmatic_slot,vs20gemfirefor,Gem Fire Fortune,,assets/Others/Pragmatic/vs20gemfirefor/vs20gemfirefor_260x350_NB.png
 pragmatic_slot,vs20gengembnz,Genie's Gem Bonanza,,assets/Others/Pragmatic/vs20gengembnz/vs20gengembnz_260x350_NB.png
-pragmatic_slot,vs20gobnudge,Goblin Heist Powernudge,,
-pragmatic_slot,vs20godiva,Lady Godiva,,
+pragmatic_slot,vs20gobnudge,Goblin Heist Powernudge,,assets/Others/Pragmatic/vs20gobnudge/vs20gobnudge_200x200_NB.png
+pragmatic_slot,vs20godiva,Lady Godiva,,assets/Others/Pragmatic/vs20godiva/vs20godiva_200x200_NB.png
 pragmatic_slot,vs20goldclust,Rabbit Garden,,assets/Others/Pragmatic/vs20goldclust/vs20goldclust_260x350_NB.png
 pragmatic_slot,vs20goldfever,Gems Bonanza,,assets/Others/Pragmatic/vs20goldfever/vs20goldfever_260x350_NB.png
-pragmatic_slot,vs20gorilla,Jungle Gorilla,,
+pragmatic_slot,vs20gorilla,Jungle Gorilla,,assets/Others/Pragmatic/vs20gorilla/vs20gorilla_200x200_NB.png
 pragmatic_slot,vs20gravity,Gravity Bonanza,,assets/Others/Pragmatic/vs20gravity/vs20gravity_260x350_NB.png
 pragmatic_slot,vs20gtsofhades,Gates of Hades,,assets/Others/Pragmatic/vs20gtsofhades/vs20gtsofhades_260x350_NB.png
-pragmatic_slot,vs20hburnhs,Hot to Burn Hold and Spin,,
+pragmatic_slot,vs20hburnhs,Hot to Burn Hold and Spin,,assets/Others/Pragmatic/vs20hburnhs/vs20hburnhs_200x200_NB.png
 pragmatic_slot,vs20heartcleo,Heart of Cleopatra,,assets/Others/Pragmatic/vs20heartcleo/vs20heartcleo_260x350_NB.png
-pragmatic_slot,vs20hercpeg,Hercules and Pegasus,,
-pragmatic_slot,vs20hockey,Hockey League,,
-pragmatic_slot,vs20honey,Honey Honey Honey,,
+pragmatic_slot,vs20hercpeg,Hercules and Pegasus,,assets/Others/Pragmatic/vs20hercpeg/vs20hercpeg_200x200_NB.png
+pragmatic_slot,vs20hockey,Hockey League,,assets/Others/Pragmatic/vs20hockey/vs20hockey_200x200_NB.png
+pragmatic_slot,vs20honey,Honey Honey Honey,,assets/Others/Pragmatic/vs20honey/vs20honey_200x200_NB.png
 pragmatic_slot,vs20hotzone,African Elephant,,assets/Others/Pragmatic/vs20hotzone/vs20hotzone_260x350_NB.png
 pragmatic_slot,vs20hstgldngt,Heist for the Golden Nuggets,,assets/Others/Pragmatic/vs20hstgldngt/vs20hstgldngt_260x350_NB.png
 pragmatic_slot,vs20irishcrown,Irish Crown,,assets/Others/Pragmatic/vs20irishcrown/vs20irishcrown_260x350_NB.png
 pragmatic_slot,vs20jewelparty,Jewel Rush,,assets/Others/Pragmatic/vs20jewelparty/vs20jewelparty_260x350_NB.png
 pragmatic_slot,vs20jhunter,Jackpot Hunter,,assets/Others/Pragmatic/vs20jhunter/vs20jhunter_260x350_NB.png
 pragmatic_slot,vs20jjjack,Jumbo Safari,,assets/Others/Pragmatic/vs20jjjack/vs20jjjack_260x350_NB.png
-pragmatic_slot,vs20kraken,Release the Kraken,,
-pragmatic_slot,vs20kraken2,Release the Kraken 2,,
+pragmatic_slot,vs20kraken,Release the Kraken,,assets/Others/Pragmatic/vs20kraken/vs20kraken_200x200_NB.png
+pragmatic_slot,vs20kraken2,Release the Kraken 2,,assets/Others/Pragmatic/vs20kraken2/vs20kraken2_200x200_NB.png
 pragmatic_slot,vs20lampinf,Lamp Of Infinity,,assets/Others/Pragmatic/vs20lampinf/vs20lampinf_260x350_NB.png
-pragmatic_slot,vs20laughluck,Happy Fortune,,
+pragmatic_slot,vs20laughluck,Happy Fortune,,assets/Others/Pragmatic/vs20laughluck/vs20laughluck_200x200_NB.png
 pragmatic_slot,vs20lbstrhouse,Lobster House,,assets/Others/Pragmatic/vs20lbstrhouse/vs20lbstrhouse_260x350_NB.png
-pragmatic_slot,vs20lcount,Gems of Serengeti,,
-pragmatic_slot,vs20leprechaun,Leprechaun Song,,
-pragmatic_slot,vs20leprexmas,Leprechaun Carol,,
+pragmatic_slot,vs20lcount,Gems of Serengeti,,assets/Others/Pragmatic/vs20lcount/vs20lcount_200x200_NB.png
+pragmatic_slot,vs20leprechaun,Leprechaun Song,,assets/Others/Pragmatic/vs20leprechaun/vs20leprechaun_200x200_NB.png
+pragmatic_slot,vs20leprexmas,Leprechaun Carol,,assets/Others/Pragmatic/vs20leprexmas/vs20leprexmas_200x200_NB.png
 pragmatic_slot,vs20lightblitz,Blitz Super Wheel,,assets/Others/Pragmatic/vs20lightblitz/vs20lightblitz_260x350_NB.png
 pragmatic_slot,vs20lobcrab,Lobster Bob's Crazy Crab Shack,,assets/Others/Pragmatic/vs20lobcrab/vs20lobcrab_260x350_NB.png
 pragmatic_slot,vs20lobseafd,Lobster Bob's Sea Food and Win It,,assets/Others/Pragmatic/vs20lobseafd/vs20lobseafd_260x350_NB.png
 pragmatic_slot,vs20loksriches,Loki's Riches,,assets/Others/Pragmatic/vs20loksriches/vs20loksriches_260x350_NB.png
 pragmatic_slot,vs20ltng,Pinup Girls,,assets/Others/Pragmatic/vs20ltng/vs20ltng_260x350_NB.png
-pragmatic_slot,vs20lvlup,Pub Kings,,
-pragmatic_slot,vs20magicpot,The Magic Cauldron,,
-pragmatic_slot,vs20mahjxbnz,Mahjong X,,
+pragmatic_slot,vs20lvlup,Pub Kings,,assets/Others/Pragmatic/vs20lvlup/vs20lvlup_200x200_NB.png
+pragmatic_slot,vs20magicpot,The Magic Cauldron,,assets/Others/Pragmatic/vs20magicpot/vs20magicpot_200x200_NB.png
+pragmatic_slot,vs20mahjxbnz,Mahjong X,,assets/Others/Pragmatic/vs20mahjxbnz/vs20mahjxbnz_200x200_NB.png
 pragmatic_slot,vs20mammoth,Mammoth Gold Megaways,,assets/Others/Pragmatic/vs20mammoth/vs20mammoth_260x350_NB.png
 pragmatic_slot,vs20maskgame,Cash Chips,,assets/Others/Pragmatic/vs20maskgame/vs20maskgame_260x350_NB.png
 pragmatic_slot,vs20medusast,Medusa's Stone,,assets/Others/Pragmatic/vs20medusast/vs20medusast_260x350_NB.png
 pragmatic_slot,vs20mergedwndw,Blade & Fangs,,assets/Others/Pragmatic/vs20mergedwndw/vs20mergedwndw_260x350_NB.png
 pragmatic_slot,vs20mesmult,Yeti Quest,,assets/Others/Pragmatic/vs20mesmult/vs20mesmult_260x350_NB.png
-pragmatic_slot,vs20midas,The Hand of Midas,,
+pragmatic_slot,vs20midas,The Hand of Midas,,assets/Others/Pragmatic/vs20midas/vs20midas_200x200_NB.png
 pragmatic_slot,vs20midas2,Hand of Midas 2,,assets/Others/Pragmatic/vs20midas2/vs20midas2_260x350_NB.png
 pragmatic_slot,vs20minerush,Mining Rush,,assets/Others/Pragmatic/vs20minerush/vs20minerush_260x350_NB.png
-pragmatic_slot,vs20mkrush,Wukong Rush,,
+pragmatic_slot,vs20mkrush,Wukong Rush,,assets/Others/Pragmatic/vs20mkrush/vs20mkrush_200x200_NB.png
 pragmatic_slot,vs20mmdtres,Mermaid's Treasure Trove,,assets/Others/Pragmatic/vs20mmdtres/vs20mmdtres_260x350_NB.png
 pragmatic_slot,vs20mmmelon,Mighty Munching Melons,,assets/Others/Pragmatic/vs20mmmelon/vs20mmmelon_260x350_NB.png
 pragmatic_slot,vs20mochimon,Mochimon,,assets/Others/Pragmatic/vs20mochimon/vs20mochimon_260x350_NB.png
-pragmatic_slot,vs20mparty,Wild Hop & Drop,,
-pragmatic_slot,vs20mtreasure,Pirate Golden Age,,
-pragmatic_slot,vs20muertos,Muertos Multiplier Megaways,,
+pragmatic_slot,vs20mparty,Wild Hop & Drop,,assets/Others/Pragmatic/vs20mparty/vs20mparty_200x200_NB.png
+pragmatic_slot,vs20mtreasure,Pirate Golden Age,,assets/Others/Pragmatic/vs20mtreasure/vs20mtreasure_200x200_NB.png
+pragmatic_slot,vs20muertos,Muertos Multiplier Megaways,,assets/Others/Pragmatic/vs20muertos/vs20muertos_200x200_NB.png
 pragmatic_slot,vs20multiup,Wheel O'Gold,,assets/Others/Pragmatic/vs20multiup/vs20multiup_260x350_NB.png
 pragmatic_slot,vs20mustanggld2,Clover Gold,,assets/Others/Pragmatic/vs20mustanggld2/vs20mustanggld2_260x350_NB.png
 pragmatic_slot,vs20mvwild,Jasmine Dreams,,assets/Others/Pragmatic/vs20mvwild/vs20mvwild_260x350_NB.png
 pragmatic_slot,vs20mysteryst,Country Farming,,assets/Others/Pragmatic/vs20mysteryst/vs20mysteryst_260x350_NB.png
 pragmatic_slot,vs20nilefort,Nile Fortune,,assets/Others/Pragmatic/vs20nilefort/vs20nilefort_260x350_NB.png
-pragmatic_slot,vs20ninjapower,Power of Ninja,,
-pragmatic_slot,vs20octobeer,Octobeer Fortunes,,
+pragmatic_slot,vs20ninjapower,Power of Ninja,,assets/Others/Pragmatic/vs20ninjapower/vs20ninjapower_200x200_NB.png
+pragmatic_slot,vs20octobeer,Octobeer Fortunes,,assets/Others/Pragmatic/vs20octobeer/vs20octobeer_200x200_NB.png
 pragmatic_slot,vs20olgatssc,Gates of Gatot Kaca Super Scatter,,assets/Others/Pragmatic/vs20olgatssc/vs20olgatssc_260x350_NB.png
-pragmatic_slot,vs20olympdice,Gates of Olympus Dice,,
+pragmatic_slot,vs20olympdice,Gates of Olympus Dice,,assets/Others/Pragmatic/vs20olympdice/vs20olympdice_200x200_NB.png
 pragmatic_slot,vs20olympgate,Gates of Olympus,,assets/Others/Pragmatic/vs20olympgate/vs20olympgate_260x350_NB.png
 pragmatic_slot,vs20olympgcl,Fortune of Olympus,,assets/Others/Pragmatic/vs20olympgcl/vs20olympgcl_260x350_NB.png
 pragmatic_slot,vs20olympgold,Gates of Olympus Super Scatter,,assets/Others/Pragmatic/vs20olympgold/vs20olympgold_260x350_NB.png
-pragmatic_slot,vs20olympgrace,Grace of Ebisu,,
+pragmatic_slot,vs20olympgrace,Grace of Ebisu,,assets/Others/Pragmatic/vs20olympgrace/vs20olympgrace_200x200_NB.png
 pragmatic_slot,vs20olympx,Gates of Olympus 1000,,assets/Others/Pragmatic/vs20olympx/vs20olympx_260x350_NB.png
 pragmatic_slot,vs20olympxmas,Gates of Olympus Xmas 1000,,assets/Others/Pragmatic/vs20olympxmas/vs20olympxmas_260x350_NB.png
 pragmatic_slot,vs20oragold,Oracle of Gold,,assets/Others/Pragmatic/vs20oragold/vs20oragold_260x350_NB.png
+pragmatic_slot,vs20payanyvol,Jelly Express,,assets/Others/Pragmatic/vs20payanyvol/vs20payanyvol_200x200_NB.png
 pragmatic_slot,vs20pbonanza,Pyramid Bonanza,,assets/Others/Pragmatic/vs20pbonanza/vs20pbonanza_260x350_NB.png
-pragmatic_slot,vs20phoenixf,Phoenix Forge,,
+pragmatic_slot,vs20phoenixf,Phoenix Forge,,assets/Others/Pragmatic/vs20phoenixf/vs20phoenixf_200x200_NB.png
 pragmatic_slot,vs20piggybank,Piggy Bankers,,assets/Others/Pragmatic/vs20piggybank/vs20piggybank_260x350_NB.png
 pragmatic_slot,vs20pistols,Wild West Duels,,assets/Others/Pragmatic/vs20pistols/vs20pistols_260x350_NB.png
 pragmatic_slot,vs20plsmcannon,Aztec Smash,,assets/Others/Pragmatic/vs20plsmcannon/vs20plsmcannon_260x350_NB.png
 pragmatic_slot,vs20popbottles,Ice Mints,,assets/Others/Pragmatic/vs20popbottles/vs20popbottles_260x350_NB.png
-pragmatic_slot,vs20porbs,Santa's Great Gifts,,
+pragmatic_slot,vs20porbs,Santa's Great Gifts,,assets/Others/Pragmatic/vs20porbs/vs20porbs_200x200_NB.png
 pragmatic_slot,vs20portals,Fire Portals,,assets/Others/Pragmatic/vs20portals/vs20portals_260x350_NB.png
 pragmatic_slot,vs20powerpays,Red Hot Luck,,assets/Others/Pragmatic/vs20powerpays/vs20powerpays_260x350_NB.png
 pragmatic_slot,vs20powerwild,Mystery Mice,,assets/Others/Pragmatic/vs20powerwild/vs20powerwild_260x350_NB.png
 pragmatic_slot,vs20procount,Wisdom of Athena,,assets/Others/Pragmatic/vs20procount/vs20procount_260x350_NB.png
 pragmatic_slot,vs20procountx,Wisdom of Athena 1000,,assets/Others/Pragmatic/vs20procountx/vs20procountx_260x350_NB.png
 pragmatic_slot,vs20procountxm,Wisdom of Athena 1000 Xmas,,assets/Others/Pragmatic/vs20procountxm/vs20procountxm_260x350_NB.png
-pragmatic_slot,vs20rainbowg,Rainbow Gold,,
+pragmatic_slot,vs20rainbowg,Rainbow Gold,,assets/Others/Pragmatic/vs20rainbowg/vs20rainbowg_200x200_NB.png
 pragmatic_slot,vs20rainbowrsh,Santa's Xmas Rush,,assets/Others/Pragmatic/vs20rainbowrsh/vs20rainbowrsh_260x350_NB.png
-pragmatic_slot,vs20rhino,Great Rhino,,
-pragmatic_slot,vs20rhinoluxe,Great Rhino Deluxe,,
+pragmatic_slot,vs20rhino,Great Rhino,,assets/Others/Pragmatic/vs20rhino/vs20rhino_200x200_NB.png
+pragmatic_slot,vs20rhinoluxe,Great Rhino Deluxe,,assets/Others/Pragmatic/vs20rhinoluxe/vs20rhinoluxe_200x200_NB.png
 pragmatic_slot,vs20rnriches,Rolling in Treasures,,assets/Others/Pragmatic/vs20rnriches/vs20rnriches_260x350_NB.png
-pragmatic_slot,vs20rockvegas,Rock Vegas,,
-pragmatic_slot,vs20rujakbnz,Rujak Bonanza,,
+pragmatic_slot,vs20rockvegas,Rock Vegas,,assets/Others/Pragmatic/vs20rockvegas/vs20rockvegas_200x200_NB.png
+pragmatic_slot,vs20rujakbnz,Rujak Bonanza,,assets/Others/Pragmatic/vs20rujakbnz/vs20rujakbnz_200x200_NB.png
 pragmatic_slot,vs20saiman,Saiyan Mania,,assets/Others/Pragmatic/vs20saiman/vs20saiman_260x350_NB.png
-pragmatic_slot,vs20santa,Santa,,
-pragmatic_slot,vs20santawonder,Santa's Wonderland,,
+pragmatic_slot,vs20santa,Santa,,assets/Others/Pragmatic/vs20santa/vs20santa_200x200_NB.png
+pragmatic_slot,vs20santawonder,Santa's Wonderland,,assets/Others/Pragmatic/vs20santawonder/vs20santawonder_200x200_NB.png
 pragmatic_slot,vs20sbpnudge,Aztec Powernudge,,assets/Others/Pragmatic/vs20sbpnudge/vs20sbpnudge_260x350_NB.png
 pragmatic_slot,vs20sbxmas,Sweet Bonanza Xmas,,assets/Others/Pragmatic/vs20sbxmas/vs20sbxmas_260x350_NB.png
 pragmatic_slot,vs20schristmas,Starlight Christmas,,assets/Others/Pragmatic/vs20schristmas/vs20schristmas_260x350_NB.png
-pragmatic_slot,vs20sh,Shining Hot 20,,
+pragmatic_slot,vs20sh,Shining Hot 20,,assets/Others/Pragmatic/vs20sh/vs20sh_200x200_NB.png
 pragmatic_slot,vs20shmnarise,Gates of Pyroth,,assets/Others/Pragmatic/vs20shmnarise/vs20shmnarise_260x350_NB.png
 pragmatic_slot,vs20shootstars,Heroic Spins,,assets/Others/Pragmatic/vs20shootstars/vs20shootstars_260x350_NB.png
 pragmatic_slot,vs20sknights,The Knight King,,assets/Others/Pragmatic/vs20sknights/vs20sknights_260x350_NB.png
-pragmatic_slot,vs20smugcove,Smugglers Cove,,
-pragmatic_slot,vs20sparta,Shield Of Sparta,,
+pragmatic_slot,vs20slightwdm,Idol Pop Fever,,assets/Others/Pragmatic/vs20slightwdm/vs20slightwdm_200x200_NB.png
+pragmatic_slot,vs20smugcove,Smugglers Cove,,assets/Others/Pragmatic/vs20smugcove/vs20smugcove_200x200_NB.png
+pragmatic_slot,vs20sparta,Shield Of Sparta,,assets/Others/Pragmatic/vs20sparta/vs20sparta_200x200_NB.png
 pragmatic_slot,vs20splmystery,Spellbinding Mystery,,assets/Others/Pragmatic/vs20splmystery/vs20splmystery_260x350_NB.png
 pragmatic_slot,vs20stararx,Starlight Archer 1000,,assets/Others/Pragmatic/vs20stararx/vs20stararx_260x350_NB.png
 pragmatic_slot,vs20starlight,Starlight Princess,,assets/Others/Pragmatic/vs20starlight/vs20starlight_260x350_NB.png
@@ -3967,7 +4051,7 @@ pragmatic_slot,vs20starlightx,Starlight Princess 1000,,assets/Others/Pragmatic/v
 pragmatic_slot,vs20starprss,Starlight Princess Super Scatter,,assets/Others/Pragmatic/vs20starprss/vs20starprss_260x350_NB.png
 pragmatic_slot,vs20stckwldsc,Pot of Fortune,,assets/Others/Pragmatic/vs20stckwldsc/vs20stckwldsc_260x350_NB.png
 pragmatic_slot,vs20stickypos,Ice Lobster,,assets/Others/Pragmatic/vs20stickypos/vs20stickypos_260x350_NB.png
-pragmatic_slot,vs20stickysymbol,The Great Stick-up,,
+pragmatic_slot,vs20stickysymbol,The Great Stick-up,,assets/Others/Pragmatic/vs20stickysymbol/vs20stickysymbol_200x200_NB.png
 pragmatic_slot,vs20stickywild,Wild Bison Charge,,assets/Others/Pragmatic/vs20stickywild/vs20stickywild_260x350_NB.png
 pragmatic_slot,vs20sugarcoins,Viking Forge,,assets/Others/Pragmatic/vs20sugarcoins/vs20sugarcoins_260x350_NB.png
 pragmatic_slot,vs20sugarnudge,Sugar Supreme Powernudge,,assets/Others/Pragmatic/vs20sugarnudge/vs20sugarnudge_260x350_NB.png
@@ -3976,164 +4060,165 @@ pragmatic_slot,vs20sugarrushx,Sugar Rush 1000,,assets/Others/Pragmatic/vs20sugar
 pragmatic_slot,vs20sugrushss,Sugar Rush Super Scatter,,assets/Others/Pragmatic/vs20sugrushss/vs20sugrushss_260x350_NB.png
 pragmatic_slot,vs20sugrux,Sugar Rush Xmas,,assets/Others/Pragmatic/vs20sugrux/vs20sugrux_260x350_NB.png
 pragmatic_slot,vs20superlanche,Monster Superlanche,,assets/Others/Pragmatic/vs20superlanche/vs20superlanche_260x350_NB.png
-pragmatic_slot,vs20superx,Super X,,
+pragmatic_slot,vs20superx,Super X,,assets/Others/Pragmatic/vs20superx/vs20superx_200x200_NB.png
 pragmatic_slot,vs20swbonsup,Sweet Bonanza Super Scatter,,assets/Others/Pragmatic/vs20swbonsup/vs20swbonsup_260x350_NB.png
-pragmatic_slot,vs20swordofares,Sword of Ares,,
+pragmatic_slot,vs20swordofares,Sword of Ares,,assets/Others/Pragmatic/vs20swordofares/vs20swordofares_200x200_NB.png
 pragmatic_slot,vs20swrbon,Sweet Rush Bonanza,,assets/Others/Pragmatic/vs20swrbon/vs20swrbon_260x350_NB.png
-pragmatic_slot,vs20terrorv,Cash Elevator,,
-pragmatic_slot,vs20theights,Towering Fortunes,,
+pragmatic_slot,vs20terrorv,Cash Elevator,,assets/Others/Pragmatic/vs20terrorv/vs20terrorv_200x200_NB.png
+pragmatic_slot,vs20theights,Towering Fortunes,,assets/Others/Pragmatic/vs20theights/vs20theights_200x200_NB.png
+pragmatic_slot,vs20thunder,Inca Queen,,assets/Others/Pragmatic/vs20thunder/vs20thunder_200x200_NB.png
 pragmatic_slot,vs20treesot,Trees of Treasure,,assets/Others/Pragmatic/vs20treesot/vs20treesot_260x350_NB.png
-pragmatic_slot,vs20trsbox,Treasure Wild,,
-pragmatic_slot,vs20trswild2,Black Bull,,
+pragmatic_slot,vs20trsbox,Treasure Wild,,assets/Others/Pragmatic/vs20trsbox/vs20trsbox_200x200_NB.png
+pragmatic_slot,vs20trswild2,Black Bull,,assets/Others/Pragmatic/vs20trswild2/vs20trswild2_200x200_NB.png
 pragmatic_slot,vs20trswild3,Aztec Treasure Hunt,,assets/Others/Pragmatic/vs20trswild3/vs20trswild3_260x350_NB.png
-pragmatic_slot,vs20tweethouse,The Tweety House,,
-pragmatic_slot,vs20ultim5,The Ultimate 5,,
-pragmatic_slot,vs20underground,Down the Rails,,
-pragmatic_slot,vs20vegasmagic,Vegas Magic,,
-pragmatic_slot,vs20wildboost,Wild Booster,,
+pragmatic_slot,vs20tweethouse,The Tweety House,,assets/Others/Pragmatic/vs20tweethouse/vs20tweethouse_200x200_NB.png
+pragmatic_slot,vs20ultim5,The Ultimate 5,,assets/Others/Pragmatic/vs20ultim5/vs20ultim5_200x200_NB.png
+pragmatic_slot,vs20underground,Down the Rails,,assets/Others/Pragmatic/vs20underground/vs20underground_200x200_NB.png
+pragmatic_slot,vs20vegasmagic,Vegas Magic,,assets/Others/Pragmatic/vs20vegasmagic/vs20vegasmagic_200x200_NB.png
+pragmatic_slot,vs20wildboost,Wild Booster,,assets/Others/Pragmatic/vs20wildboost/vs20wildboost_200x200_NB.png
 pragmatic_slot,vs20wildparty,3 Buzzing Wilds,,assets/Others/Pragmatic/vs20wildparty/vs20wildparty_260x350_NB.png
 pragmatic_slot,vs20wildpix,Wild Pixies,,assets/Others/Pragmatic/vs20wildpix/vs20wildpix_260x350_NB.png
-pragmatic_slot,vs20wolfie,Greedy Wolf,,
+pragmatic_slot,vs20wolfie,Greedy Wolf,,assets/Others/Pragmatic/vs20wolfie/vs20wolfie_200x200_NB.png
 pragmatic_slot,vs20wwgcluster,Wild West Gold Blazing Bounty,,assets/Others/Pragmatic/vs20wwgcluster/vs20wwgcluster_260x350_NB.png
-pragmatic_slot,vs20xmascarol,Christmas Carol Megaways,,
+pragmatic_slot,vs20xmascarol,Christmas Carol Megaways,,assets/Others/Pragmatic/vs20xmascarol/vs20xmascarol_200x200_NB.png
 pragmatic_slot,vs20yotdk,Year Of The Dragon King,,assets/Others/Pragmatic/vs20yotdk/vs20yotdk_260x350_NB.png
-pragmatic_slot,vs243caishien,Caishen's Cash,,
-pragmatic_slot,vs243chargebull,Raging Bull,,
-pragmatic_slot,vs243ckemp,Cheeky Emperor,,
-pragmatic_slot,vs243dancingpar,Dance Party,,
-pragmatic_slot,vs243discolady,Disco Lady,,
-pragmatic_slot,vs243empcaishen,Emperor Caishen,,
+pragmatic_slot,vs243caishien,Caishen's Cash,,assets/Others/Pragmatic/vs243caishien/vs243caishien_200x200_NB.png
+pragmatic_slot,vs243chargebull,Raging Bull,,assets/Others/Pragmatic/vs243chargebull/vs243chargebull_200x200_NB.png
+pragmatic_slot,vs243ckemp,Cheeky Emperor,,assets/Others/Pragmatic/vs243ckemp/vs243ckemp_200x200_NB.png
+pragmatic_slot,vs243dancingpar,Dance Party,,assets/Others/Pragmatic/vs243dancingpar/vs243dancingpar_200x200_NB.png
+pragmatic_slot,vs243discolady,Disco Lady,,assets/Others/Pragmatic/vs243discolady/vs243discolady_200x200_NB.png
+pragmatic_slot,vs243empcaishen,Emperor Caishen,,assets/Others/Pragmatic/vs243empcaishen/vs243empcaishen_200x200_NB.png
 pragmatic_slot,vs243fdragon,Fortune Dragon,,assets/Others/Pragmatic/vs243fdragon/vs243fdragon_260x350_NB.png
-pragmatic_slot,vs243fortseren,Greek Gods,,
+pragmatic_slot,vs243fortseren,Greek Gods,,assets/Others/Pragmatic/vs243fortseren/vs243fortseren_200x200_NB.png
 pragmatic_slot,vs243fortune,Caishen's Gold,,assets/Others/Pragmatic/vs243fortune/vs243fortune_260x350_NB.png
 pragmatic_slot,vs243goldfor,888 Bonanza,,assets/Others/Pragmatic/vs243goldfor/vs243goldfor_260x350_NB.png
-pragmatic_slot,vs243koipond,Koi Pond,,
-pragmatic_slot,vs243lions,5 Lions,,
-pragmatic_slot,vs243lionsgold,5 Lions Gold,,
-pragmatic_slot,vs243mwarrior,Monkey Warrior,,
+pragmatic_slot,vs243koipond,Koi Pond,,assets/Others/Pragmatic/vs243koipond/vs243koipond_200x200_NB.png
+pragmatic_slot,vs243lions,5 Lions,,assets/Others/Pragmatic/vs243lions/vs243lions_200x200_NB.png
+pragmatic_slot,vs243lionsgold,5 Lions Gold,,assets/Others/Pragmatic/vs243lionsgold/vs243lionsgold_200x200_NB.png
+pragmatic_slot,vs243mwarrior,Monkey Warrior,,assets/Others/Pragmatic/vs243mwarrior/vs243mwarrior_200x200_NB.png
 pragmatic_slot,vs243nudge4gold,Hellvis Wild,,assets/Others/Pragmatic/vs243nudge4gold/vs243nudge4gold_260x350_NB.png
-pragmatic_slot,vs243queenie,Queenie,,
+pragmatic_slot,vs243queenie,Queenie,,assets/Others/Pragmatic/vs243queenie/vs243queenie_200x200_NB.png
 pragmatic_slot,vs25archer,Fire Archer,,assets/Others/Pragmatic/vs25archer/vs25archer_260x350_NB.png
-pragmatic_slot,vs25asgard,Asgard,,
-pragmatic_slot,vs25aztecking,Aztec King,,
+pragmatic_slot,vs25asgard,Asgard,,assets/Others/Pragmatic/vs25asgard/vs25asgard_200x200_NB.png
+pragmatic_slot,vs25aztecking,Aztec King,,assets/Others/Pragmatic/vs25aztecking/vs25aztecking_200x200_NB.png
 pragmatic_slot,vs25badge,Badge Blitz,,assets/Others/Pragmatic/vs25badge/vs25badge_260x350_NB.png
 pragmatic_slot,vs25bkofkngdm,Book Of Kingdoms,,assets/Others/Pragmatic/vs25bkofkngdm/vs25bkofkngdm_260x350_NB.png
-pragmatic_slot,vs25bomb,Bomb Bonanza,,
-pragmatic_slot,vs25btygold,Bounty Gold,,
+pragmatic_slot,vs25bomb,Bomb Bonanza,,assets/Others/Pragmatic/vs25bomb/vs25bomb_200x200_NB.png
+pragmatic_slot,vs25btygold,Bounty Gold,,assets/Others/Pragmatic/vs25btygold/vs25btygold_200x200_NB.png
 pragmatic_slot,vs25caishen2,Chests of Cai Shen 2,,assets/Others/Pragmatic/vs25caishen2/vs25caishen2_260x350_NB.png
 pragmatic_slot,vs25checaishen,Chests of Cai Shen,,assets/Others/Pragmatic/vs25checaishen/vs25checaishen_260x350_NB.png
 pragmatic_slot,vs25chilli,Chilli Heat,,assets/Others/Pragmatic/vs25chilli/vs25chilli_260x350_NB.png
-pragmatic_slot,vs25copsrobbers,Cash Patrol,,
-pragmatic_slot,vs25davinci,Da Vinci's Treasure,,
+pragmatic_slot,vs25copsrobbers,Cash Patrol,,assets/Others/Pragmatic/vs25copsrobbers/vs25copsrobbers_200x200_NB.png
+pragmatic_slot,vs25davinci,Da Vinci's Treasure,,assets/Others/Pragmatic/vs25davinci/vs25davinci_200x200_NB.png
 pragmatic_slot,vs25dragonkingdom,Dragon Kingdom,,assets/Others/Pragmatic/vs25dragonkingdom/vs25dragonkingdom_260x350_NB.png
 pragmatic_slot,vs25dwarves_new,Dwarven Gold Deluxe,,assets/Others/Pragmatic/vs25dwarves_new/vs25dwarves_new_260x350_NB.png
-pragmatic_slot,vs25gladiator,Wild Gladiator,,
-pragmatic_slot,vs25gldox,Golden Ox,,
+pragmatic_slot,vs25gladiator,Wild Gladiator,,assets/Others/Pragmatic/vs25gladiator/vs25gladiator_200x200_NB.png
+pragmatic_slot,vs25gldox,Golden Ox,,assets/Others/Pragmatic/vs25gldox/vs25gldox_200x200_NB.png
 pragmatic_slot,vs25goldparty,Gold Party,,assets/Others/Pragmatic/vs25goldparty/vs25goldparty_260x350_NB.png
 pragmatic_slot,vs25goldpartya,Gold Party 2 - After Hours,,assets/Others/Pragmatic/vs25goldpartya/vs25goldpartya_260x350_NB.png
-pragmatic_slot,vs25goldpig,Golden Pig,,
+pragmatic_slot,vs25goldpig,Golden Pig,,assets/Others/Pragmatic/vs25goldpig/vs25goldpig_200x200_NB.png
 pragmatic_slot,vs25goldrexp,Majestic Express - Gold Run,,assets/Others/Pragmatic/vs25goldrexp/vs25goldrexp_260x350_NB.png
-pragmatic_slot,vs25goldrush,Gold Rush,,
+pragmatic_slot,vs25goldrush,Gold Rush,,assets/Others/Pragmatic/vs25goldrush/vs25goldrush_200x200_NB.png
 pragmatic_slot,vs25holiday,Holiday Ride,,assets/Others/Pragmatic/vs25holiday/vs25holiday_260x350_NB.png
 pragmatic_slot,vs25hotfiesta,Hot Fiesta,,assets/Others/Pragmatic/vs25hotfiesta/vs25hotfiesta_260x350_NB.png
-pragmatic_slot,vs25jokerking,Joker King,,
+pragmatic_slot,vs25jokerking,Joker King,,assets/Others/Pragmatic/vs25jokerking/vs25jokerking_200x200_NB.png
 pragmatic_slot,vs25jokrace,Joker Race,,assets/Others/Pragmatic/vs25jokrace/vs25jokrace_260x350_NB.png
-pragmatic_slot,vs25journey,Journey to the West,,
-pragmatic_slot,vs25kfruit,Aztec Blaze,,
-pragmatic_slot,vs25kingdoms,3 Kingdoms - Battle of Red Cliffs,,
-pragmatic_slot,vs25kingdomsnojp,3 Kingdoms - Battle of Red Cliffs,,
-pragmatic_slot,vs25lagoon,Great Lagoon,,
+pragmatic_slot,vs25journey,Journey to the West,,assets/Others/Pragmatic/vs25journey/vs25journey_200x200_NB.png
+pragmatic_slot,vs25kfruit,Aztec Blaze,,assets/Others/Pragmatic/vs25kfruit/vs25kfruit_200x200_NB.png
+pragmatic_slot,vs25kingdoms,3 Kingdoms - Battle of Red Cliffs,,assets/Others/Pragmatic/vs25kingdoms/vs25kingdoms_200x200_NB.png
+pragmatic_slot,vs25kingdomsnojp,3 Kingdoms - Battle of Red Cliffs,,assets/Others/Pragmatic/vs25kingdomsnojp/vs25kingdomsnojp_200x200_NB.png
+pragmatic_slot,vs25lagoon,Great Lagoon,,assets/Others/Pragmatic/vs25lagoon/vs25lagoon_200x200_NB.png
 pragmatic_slot,vs25luckpub,Lucky's Wild Pub 2,,assets/Others/Pragmatic/vs25luckpub/vs25luckpub_260x350_NB.png
 pragmatic_slot,vs25luckwildpb,Lucky's Wild Pub,,assets/Others/Pragmatic/vs25luckwildpb/vs25luckwildpb_260x350_NB.png
-pragmatic_slot,vs25mmouse,Money Mouse,,
+pragmatic_slot,vs25mmouse,Money Mouse,,assets/Others/Pragmatic/vs25mmouse/vs25mmouse_200x200_NB.png
 pragmatic_slot,vs25mustang,Mustang Gold,,assets/Others/Pragmatic/vs25mustang/vs25mustang_260x350_NB.png
-pragmatic_slot,vs25newyear,Lucky New Year,,
+pragmatic_slot,vs25newyear,Lucky New Year,,assets/Others/Pragmatic/vs25newyear/vs25newyear_200x200_NB.png
 pragmatic_slot,vs25pandagold,Panda's Fortune,,assets/Others/Pragmatic/vs25pandagold/vs25pandagold_260x350_NB.png
-pragmatic_slot,vs25pandatemple,Panda Fortune 2,,
-pragmatic_slot,vs25peking,Peking Luck,,
+pragmatic_slot,vs25pandatemple,Panda Fortune 2,,assets/Others/Pragmatic/vs25pandatemple/vs25pandatemple_200x200_NB.png
+pragmatic_slot,vs25peking,Peking Luck,,assets/Others/Pragmatic/vs25peking/vs25peking_200x200_NB.png
 pragmatic_slot,vs25pfarmfp,Pig Farm,,assets/Others/Pragmatic/vs25pfarmfp/vs25pfarmfp_260x350_NB.png
-pragmatic_slot,vs25pyramid,Pyramid King,,
+pragmatic_slot,vs25pyramid,Pyramid King,,assets/Others/Pragmatic/vs25pyramid/vs25pyramid_200x200_NB.png
 pragmatic_slot,vs25quadwolf,Wolf Gold 4 Pack,,assets/Others/Pragmatic/vs25quadwolf/vs25quadwolf_260x350_NB.png
-pragmatic_slot,vs25queenofgold,Queen of Gold,,
-pragmatic_slot,vs25rio,Heart of Rio,,
-pragmatic_slot,vs25rlbank,Reel Banks,,
-pragmatic_slot,vs25romeoandjuliet,Romeo and Juliet,,
-pragmatic_slot,vs25safari,Hot Safari,,
-pragmatic_slot,vs25samurai,Rise of Samurai,,
+pragmatic_slot,vs25queenofgold,Queen of Gold,,assets/Others/Pragmatic/vs25queenofgold/vs25queenofgold_200x200_NB.png
+pragmatic_slot,vs25rio,Heart of Rio,,assets/Others/Pragmatic/vs25rio/vs25rio_200x200_NB.png
+pragmatic_slot,vs25rlbank,Reel Banks,,assets/Others/Pragmatic/vs25rlbank/vs25rlbank_200x200_NB.png
+pragmatic_slot,vs25romeoandjuliet,Romeo and Juliet,,assets/Others/Pragmatic/vs25romeoandjuliet/vs25romeoandjuliet_200x200_NB.png
+pragmatic_slot,vs25safari,Hot Safari,,assets/Others/Pragmatic/vs25safari/vs25safari_200x200_NB.png
+pragmatic_slot,vs25samurai,Rise of Samurai,,assets/Others/Pragmatic/vs25samurai/vs25samurai_200x200_NB.png
 pragmatic_slot,vs25scarabqueen,John Hunter and the Tomb of the Scarab Queen,,assets/Others/Pragmatic/vs25scarabqueen/vs25scarabqueen_260x350_NB.png
 pragmatic_slot,vs25scolymp,CULT.,,assets/Others/Pragmatic/vs25scolymp/vs25scolymp_260x350_NB.png
-pragmatic_slot,vs25sea,Great Reef,,
+pragmatic_slot,vs25sea,Great Reef,,assets/Others/Pragmatic/vs25sea/vs25sea_200x200_NB.png
 pragmatic_slot,vs25sleepdrag,Sleeping Dragon,,assets/Others/Pragmatic/vs25sleepdrag/vs25sleepdrag_260x350_NB.png
 pragmatic_slot,vs25spgldways,Secret City Gold,,assets/Others/Pragmatic/vs25spgldways/vs25spgldways_260x350_NB.png
 pragmatic_slot,vs25spotz,Knight Hot Spotz,,assets/Others/Pragmatic/vs25spotz/vs25spotz_260x350_NB.png
-pragmatic_slot,vs25tigerwar,The Tiger Warrior,,
-pragmatic_slot,vs25tigeryear,Lucky New Year - Tiger Treasures,,
+pragmatic_slot,vs25tigerwar,The Tiger Warrior,,assets/Others/Pragmatic/vs25tigerwar/vs25tigerwar_200x200_NB.png
+pragmatic_slot,vs25tigeryear,Lucky New Year - Tiger Treasures,,assets/Others/Pragmatic/vs25tigeryear/vs25tigeryear_200x200_NB.png
 pragmatic_slot,vs25tripleps,Treasures of Osiris,,assets/Others/Pragmatic/vs25tripleps/vs25tripleps_260x350_NB.png
 pragmatic_slot,vs25ultwolgol,Wolf Gold Ultimate,,assets/Others/Pragmatic/vs25ultwolgol/vs25ultwolgol_260x350_NB.png
-pragmatic_slot,vs25vegas,Vegas Nights,,
-pragmatic_slot,vs25walker,Wild Walker,,
+pragmatic_slot,vs25vegas,Vegas Nights,,assets/Others/Pragmatic/vs25vegas/vs25vegas_200x200_NB.png
+pragmatic_slot,vs25walker,Wild Walker,,assets/Others/Pragmatic/vs25walker/vs25walker_200x200_NB.png
 pragmatic_slot,vs25wildies,Wildies,,assets/Others/Pragmatic/vs25wildies/vs25wildies_260x350_NB.png
-pragmatic_slot,vs25wildspells,Wild Spells,,
+pragmatic_slot,vs25wildspells,Wild Spells,,assets/Others/Pragmatic/vs25wildspells/vs25wildspells_200x200_NB.png
 pragmatic_slot,vs25wolfgmm,3 Magic Eggs,,assets/Others/Pragmatic/vs25wolfgmm/vs25wolfgmm_260x350_NB.png
 pragmatic_slot,vs25wolfgold,Wolf Gold,,assets/Others/Pragmatic/vs25wolfgold/vs25wolfgold_260x350_NB.png
-pragmatic_slot,vs25wolfjpt,Wolf Gold Power Jackpot,,
+pragmatic_slot,vs25wolfjpt,Wolf Gold Power Jackpot,,assets/Others/Pragmatic/vs25wolfjpt/vs25wolfjpt_200x200_NB.png
 pragmatic_slot,vs25xmasparty,Penguins Christmas Party Time,,assets/Others/Pragmatic/vs25xmasparty/vs25xmasparty_260x350_NB.png
 pragmatic_slot,vs30bingomania,Bingo Mania,,assets/Others/Pragmatic/vs30bingomania/vs30bingomania_260x350_NB.png
-pragmatic_slot,vs30catz,The Catfather Part II,,
-pragmatic_slot,vs3train,Gold Train,,
-pragmatic_slot,vs4096bufking,Buffalo King,,
-pragmatic_slot,vs4096magician,Magician's Secrets,,
-pragmatic_slot,vs4096mystery,Mysterious,,
+pragmatic_slot,vs30catz,The Catfather Part II,,assets/Others/Pragmatic/vs30catz/vs30catz_200x200_NB.png
+pragmatic_slot,vs3train,Gold Train,,assets/Others/Pragmatic/vs3train/vs3train_200x200_NB.png
+pragmatic_slot,vs4096bufking,Buffalo King,,assets/Others/Pragmatic/vs4096bufking/vs4096bufking_200x200_NB.png
+pragmatic_slot,vs4096magician,Magician's Secrets,,assets/Others/Pragmatic/vs4096magician/vs4096magician_200x200_NB.png
+pragmatic_slot,vs4096mystery,Mysterious,,assets/Others/Pragmatic/vs4096mystery/vs4096mystery_200x200_NB.png
 pragmatic_slot,vs4096robber,Robber Strike,,assets/Others/Pragmatic/vs4096robber/vs4096robber_260x350_NB.png
-pragmatic_slot,vs40bigjuan,Big Juan,,
-pragmatic_slot,vs40cleoeye,Eye of Cleopatra,,
-pragmatic_slot,vs40cosmiccash,Cosmic Cash,,
+pragmatic_slot,vs40bigjuan,Big Juan,,assets/Others/Pragmatic/vs40bigjuan/vs40bigjuan_200x200_NB.png
+pragmatic_slot,vs40cleoeye,Eye of Cleopatra,,assets/Others/Pragmatic/vs40cleoeye/vs40cleoeye_200x200_NB.png
+pragmatic_slot,vs40cosmiccash,Cosmic Cash,,assets/Others/Pragmatic/vs40cosmiccash/vs40cosmiccash_200x200_NB.png
 pragmatic_slot,vs40demonpots,Demon Pots,,assets/Others/Pragmatic/vs40demonpots/vs40demonpots_260x350_NB.png
-pragmatic_slot,vs40firehot,Fire Hot 40,,
-pragmatic_slot,vs40frrainbow,Fruit Rainbow,,
+pragmatic_slot,vs40firehot,Fire Hot 40,,assets/Others/Pragmatic/vs40firehot/vs40firehot_200x200_NB.png
+pragmatic_slot,vs40frrainbow,Fruit Rainbow,,assets/Others/Pragmatic/vs40frrainbow/vs40frrainbow_200x200_NB.png
 pragmatic_slot,vs40hmrstrm,Hammerstorm,,assets/Others/Pragmatic/vs40hmrstrm/vs40hmrstrm_260x350_NB.png
-pragmatic_slot,vs40hotburnx,Hot To Burn Extreme,,
+pragmatic_slot,vs40hotburnx,Hot To Burn Extreme,,assets/Others/Pragmatic/vs40hotburnx/vs40hotburnx_200x200_NB.png
 pragmatic_slot,vs40infwild,Infective Wild,,assets/Others/Pragmatic/vs40infwild/vs40infwild_260x350_NB.png
-pragmatic_slot,vs40madwheel,The Wild Machine,,
-pragmatic_slot,vs40mstrwild,Happy Hooves,,
+pragmatic_slot,vs40madwheel,The Wild Machine,,assets/Others/Pragmatic/vs40madwheel/vs40madwheel_200x200_NB.png
+pragmatic_slot,vs40mstrwild,Happy Hooves,,assets/Others/Pragmatic/vs40mstrwild/vs40mstrwild_200x200_NB.png
 pragmatic_slot,vs40pdmrsg,Pandemic Rising,,assets/Others/Pragmatic/vs40pdmrsg/vs40pdmrsg_260x350_NB.png
-pragmatic_slot,vs40pirate,Pirate Gold,,
-pragmatic_slot,vs40pirgold,Pirate Gold Deluxe,,
+pragmatic_slot,vs40pirate,Pirate Gold,,assets/Others/Pragmatic/vs40pirate/vs40pirate_200x200_NB.png
+pragmatic_slot,vs40pirgold,Pirate Gold Deluxe,,assets/Others/Pragmatic/vs40pirgold/vs40pirgold_200x200_NB.png
 pragmatic_slot,vs40rainbowr,Rainbow Reels,,assets/Others/Pragmatic/vs40rainbowr/vs40rainbowr_260x350_NB.png
-pragmatic_slot,vs40sh,Shining Hot 40,,
-pragmatic_slot,vs40spartaking,Spartan King,,
+pragmatic_slot,vs40sh,Shining Hot 40,,assets/Others/Pragmatic/vs40sh/vs40sh_200x200_NB.png
+pragmatic_slot,vs40spartaking,Spartan King,,assets/Others/Pragmatic/vs40spartaking/vs40spartaking_200x200_NB.png
 pragmatic_slot,vs40stckwldlvl,Ripe Rewards,,assets/Others/Pragmatic/vs40stckwldlvl/vs40stckwldlvl_260x350_NB.png
-pragmatic_slot,vs40streetracer,Street Racer,,
-pragmatic_slot,vs40voodoo,Voodoo Magic,,
-pragmatic_slot,vs40wanderw,Wild Depths,,
+pragmatic_slot,vs40streetracer,Street Racer,,assets/Others/Pragmatic/vs40streetracer/vs40streetracer_200x200_NB.png
+pragmatic_slot,vs40voodoo,Voodoo Magic,,assets/Others/Pragmatic/vs40voodoo/vs40voodoo_200x200_NB.png
+pragmatic_slot,vs40wanderw,Wild Depths,,assets/Others/Pragmatic/vs40wanderw/vs40wanderw_200x200_NB.png
 pragmatic_slot,vs40wildrun,Fortune Hit'n Roll,,assets/Others/Pragmatic/vs40wildrun/vs40wildrun_260x350_NB.png
 pragmatic_slot,vs40wildwest,Wild West Gold,,assets/Others/Pragmatic/vs40wildwest/vs40wildwest_260x350_NB.png
-pragmatic_slot,vs432congocash,Congo Cash,,
-pragmatic_slot,vs50aladdin,3 Genie Wishes,,
-pragmatic_slot,vs50chinesecharms,Lucky Dragons,,
+pragmatic_slot,vs432congocash,Congo Cash,,assets/Others/Pragmatic/vs432congocash/vs432congocash_200x200_NB.png
+pragmatic_slot,vs50aladdin,3 Genie Wishes,,assets/Others/Pragmatic/vs50aladdin/vs50aladdin_200x200_NB.png
+pragmatic_slot,vs50chinesecharms,Lucky Dragons,,assets/Others/Pragmatic/vs50chinesecharms/vs50chinesecharms_200x200_NB.png
 pragmatic_slot,vs50dmdcascade,Diamond Cascade,,assets/Others/Pragmatic/vs50dmdcascade/vs50dmdcascade_260x350_NB.png
 pragmatic_slot,vs50fatfrogs,Tiny Toads,,assets/Others/Pragmatic/vs50fatfrogs/vs50fatfrogs_260x350_NB.png
-pragmatic_slot,vs50hercules,Hercules Son of Zeus,,
+pragmatic_slot,vs50hercules,Hercules Son of Zeus,,assets/Others/Pragmatic/vs50hercules/vs50hercules_200x200_NB.png
 pragmatic_slot,vs50jfmulthold,Juicy Fruits Multihold,,assets/Others/Pragmatic/vs50jfmulthold/vs50jfmulthold_260x350_NB.png
 pragmatic_slot,vs50jucier,Sky Bounty,,assets/Others/Pragmatic/vs50jucier/vs50jucier_260x350_NB.png
-pragmatic_slot,vs50juicyfr,Juicy Fruits,,
-pragmatic_slot,vs50kingkong,Mighty Kong,,
-pragmatic_slot,vs50mightra,Might of Ra,,
-pragmatic_slot,vs50northgard,North Guardians,,
-pragmatic_slot,vs50pixie,Pixie Wings,,
-pragmatic_slot,vs50safariking,Safari King,,
-pragmatic_slot,vs576hokkwolf,Hokkaido Wolf,,
-pragmatic_slot,vs576treasures,Wild Wild Riches,,
+pragmatic_slot,vs50juicyfr,Juicy Fruits,,assets/Others/Pragmatic/vs50juicyfr/vs50juicyfr_200x200_NB.png
+pragmatic_slot,vs50kingkong,Mighty Kong,,assets/Others/Pragmatic/vs50kingkong/vs50kingkong_200x200_NB.png
+pragmatic_slot,vs50mightra,Might of Ra,,assets/Others/Pragmatic/vs50mightra/vs50mightra_200x200_NB.png
+pragmatic_slot,vs50northgard,North Guardians,,assets/Others/Pragmatic/vs50northgard/vs50northgard_200x200_NB.png
+pragmatic_slot,vs50pixie,Pixie Wings,,assets/Others/Pragmatic/vs50pixie/vs50pixie_200x200_NB.png
+pragmatic_slot,vs50safariking,Safari King,,assets/Others/Pragmatic/vs50safariking/vs50safariking_200x200_NB.png
+pragmatic_slot,vs576hokkwolf,Hokkaido Wolf,,assets/Others/Pragmatic/vs576hokkwolf/vs576hokkwolf_200x200_NB.png
+pragmatic_slot,vs576treasures,Wild Wild Riches,,assets/Others/Pragmatic/vs576treasures/vs576treasures_200x200_NB.png
 pragmatic_slot,vs5aztecgems,Aztec Gems,,assets/Others/Pragmatic/vs5aztecgems/vs5aztecgems_260x350_NB.png
-pragmatic_slot,vs5barongrico,Barong Rico,,
+pragmatic_slot,vs5barongrico,Barong Rico,,assets/Others/Pragmatic/vs5barongrico/vs5barongrico_200x200_NB.png
 pragmatic_slot,vs5bb3reeler,Big Bass Bonanza 3 Reeler,,assets/Others/Pragmatic/vs5bb3reeler/vs5bb3reeler_260x350_NB.png
 pragmatic_slot,vs5drhs,Dragon Hot Hold & Spin,,assets/Others/Pragmatic/vs5drhs/vs5drhs_260x350_NB.png
-pragmatic_slot,vs5drmystery,Dragon Kingdom - Eyes of Fire,,
-pragmatic_slot,vs5firehot,Fire Hot 5,,
-pragmatic_slot,vs5gemstone,Gemstone,,
+pragmatic_slot,vs5drmystery,Dragon Kingdom - Eyes of Fire,,assets/Others/Pragmatic/vs5drmystery/vs5drmystery_200x200_NB.png
+pragmatic_slot,vs5firehot,Fire Hot 5,,assets/Others/Pragmatic/vs5firehot/vs5firehot_200x200_NB.png
+pragmatic_slot,vs5gemstone,Gemstone,,assets/Others/Pragmatic/vs5gemstone/vs5gemstone_200x200_NB.png
 pragmatic_slot,vs5himalaw,Himalayan Wild,,assets/Others/Pragmatic/vs5himalaw/vs5himalaw_260x350_NB.png
 pragmatic_slot,vs5hotbmult,Hot To Burn Multiplier,,assets/Others/Pragmatic/vs5hotbmult/vs5hotbmult_260x350_NB.png
-pragmatic_slot,vs5hotburn,Hot to Burn,,
+pragmatic_slot,vs5hotburn,Hot to Burn,,assets/Others/Pragmatic/vs5hotburn/vs5hotburn_200x200_NB.png
 pragmatic_slot,vs5jellyc,Jelly Candy,,assets/Others/Pragmatic/vs5jellyc/vs5jellyc_260x350_NB.png
 pragmatic_slot,vs5jjwild,Joker's Jewels Wild,,assets/Others/Pragmatic/vs5jjwild/vs5jjwild_260x350_NB.png
 pragmatic_slot,vs5joker,Joker's Jewels,,assets/Others/Pragmatic/vs5joker/vs5joker_260x350_NB.png
@@ -4141,57 +4226,58 @@ pragmatic_slot,vs5jokerdice,Joker's Jewel Dice,,assets/Others/Pragmatic/vs5joker
 pragmatic_slot,vs5jokerjc,Joker's Jewels Cash,,assets/Others/Pragmatic/vs5jokerjc/vs5jokerjc_260x350_NB.png
 pragmatic_slot,vs5jokjewhs,Joker's Jewels Hold & Spin,,assets/Others/Pragmatic/vs5jokjewhs/vs5jokjewhs_260x350_NB.png
 pragmatic_slot,vs5lckpnd,Lucky Panda,,assets/Others/Pragmatic/vs5lckpnd/vs5lckpnd_260x350_NB.png
-pragmatic_slot,vs5littlegem,Little Gem Hold and Spin,,
+pragmatic_slot,vs5littlegem,Little Gem Hold and Spin,,assets/Others/Pragmatic/vs5littlegem/vs5littlegem_200x200_NB.png
 pragmatic_slot,vs5luckdce88,Lucky Dice,,assets/Others/Pragmatic/vs5luckdce88/vs5luckdce88_260x350_NB.png
 pragmatic_slot,vs5luckycol,Lucky Fortune Tree,,assets/Others/Pragmatic/vs5luckycol/vs5luckycol_260x350_NB.png
 pragmatic_slot,vs5luckytru,Lucky Tiger Gold,,assets/Others/Pragmatic/vs5luckytru/vs5luckytru_260x350_NB.png
 pragmatic_slot,vs5luckytwr,Tut's Treasure Tower,,assets/Others/Pragmatic/vs5luckytwr/vs5luckytwr_260x350_NB.png
 pragmatic_slot,vs5magicdoor,6 Jokers,,assets/Others/Pragmatic/vs5magicdoor/vs5magicdoor_260x350_NB.png
-pragmatic_slot,vs5sh,Shining Hot 5,,
-pragmatic_slot,vs5spjoker,Super Joker,,
+pragmatic_slot,vs5sh,Shining Hot 5,,assets/Others/Pragmatic/vs5sh/vs5sh_200x200_NB.png
+pragmatic_slot,vs5spjoker,Super Joker,,assets/Others/Pragmatic/vs5spjoker/vs5spjoker_200x200_NB.png
 pragmatic_slot,vs5spjokfp,Code of Cairo,,assets/Others/Pragmatic/vs5spjokfp/vs5spjokfp_260x350_NB.png
-pragmatic_slot,vs5strh,Striking Hot 5,,
-pragmatic_slot,vs5super7,Super 7s,,
+pragmatic_slot,vs5strh,Striking Hot 5,,assets/Others/Pragmatic/vs5strh/vs5strh_200x200_NB.png
+pragmatic_slot,vs5super7,Super 7s,,assets/Others/Pragmatic/vs5super7/vs5super7_200x200_NB.png
 pragmatic_slot,vs5supergummy,Super Gummy Strike,,assets/Others/Pragmatic/vs5supergummy/vs5supergummy_260x350_NB.png
 pragmatic_slot,vs5t8goldfp,777 Rush,,assets/Others/Pragmatic/vs5t8goldfp/vs5t8goldfp_260x350_NB.png
 pragmatic_slot,vs5tdragresk,Dino Drop,,assets/Others/Pragmatic/vs5tdragresk/vs5tdragresk_260x350_NB.png
 pragmatic_slot,vs5tikistrike,Super Tiki Strike,,assets/Others/Pragmatic/vs5tikistrike/vs5tikistrike_260x350_NB.png
-pragmatic_slot,vs5trdragons,Triple Dragons,,
+pragmatic_slot,vs5trdragons,Triple Dragons,,assets/Others/Pragmatic/vs5trdragons/vs5trdragons_200x200_NB.png
 pragmatic_slot,vs5triple8gold,888 Gold,,assets/Others/Pragmatic/vs5triple8gold/vs5triple8gold_260x350_NB.png
-pragmatic_slot,vs5ultra,Ultra Hold and Spin,,
-pragmatic_slot,vs5ultrab,Ultra Burn,,
+pragmatic_slot,vs5ultra,Ultra Hold and Spin,,assets/Others/Pragmatic/vs5ultra/vs5ultra_200x200_NB.png
+pragmatic_slot,vs5ultrab,Ultra Burn,,assets/Others/Pragmatic/vs5ultrab/vs5ultrab_200x200_NB.png
 pragmatic_slot,vs5wfrog,Wealthy Frog,,assets/Others/Pragmatic/vs5wfrog/vs5wfrog_260x350_NB.png
-pragmatic_slot,vs75bronco,Bronco Spirit,,
-pragmatic_slot,vs75empress,Golden Beauty,,
-pragmatic_slot,vs7776aztec,Aztec Bonanza,,
-pragmatic_slot,vs7776secrets,Aztec Treasure,,
-pragmatic_slot,vs7fire88,Fire 88,,
+pragmatic_slot,vs75bronco,Bronco Spirit,,assets/Others/Pragmatic/vs75bronco/vs75bronco_200x200_NB.png
+pragmatic_slot,vs75empress,Golden Beauty,,assets/Others/Pragmatic/vs75empress/vs75empress_200x200_NB.png
+pragmatic_slot,vs7776aztec,Aztec Bonanza,,assets/Others/Pragmatic/vs7776aztec/vs7776aztec_200x200_NB.png
+pragmatic_slot,vs7776secrets,Aztec Treasure,,assets/Others/Pragmatic/vs7776secrets/vs7776secrets_200x200_NB.png
+pragmatic_slot,vs7fire88,Fire 88,,assets/Others/Pragmatic/vs7fire88/vs7fire88_200x200_NB.png
 pragmatic_slot,vs7fire88fp,Mystic Wishes,,assets/Others/Pragmatic/vs7fire88fp/vs7fire88fp_260x350_NB.png
-pragmatic_slot,vs7monkeys,7 Monkeys,,
-pragmatic_slot,vs7pigs,7 Piggies,,
-pragmatic_slot,vs88hockattack,Hockey Attack,,
-pragmatic_slot,vs8magicjourn,Magic Journey,,
-pragmatic_slot,vs9aztecgemsdx,Aztec Gems Deluxe,,
-pragmatic_slot,vs9catz,The Catfather,,
-pragmatic_slot,vs9chen,Master Chen's Fortune,,
+pragmatic_slot,vs7monkeys,7 Monkeys,,assets/Others/Pragmatic/vs7monkeys/vs7monkeys_200x200_NB.png
+pragmatic_slot,vs7monkeys_jp,7 Monkeys JP,,assets/Others/Pragmatic/vs7monkeys_jp/vs7monkeys_jp_200x200_NB.png
+pragmatic_slot,vs7pigs,7 Piggies,,assets/Others/Pragmatic/vs7pigs/vs7pigs_200x200_NB.png
+pragmatic_slot,vs88hockattack,Hockey Attack,,assets/Others/Pragmatic/vs88hockattack/vs88hockattack_200x200_NB.png
+pragmatic_slot,vs8magicjourn,Magic Journey,,assets/Others/Pragmatic/vs8magicjourn/vs8magicjourn_200x200_NB.png
+pragmatic_slot,vs9aztecgemsdx,Aztec Gems Deluxe,,assets/Others/Pragmatic/vs9aztecgemsdx/vs9aztecgemsdx_200x200_NB.png
+pragmatic_slot,vs9catz,The Catfather,,assets/Others/Pragmatic/vs9catz/vs9catz_200x200_NB.png
+pragmatic_slot,vs9chen,Master Chen's Fortune,,assets/Others/Pragmatic/vs9chen/vs9chen_200x200_NB.png
 pragmatic_slot,vs9gemtrio,Gem Trio,,assets/Others/Pragmatic/vs9gemtrio/vs9gemtrio_260x350_NB.png
-pragmatic_slot,vs9hockey,Hockey League Wild Match,,
-pragmatic_slot,vs9hotroll,Hot Chilli,,
-pragmatic_slot,vs9madmonkey,Monkey Madness,,
+pragmatic_slot,vs9hockey,Hockey League Wild Match,,assets/Others/Pragmatic/vs9hockey/vs9hockey_200x200_NB.png
+pragmatic_slot,vs9hotroll,Hot Chilli,,assets/Others/Pragmatic/vs9hotroll/vs9hotroll_200x200_NB.png
+pragmatic_slot,vs9madmonkey,Monkey Madness,,assets/Others/Pragmatic/vs9madmonkey/vs9madmonkey_200x200_NB.png
 pragmatic_slot,vs9outlaw,Pirates Pub,,assets/Others/Pragmatic/vs9outlaw/vs9outlaw_260x350_NB.png
-pragmatic_slot,vs9piggybank,Piggy Bank Bills,,
+pragmatic_slot,vs9piggybank,Piggy Bank Bills,,assets/Others/Pragmatic/vs9piggybank/vs9piggybank_200x200_NB.png
 pragmatic_slot,vs9ridelightng,Ride the Lightning,,assets/Others/Pragmatic/vs9ridelightng/vs9ridelightng_260x350_NB.png
-pragmatic_slot,vsprg10bbbnza,Big Bass Bonanza Jackpot Play,,
-pragmatic_slot,vsprg10bigbass,Big Bass Splash Jackpot Play,,
-pragmatic_slot,vsprg10booktut,Book of Tut Jackpot Play,,
-pragmatic_slot,vsprg20doghouse,The Dog House Jackpot Play,,
-pragmatic_slot,vsprg20fruitpty,Fruit Party Jackpot Play,,
-pragmatic_slot,vsprg20fruitsw,Sweet Bonanza Jackpot Play,,
-pragmatic_slot,vsprg20olympus,Gates of Olympus Jackpot Play,,
-pragmatic_slot,vsprg20starpr,Starlight Princess Jackpot Play,,
-pragmatic_slot,vsprg20sugarush,Sugar Rush Jackpot Play,,
-pragmatic_slot,vsprg5joker,Joker's Jewels Jackpot Play,,
-pragmatic_slot,vsprgwaysdogs,The Dog House Megaways Jackpot Play,,
+pragmatic_slot,vsprg10bbbnza,Big Bass Bonanza Jackpot Play,,assets/Others/Pragmatic/vsprg10bbbnza/vsprg10bbbnza_200x200_NB.png
+pragmatic_slot,vsprg10bigbass,Big Bass Splash Jackpot Play,,assets/Others/Pragmatic/vsprg10bigbass/vsprg10bigbass_200x200_NB.png
+pragmatic_slot,vsprg10booktut,Book of Tut Jackpot Play,,assets/Others/Pragmatic/vsprg10booktut/vsprg10booktut_200x200_NB.png
+pragmatic_slot,vsprg20doghouse,The Dog House Jackpot Play,,assets/Others/Pragmatic/vsprg20doghouse/vsprg20doghouse_200x200_NB.png
+pragmatic_slot,vsprg20fruitpty,Fruit Party Jackpot Play,,assets/Others/Pragmatic/vsprg20fruitpty/vsprg20fruitpty_200x200_NB.png
+pragmatic_slot,vsprg20fruitsw,Sweet Bonanza Jackpot Play,,assets/Others/Pragmatic/vsprg20fruitsw/vsprg20fruitsw_200x200_NB.png
+pragmatic_slot,vsprg20olympus,Gates of Olympus Jackpot Play,,assets/Others/Pragmatic/vsprg20olympus/vsprg20olympus_200x200_NB.png
+pragmatic_slot,vsprg20starpr,Starlight Princess Jackpot Play,,assets/Others/Pragmatic/vsprg20starpr/vsprg20starpr_200x200_NB.png
+pragmatic_slot,vsprg20sugarush,Sugar Rush Jackpot Play,,assets/Others/Pragmatic/vsprg20sugarush/vsprg20sugarush_200x200_NB.png
+pragmatic_slot,vsprg5joker,Joker's Jewels Jackpot Play,,assets/Others/Pragmatic/vsprg5joker/vsprg5joker_200x200_NB.png
+pragmatic_slot,vsprgwaysdogs,The Dog House Megaways Jackpot Play,,assets/Others/Pragmatic/vsprgwaysdogs/vsprgwaysdogs_200x200_NB.png
 pragmatic_slot,vsways5lions2,5 Lions Megaways 2,,assets/Others/Pragmatic/vsways5lions2/vsways5lions2_260x350_NB.png
 pragmatic_slot,vsways5lionsr,5 Lions Reborn,,assets/Others/Pragmatic/vsways5lionsr/vsways5lionsr_260x350_NB.png
 pragmatic_slot,vswaysacnd,Anaconda Gold,,assets/Others/Pragmatic/vswaysacnd/vswaysacnd_260x350_NB.png
@@ -4201,16 +4287,17 @@ pragmatic_slot,vswaysargonts,Argonauts,,assets/Others/Pragmatic/vswaysargonts/vs
 pragmatic_slot,vswaysasiatrzn,Triple Pot Gold,,assets/Others/Pragmatic/vswaysasiatrzn/vswaysasiatrzn_260x350_NB.png
 pragmatic_slot,vswaysaztec,Aztec Gems Megaways,,assets/Others/Pragmatic/vswaysaztec/vswaysaztec_260x350_NB.png
 pragmatic_slot,vswaysaztecgm,Fortune of Aztec,,assets/Others/Pragmatic/vswaysaztecgm/vswaysaztecgm_260x350_NB.png
-pragmatic_slot,vswaysaztecking,Aztec King Megaways,,
+pragmatic_slot,vswaysaztecking,Aztec King Megaways,,assets/Others/Pragmatic/vswaysaztecking/vswaysaztecking_200x200_NB.png
 pragmatic_slot,vswaysbandit,Bandit Megaways,,assets/Others/Pragmatic/vswaysbandit/vswaysbandit_260x350_NB.png
-pragmatic_slot,vswaysbankbonz,Cash Bonanza,,
+pragmatic_slot,vswaysbankbonz,Cash Bonanza,,assets/Others/Pragmatic/vswaysbankbonz/vswaysbankbonz_200x200_NB.png
 pragmatic_slot,vswaysbbarnh,Bigger Barn House Bonanza,,assets/Others/Pragmatic/vswaysbbarnh/vswaysbbarnh_260x350_NB.png
-pragmatic_slot,vswaysbbb,Big Bass Bonanza Megaways,,
+pragmatic_slot,vswaysbbb,Big Bass Bonanza Megaways,,assets/Others/Pragmatic/vswaysbbb/vswaysbbb_200x200_NB.png
 pragmatic_slot,vswaysbbhas,Big Bass Hold & Spinner Megaways,,assets/Others/Pragmatic/vswaysbbhas/vswaysbbhas_260x350_NB.png
 pragmatic_slot,vswaysbblitz,Money Stacks Megaways,,assets/Others/Pragmatic/vswaysbblitz/vswaysbblitz_260x350_NB.png
 pragmatic_slot,vswaysbewaretd,Beware The Deep Megaways,,assets/Others/Pragmatic/vswaysbewaretd/vswaysbewaretd_260x350_NB.png
 pragmatic_slot,vswaysbkingasc,Buffalo King Untamed Megaways,,assets/Others/Pragmatic/vswaysbkingasc/vswaysbkingasc_260x350_NB.png
-pragmatic_slot,vswaysbook,Book of Golden Sands,,
+pragmatic_slot,vswaysbooboo,Furry Bonanza Megaways,,assets/Others/Pragmatic/vswaysbooboo/vswaysbooboo_200x200_NB.png
+pragmatic_slot,vswaysbook,Book of Golden Sands,,assets/Others/Pragmatic/vswaysbook/vswaysbook_200x200_NB.png
 pragmatic_slot,vswaysbrickhos,Brick House Bonanza,,assets/Others/Pragmatic/vswaysbrickhos/vswaysbrickhos_260x350_NB.png
 pragmatic_slot,vswaysbufking,Buffalo King Megaways,,assets/Others/Pragmatic/vswaysbufking/vswaysbufking_260x350_NB.png
 pragmatic_slot,vswaysbufstamp,Wild Wildebeest Wins,,assets/Others/Pragmatic/vswaysbufstamp/vswaysbufstamp_260x350_NB.png
@@ -4218,42 +4305,42 @@ pragmatic_slot,vswayscashconv,Running Sushi,,assets/Others/Pragmatic/vswayscashc
 pragmatic_slot,vswayscashsurg,Cash Surge,,assets/Others/Pragmatic/vswayscashsurg/vswayscashsurg_260x350_NB.png
 pragmatic_slot,vswayscfglory,Chase For Glory,,assets/Others/Pragmatic/vswayscfglory/vswayscfglory_260x350_NB.png
 pragmatic_slot,vswayscharms,5 Frozen Charms Megaways,,assets/Others/Pragmatic/vswayscharms/vswayscharms_260x350_NB.png
-pragmatic_slot,vswayscheist,Casino Heist Megaways,,
-pragmatic_slot,vswayschilheat,Chilli Heat Megaways,,
+pragmatic_slot,vswayscheist,Casino Heist Megaways,,assets/Others/Pragmatic/vswayscheist/vswayscheist_200x200_NB.png
+pragmatic_slot,vswayschilheat,Chilli Heat Megaways,,assets/Others/Pragmatic/vswayschilheat/vswayschilheat_200x200_NB.png
 pragmatic_slot,vswayschilhtwo,Captain Kraken Megaways,,assets/Others/Pragmatic/vswayschilhtwo/vswayschilhtwo_260x350_NB.png
-pragmatic_slot,vswaysconcoll,Firebird Spirit - Connect & Collect,,
+pragmatic_slot,vswaysconcoll,Firebird Spirit - Connect & Collect,,assets/Others/Pragmatic/vswaysconcoll/vswaysconcoll_200x200_NB.png
 pragmatic_slot,vswayscongcash,Congo Cash XL,,assets/Others/Pragmatic/vswayscongcash/vswayscongcash_260x350_NB.png
-pragmatic_slot,vswayscryscav,Crystal Caverns Megaways,,
+pragmatic_slot,vswayscryscav,Crystal Caverns Megaways,,assets/Others/Pragmatic/vswayscryscav/vswayscryscav_200x200_NB.png
 pragmatic_slot,vswayscyclop,Wild Skullz,,assets/Others/Pragmatic/vswayscyclop/vswayscyclop_260x350_NB.png
 pragmatic_slot,vswayscyhecity,Cyberheist City,,assets/Others/Pragmatic/vswayscyhecity/vswayscyhecity_260x350_NB.png
 pragmatic_slot,vswaysdogs,The Dog House Megaways,,assets/Others/Pragmatic/vswaysdogs/vswaysdogs_260x350_NB.png
-pragmatic_slot,vswayselements,Elemental Gems Megaways,,
+pragmatic_slot,vswayselements,Elemental Gems Megaways,,assets/Others/Pragmatic/vswayselements/vswayselements_200x200_NB.png
 pragmatic_slot,vswayseternity,Diamonds of Egypt,,assets/Others/Pragmatic/vswayseternity/vswayseternity_260x350_NB.png
 pragmatic_slot,vswaysexpandng,Castle of Fire,,assets/Others/Pragmatic/vswaysexpandng/vswaysexpandng_260x350_NB.png
 pragmatic_slot,vswaysfirest2,Fire Stampede 2,,assets/Others/Pragmatic/vswaysfirest2/vswaysfirest2_260x350_NB.png
 pragmatic_slot,vswaysfirest3,Fire Stampede Ultimate,,assets/Others/Pragmatic/vswaysfirest3/vswaysfirest3_260x350_NB.png
 pragmatic_slot,vswaysfirewmw,Blazing Wilds Megaways,,assets/Others/Pragmatic/vswaysfirewmw/vswaysfirewmw_260x350_NB.png
-pragmatic_slot,vswaysfltdrg,Floating Dragon Hold & Spin Megaways,,
+pragmatic_slot,vswaysfltdrg,Floating Dragon Hold & Spin Megaways,,assets/Others/Pragmatic/vswaysfltdrg/vswaysfltdrg_200x200_NB.png
 pragmatic_slot,vswaysfltdrgny,Floating Dragon New Year Festival Ultra Megaways Hold & Spin,,assets/Others/Pragmatic/vswaysfltdrgny/vswaysfltdrgny_260x350_NB.png
 pragmatic_slot,vswaysfortsup,Fortune Ace Super Scatter,,assets/Others/Pragmatic/vswaysfortsup/vswaysfortsup_260x350_NB.png
 pragmatic_slot,vswaysfrbugs,Frogs & Bugs,,assets/Others/Pragmatic/vswaysfrbugs/vswaysfrbugs_260x350_NB.png
 pragmatic_slot,vswaysfreezet,Eternal Empress - Freeze Time,,assets/Others/Pragmatic/vswaysfreezet/vswaysfreezet_260x350_NB.png
-pragmatic_slot,vswaysfrywld,Spin & Score Megaways,,
+pragmatic_slot,vswaysfrywld,Spin & Score Megaways,,assets/Others/Pragmatic/vswaysfrywld/vswaysfrywld_200x200_NB.png
 pragmatic_slot,vswaysftropics,Frozen Tropics,,assets/Others/Pragmatic/vswaysftropics/vswaysftropics_260x350_NB.png
-pragmatic_slot,vswaysfuryodin,Fury of Odin Megaways,,
+pragmatic_slot,vswaysfuryodin,Fury of Odin Megaways,,assets/Others/Pragmatic/vswaysfuryodin/vswaysfuryodin_200x200_NB.png
 pragmatic_slot,vswaysgoldcol,Mustang Gold Megaways,,assets/Others/Pragmatic/vswaysgoldcol/vswaysgoldcol_260x350_NB.png
-pragmatic_slot,vswayshammthor,Power of Thor Megaways,,
+pragmatic_slot,vswayshammthor,Power of Thor Megaways,,assets/Others/Pragmatic/vswayshammthor/vswayshammthor_200x200_NB.png
 pragmatic_slot,vswayshexhaus,Rise of Pyramids,,assets/Others/Pragmatic/vswayshexhaus/vswayshexhaus_260x350_NB.png
-pragmatic_slot,vswayshive,Star Bounty,,
+pragmatic_slot,vswayshive,Star Bounty,,assets/Others/Pragmatic/vswayshive/vswayshive_200x200_NB.png
 pragmatic_slot,vswayshuffpbh,Dragon Tiger Fortunes,,assets/Others/Pragmatic/vswayshuffpbh/vswayshuffpbh_260x350_NB.png
 pragmatic_slot,vswaysincwnd,Gold Oasis,,assets/Others/Pragmatic/vswaysincwnd/vswaysincwnd_260x350_NB.png
 pragmatic_slot,vswaysjapan,Starlight Princess Pachi,,assets/Others/Pragmatic/vswaysjapan/vswaysjapan_260x350_NB.png
-pragmatic_slot,vswaysjkrdrop,Tropical Tiki,,
+pragmatic_slot,vswaysjkrdrop,Tropical Tiki,,assets/Others/Pragmatic/vswaysjkrdrop/vswaysjkrdrop_200x200_NB.png
 pragmatic_slot,vswayskrakenmw,Release the Kraken Megaways,,assets/Others/Pragmatic/vswayskrakenmw/vswayskrakenmw_260x350_NB.png
 pragmatic_slot,vswayslavabls,Lava Balls,,assets/Others/Pragmatic/vswayslavabls/vswayslavabls_260x350_NB.png
-pragmatic_slot,vswayslight,Lucky Lightning,,
+pragmatic_slot,vswayslight,Lucky Lightning,,assets/Others/Pragmatic/vswayslight/vswayslight_200x200_NB.png
 pragmatic_slot,vswayslions,5 Lions Megaways,,assets/Others/Pragmatic/vswayslions/vswayslions_260x350_NB.png
-pragmatic_slot,vswayslofhero,Legend of Heroes Megaways,,
+pragmatic_slot,vswayslofhero,Legend of Heroes Megaways,,assets/Others/Pragmatic/vswayslofhero/vswayslofhero_200x200_NB.png
 pragmatic_slot,vswaysloki,Revenge of Loki Megaways,,assets/Others/Pragmatic/vswaysloki/vswaysloki_260x350_NB.png
 pragmatic_slot,vswaysluckyfish,Lucky Fishing Megaways,,assets/Others/Pragmatic/vswaysluckyfish/vswaysluckyfish_260x350_NB.png
 pragmatic_slot,vswaysmadame,Madame Destiny Megaways,,assets/Others/Pragmatic/vswaysmadame/vswaysmadame_260x350_NB.png
@@ -4267,7 +4354,7 @@ pragmatic_slot,vswaysmjwl2,Mummy's Jewels 100,,assets/Others/Pragmatic/vswaysmjw
 pragmatic_slot,vswaysmltchmgw,Raging Waterfall Megaways,,assets/Others/Pragmatic/vswaysmltchmgw/vswaysmltchmgw_260x350_NB.png
 pragmatic_slot,vswaysmodfr,Ancient Island Megaways,,assets/Others/Pragmatic/vswaysmodfr/vswaysmodfr_260x350_NB.png
 pragmatic_slot,vswaysmoneyman,The Money Men Megaways,,assets/Others/Pragmatic/vswaysmoneyman/vswaysmoneyman_260x350_NB.png
-pragmatic_slot,vswaysmonkey,3 Dancing Monkeys,,
+pragmatic_slot,vswaysmonkey,3 Dancing Monkeys,,assets/Others/Pragmatic/vswaysmonkey/vswaysmonkey_200x200_NB.png
 pragmatic_slot,vswaysmorient,Mystery of the Orient,,assets/Others/Pragmatic/vswaysmorient/vswaysmorient_260x350_NB.png
 pragmatic_slot,vswaysmwss,Mahjong Wins Super Scatter,,assets/Others/Pragmatic/vswaysmwss/vswaysmwss_260x350_NB.png
 pragmatic_slot,vswaysoldminer,Old Gold Miner Megaways,,assets/Others/Pragmatic/vswaysoldminer/vswaysoldminer_260x350_NB.png
@@ -4286,33 +4373,34 @@ pragmatic_slot,vswaysrockblst,Rocket Blast Megaways,,assets/Others/Pragmatic/vsw
 pragmatic_slot,vswaysrsm,Wild Celebrity Bus Megaways,,assets/Others/Pragmatic/vswaysrsm/vswaysrsm_260x350_NB.png
 pragmatic_slot,vswayssamurai,Rise of Samurai Megaways,,assets/Others/Pragmatic/vswayssamurai/vswayssamurai_260x350_NB.png
 pragmatic_slot,vswayssavlgnd,Savannah Legend,,assets/Others/Pragmatic/vswayssavlgnd/vswayssavlgnd_260x350_NB.png
-pragmatic_slot,vswaysseastory,Sea Fantasy,,
+pragmatic_slot,vswaysseastory,Sea Fantasy,,assets/Others/Pragmatic/vswaysseastory/vswaysseastory_200x200_NB.png
 pragmatic_slot,vswayssevenc,7 Clovers of Fortune,,assets/Others/Pragmatic/vswayssevenc/vswayssevenc_260x350_NB.png
 pragmatic_slot,vswaysspltsym,Dwarf & Dragon,,assets/Others/Pragmatic/vswaysspltsym/vswaysspltsym_260x350_NB.png
 pragmatic_slot,vswaysstampede,Fire Stampede,,assets/Others/Pragmatic/vswaysstampede/vswaysstampede_260x350_NB.png
 pragmatic_slot,vswaysstrlght,Fortunes of Aztec,,assets/Others/Pragmatic/vswaysstrlght/vswaysstrlght_260x350_NB.png
-pragmatic_slot,vswaysstrwild,Candy Stars,,
+pragmatic_slot,vswaysstrwild,Candy Stars,,assets/Others/Pragmatic/vswaysstrwild/vswaysstrwild_200x200_NB.png
 pragmatic_slot,vswayssw,Starlight Wins,,assets/Others/Pragmatic/vswayssw/vswayssw_260x350_NB.png
 pragmatic_slot,vswaystimber,Timber Stacks,,assets/Others/Pragmatic/vswaystimber/vswaystimber_260x350_NB.png
 pragmatic_slot,vswaystonypzz,Peppe's Pepperoni Pizza Plaza,,assets/Others/Pragmatic/vswaystonypzz/vswaystonypzz_260x350_NB.png
+pragmatic_slot,vswaystrpgug,Triple Pot Diamond,,assets/Others/Pragmatic/vswaystrpgug/vswaystrpgug_200x200_NB.png
 pragmatic_slot,vswaystut,Book of Tut Megaways,,assets/Others/Pragmatic/vswaystut/vswaystut_260x350_NB.png
 pragmatic_slot,vswaysultrcoin,Cowboy Coins,,assets/Others/Pragmatic/vswaysultrcoin/vswaysultrcoin_260x350_NB.png
 pragmatic_slot,vswaysvlcgds,Volcano Goddess,,assets/Others/Pragmatic/vswaysvlcgds/vswaysvlcgds_260x350_NB.png
 pragmatic_slot,vswayswbounty,Vampy Party,,assets/Others/Pragmatic/vswayswbounty/vswayswbounty_260x350_NB.png
 pragmatic_slot,vswayswerewolf,Curse of the Werewolf Megaways,,assets/Others/Pragmatic/vswayswerewolf/vswayswerewolf_260x350_NB.png
-pragmatic_slot,vswayswest,Mystic Chief,,
+pragmatic_slot,vswayswest,Mystic Chief,,assets/Others/Pragmatic/vswayswest/vswayswest_200x200_NB.png
 pragmatic_slot,vswayswildb,Bloody Dawn,,assets/Others/Pragmatic/vswayswildb/vswayswildb_260x350_NB.png
 pragmatic_slot,vswayswildbrst,Witch Heart Megaways,,assets/Others/Pragmatic/vswayswildbrst/vswayswildbrst_260x350_NB.png
 pragmatic_slot,vswayswildeq,Wheel of Happiness,,assets/Others/Pragmatic/vswayswildeq/vswayswildeq_260x350_NB.png
 pragmatic_slot,vswayswildgang,The Wild Gang,,assets/Others/Pragmatic/vswayswildgang/vswayswildgang_260x350_NB.png
-pragmatic_slot,vswayswildwest,Wild West Gold Megaways,,
+pragmatic_slot,vswayswildwest,Wild West Gold Megaways,,assets/Others/Pragmatic/vswayswildwest/vswayswildwest_200x200_NB.png
 pragmatic_slot,vswayswwhex,Wild Wild Bananas,,assets/Others/Pragmatic/vswayswwhex/vswayswwhex_260x350_NB.png
 pragmatic_slot,vswayswwjoker,Wild Wild Joker,,assets/Others/Pragmatic/vswayswwjoker/vswayswwjoker_260x350_NB.png
 pragmatic_slot,vswayswwriches,Wild Wild Riches Megaways,,assets/Others/Pragmatic/vswayswwriches/vswayswwriches_260x350_NB.png
 pragmatic_slot,vswayswwrichr,Wild Wild Riches Returns,,assets/Others/Pragmatic/vswayswwrichr/vswayswwrichr_260x350_NB.png
-pragmatic_slot,vswaysxjuicy,Extra Juicy Megaways,,
+pragmatic_slot,vswaysxjuicy,Extra Juicy Megaways,,assets/Others/Pragmatic/vswaysxjuicy/vswaysxjuicy_200x200_NB.png
 pragmatic_slot,vswaysyinyang,Duel of Night & Day,,assets/Others/Pragmatic/vswaysyinyang/vswaysyinyang_260x350_NB.png
-pragmatic_slot,vswaysyumyum,Yum Yum Powerways,,
+pragmatic_slot,vswaysyumyum,Yum Yum Powerways,,assets/Others/Pragmatic/vswaysyumyum/vswaysyumyum_200x200_NB.png
 pragmatic_slot,vswayszombcarn,Zombie Carnival,,assets/Others/Pragmatic/vswayszombcarn/vswayszombcarn_260x350_NB.png
 pushgaming_slot,100066,Blaze of Ra,,assets/Dcace/Push Gaming/Game Icon/100066_Blaze of Ra.png
 pushgaming_slot,100068,Fat Rabbit,,assets/Dcace/Push Gaming/Game Icon/100068_Fat Rabbit.png
@@ -4332,7 +4420,7 @@ pushgaming_slot,100205,Mad Cars,,assets/Dcace/Push Gaming/Game Icon/100205_Mad C
 pushgaming_slot,100207,Deadly 5,,assets/Dcace/Push Gaming/Game Icon/100207_Deadly 5.png
 pushgaming_slot,100212,Tiki Tumble Bonus Buy,,assets/Dcace/Push Gaming/Game Icon/100212_Tiki Tumble Bonus Buy.png
 pushgaming_slot,100213,Mystery Mission to the Moon,,assets/Dcace/Push Gaming/Game Icon/100213_Mystery Mission to The Moon.png
-pushgaming_slot,100215,Retro Tapes,,assets/Dcace/Push Gaming/Game Icon/100214_Retro Tapes.jpg
+pushgaming_slot,100215,Retro Tapes,,assets/Dcace/Push Gaming/Game Icon/100215_Razor Returns.jpg
 pushgaming_slot,100216,Generous Jack,,assets/Dcace/Push Gaming/Game Icon/100216_Generous Jack.png
 pushgaming_slot,100219,Giga Jar,,assets/Dcace/Push Gaming/Game Icon/100219_Giga Jar.png
 pushgaming_slot,100220,Dino P.D.,,assets/Dcace/Push Gaming/Game Icon/100220_Dino PD.png
@@ -4865,6 +4953,8 @@ redtiger_slot,270374,Piggy Riches Begins,,assets/Dcace/RedTiger/Game Icon/Piggy 
 redtiger_slot,270375,ROBO Lab,,assets/Dcace/RedTiger/Game Icon/ROBO Lab.png
 redtiger_slot,270376,Pirates' Plenty: Treasures of the Seas,,assets/Dcace/RedTiger/Game Icon/Pirates' Plenty Treasures of the Seas.png
 redtiger_slot,270377,Jingle Bells Bonanza 2,,assets/Dcace/RedTiger/Game Icon/Jingle Bells Bonanza 2.png
+redtiger_slot,270378,Monopoly Cash is King,,assets/Dcace/RedTiger/Game Icon/Monopoly Cash is King.png
+redtiger_slot,270379,Revolvero,,assets/Dcace/RedTiger/Game Icon/Revolvero.png
 relax_slot,150000,6 Wild Sharks,,assets/Dcace/Relax/Game Icon/150000_6 Wild Sharks.png
 relax_slot,150001,1000x Busta,,assets/Dcace/Relax/Game Icon/150001_1000x Busta.png
 relax_slot,150002,100 Bit Dice,,assets/Dcace/Relax/Game Icon/150002_100 Bit Dice.png
@@ -5202,6 +5292,13 @@ relax_slot,151065,Frank's Diner,,assets/Dcace/Relax/Game Icon/Frank's Diner.jpg
 relax_slot,151066,Masked Treasures,,assets/Dcace/Relax/Game Icon/Masked Treasures.jpg
 relax_slot,151067,Snake Arena 2,,assets/Dcace/Relax/Game Icon/Snake Arena 2.jpg
 relax_slot,151068,Mister Payman,,assets/Dcace/Relax/Game Icon/Mister Payman.jpg
+relax_slot,151076,Jacks or Better 4000 Powerpoker‚Ñ¢,,assets/Dcace/Relax/Game Icon/Jacks or Better 4000 Powerpoker™.png
+relax_slot,151077,Nines or Better Triple Win Powerpoker‚Ñ¢,,assets/Dcace/Relax/Game Icon/Nines or Better Triple Win Powerpoker™.png
+relax_slot,151078,Tens or Better SideBet Powerpoker‚Ñ¢,,assets/Dcace/Relax/Game Icon/Tens or Better SideBet Powerpoker™.png
+relax_slot,151079,Aces 6000 Powerpoker‚Ñ¢,,assets/Dcace/Relax/Game Icon/Aces 6000 Powerpoker™.png
+relax_slot,151080,Deuces Wild Powerpoker‚Ñ¢,,assets/Dcace/Relax/Game Icon/Deuces Wild Powerpoker™.png
+relax_slot,151081,Kings & Queens Side Bet Powerpoker‚Ñ¢,,assets/Dcace/Relax/Game Icon/Kings & Queens Side Bet Powerpoker™.png
+relax_slot,151082,Joker Poker Powerpoker‚Ñ¢,,assets/Dcace/Relax/Game Icon/Joker Poker Powerpoker™.png
 relax_slot,151084,9K Yeti Gold,,assets/Dcace/Relax/Game Icon/9K Yeti Gold.jpg
 relax_slot,151085,Killer Sharks: Action Collect,,assets/Dcace/Relax/Game Icon/Killer Sharks Action Collect.png
 relax_slot,151086,Big Stack Nutcrack,,assets/Dcace/Relax/Game Icon/Big Stack Nutcrack.jpg
@@ -5209,25 +5306,28 @@ relax_slot,151087,Holy Hand Grenade 2,,assets/Dcace/Relax/Game Icon/Holy Hand Gr
 relax_slot,151088,Goblin Grand,,assets/Dcace/Relax/Game Icon/Goblin Grand.jpg
 relax_slot,151089,Mow Money,,assets/Dcace/Relax/Game Icon/Mow Money.jpg
 relax_slot,151090,Iron Bank 2,,assets/Dcace/Relax/Game Icon/Iron Bank 2.jpg
+relax_slot,151091,Treasure Tumble,,assets/Dcace/Relax/Game Icon/Treasure Tumble.jpg
 relax_slot,151092,Santa's Secret Party,,assets/Dcace/Relax/Game Icon/Santa's Secret Party.jpg
 relax_slot,151100,Necromancer's Gate,,assets/Dcace/Relax/Game Icon/Necromancer's Gate.jpg
 relax_slot,151103,12 Burning Baseballs,,assets/Dcace/Relax/Game Icon/12 Burning Baseballs.png
+relax_slot,151104,Beast Gains,,assets/Dcace/Relax/Game Icon/Beast Gains.jpg
 relax_slot,151105,Pharaoh's Last Wish,,assets/Dcace/Relax/Game Icon/Pharaoh's Last Wish.png
+relax_slot,151110,Frankenstein Wild Surge‚Äã,,assets/Dcace/Relax/Game Icon/Frankenstein Wild Surge.jpg
 sa_live,420000,Lobby,,
-sa_live,420002,M Sic Bo,,
-sa_live,420003,M Roulette,,
-sa_live,420005,M Pok Deng,,
-sa_live,420007,M Andar Bahar,,
-sa_live,420008,M Teen Patti 20-20,,
-sa_live,420009,C Roulette,,
-sa_live,420010,Baccarat C01,,
-sa_live,420011,Baccarat C02,,
-sa_live,420012,Baccarat C03,,
-sa_live,420013,Baccarat C04,,
-sa_live,420014,Baccarat C05,,
-sa_live,420015,Baccarat C06,,
-sa_live,420016,Baccarat C07,,
-sa_live,420017,Speed Baccarat C08,,
+sa_live,420002,M Sic Bo,,assets/Dcace/SA Gaming/game icon/EmeraldHall_SicBo.jpg
+sa_live,420003,M Roulette,,assets/Dcace/SA Gaming/game icon/EmeraldHall_Roulette.jpg
+sa_live,420005,M Pok Deng,,assets/Dcace/SA Gaming/game icon/EmeraldHall_PokDeng.jpg
+sa_live,420007,M Andar Bahar,,assets/Dcace/SA Gaming/game icon/EmeraldHall_AndarBahar.jpg
+sa_live,420008,M Teen Patti 20-20,,assets/Dcace/SA Gaming/game icon/EmeraldHall_TeenPatti.jpg
+sa_live,420009,C Roulette,,assets/Dcace/SA Gaming/game icon/SexyHall_Roulette.jpg
+sa_live,420010,Baccarat C01,,assets/Dcace/SA Gaming/game icon/SexyHall_Baccarat.jpg
+sa_live,420011,Baccarat C02,,assets/Dcace/SA Gaming/game icon/SexyHall_Baccarat.jpg
+sa_live,420012,Baccarat C03,,assets/Dcace/SA Gaming/game icon/SexyHall_Baccarat.jpg
+sa_live,420013,Baccarat C04,,assets/Dcace/SA Gaming/game icon/SexyHall_Baccarat.jpg
+sa_live,420014,Baccarat C05,,assets/Dcace/SA Gaming/game icon/SexyHall_Baccarat.jpg
+sa_live,420015,Baccarat C06,,assets/Dcace/SA Gaming/game icon/SexyHall_Baccarat.jpg
+sa_live,420016,Baccarat C07,,assets/Dcace/SA Gaming/game icon/SexyHall_Baccarat.jpg
+sa_live,420017,Speed Baccarat C08,,assets/Dcace/SA Gaming/game icon/SexyHall_SpeedBaccarat.jpg
 sa_live,420018,Baccarat D01,,assets/Dcace/SA Gaming/game icon/DiamondHall_baccarat.jpg
 sa_live,420019,Baccarat D02,,assets/Dcace/SA Gaming/game icon/DiamondHall_baccarat.jpg
 sa_live,420020,Baccarat D03,,assets/Dcace/SA Gaming/game icon/DiamondHall_baccarat.jpg
@@ -5235,7 +5335,7 @@ sa_live,420021,Baccarat D04,,assets/Dcace/SA Gaming/game icon/DiamondHall_baccar
 sa_live,420022,Baccarat D05,,assets/Dcace/SA Gaming/game icon/DiamondHall_baccarat.jpg
 sa_live,420023,Baccarat D06,,assets/Dcace/SA Gaming/game icon/DiamondHall_baccarat.jpg
 sa_live,420024,Baccarat D07,,assets/Dcace/SA Gaming/game icon/DiamondHall_baccarat.jpg
-sa_live,420025,Speed Baccarat D08,,
+sa_live,420025,Speed Baccarat D08,,assets/Dcace/SA Gaming/game icon/DiamondHall_speed baccarat.jpg
 sa_live,420026,Baccarat M01,,assets/Dcace/SA Gaming/game icon/Baccarat M01.jpg
 sa_live,420027,Baccarat M02,,assets/Dcace/SA Gaming/game icon/Baccarat M02.jpg
 sa_live,420028,Baccarat M03,,assets/Dcace/SA Gaming/game icon/Baccarat M03.jpg
@@ -5318,6 +5418,14 @@ sevenmojos_slot,280070,Auto Roulette Solaris,,assets/Dcace/7 Mojos/Game Icons/Au
 sevenmojos_slot,280071,777x Auto Roulette Solaris,,assets/Dcace/7 Mojos/Game Icons/777x Auto Roulette Solaris.png
 sevenmojos_slot,280072,Piggy Bank Bonanza,,assets/Dcace/7 Mojos/Game Icons/Piggy Bank Bonanza.png
 sevenmojos_slot,280073,Crazy Tomato 40,,assets/Dcace/7 Mojos/Game Icons/Crazy Tomato 40.png
+sevenmojos_slot,280074,Gold Club Auto Roulette,,assets/Dcace/7 Mojos/Game Icons/Gold Club Auto Roulette.png
+sevenmojos_slot,280075,777x Gold Club Auto Roulette,,assets/Dcace/7 Mojos/Game Icons/777x Gold Club Auto Roulette.png
+sevenmojos_slot,280076,Lotus Auto Roulette,,assets/Dcace/7 Mojos/Game Icons/Lotus Auto Roulette.png
+sevenmojos_slot,280077,777x Lotus Auto Roulette,,assets/Dcace/7 Mojos/Game Icons/777x Lotus Auto Roulette.png
+sevenmojos_slot,280078,Fizzling 40 Hot,,assets/Dcace/7 Mojos/Game Icons/Fizzling 40 Hot.png
+sevenmojos_slot,280079,Macao Royale Auto Roulette,,assets/Dcace/7 Mojos/Game Icons/Macao Royale Auto Roulette.png
+sevenmojos_slot,280080,777x Macao Royale Auto Roulette,,assets/Dcace/7 Mojos/Game Icons/777x Macao Royale Auto Roulette.png
+sevenmojos_slot,280081,Crazy Tomato 60,,assets/Dcace/7 Mojos/Game Icons/Crazy Tomato 60.png
 slotmill_slot,230001,Chilli Bandits,,assets/Dcace/Slotmill/Game Icon/230001_Chilli Bandits.png
 slotmill_slot,230002,Coin Quest 2,,assets/Dcace/Slotmill/Game Icon/230002_Coin Quest 2.png
 slotmill_slot,230003,Gem Rush,,assets/Dcace/Slotmill/Game Icon/230003_Gem Rush.png
@@ -5368,6 +5476,8 @@ slotmill_slot,230050,Emberfall 40K,,assets/Dcace/Slotmill/Game Icon/Emberfall 40
 slotmill_slot,230051,Ultra Fruit Smash,,assets/Dcace/Slotmill/Game Icon/Ultra Fruit Smash.png
 slotmill_slot,230052,Season of Fortune,,assets/Dcace/Slotmill/Game Icon/Season of Fortune.png
 slotmill_slot,230053,Tiki Thunder,,assets/Dcace/Slotmill/Game Icon/Tiki Thunder.jpg
+slotmill_slot,230054,Lucy Luck and the Quest for Coins,,assets/Dcace/Slotmill/Game Icon/Lucy Luck and the Quest for Coins.png
+slotmill_slot,230055,Ranbow Rush,,assets/Dcace/Slotmill/Game Icon/Ranbow Rush.jpg
 smartsoft_slot,320000,JetX,,assets/Dcace/SmartSoft/Game Icon/320000_JetX.jpg
 smartsoft_slot,320002,Balloon,,assets/Dcace/SmartSoft/Game Icon/320002_Balloon.jpg
 smartsoft_slot,320004,JetX3,,assets/Dcace/SmartSoft/Game Icon/320004_JetX3.jpg
@@ -5425,6 +5535,7 @@ spribe_etc,310007,Mini Roulette,,assets/Dcace/Spribe/Game Icon/310007_Mini Roule
 spribe_etc,310008,Hotline,,assets/Dcace/Spribe/Game Icon/310008_Hotline.png
 spribe_etc,310011,Keno80,,assets/Dcace/Spribe/Game Icon/Keno80.png
 spribe_etc,310012,Balloon,,assets/Dcace/Spribe/Game Icon/Balloon.png
+spribe_etc,310013,Trader,,assets/Dcace/Spribe/Game Icon/Trader.png
 thunderkick_slot,340001,Beat the Beast Dragons Wrath,,assets/Dcace/ThunderKick/Game Icon/Beat the Beast Dragons Wrath.jpg
 thunderkick_slot,340004,12 Bolts of Thunder,,assets/Dcace/ThunderKick/Game Icon/12 Bolts of Thunder.jpg
 thunderkick_slot,340007,Hellape‚àö¬±os,,assets/Dcace/ThunderKick/Game Icon/Hellapenos.jpg
@@ -5527,6 +5638,7 @@ thunderkick_slot,340204,Heads Will Roll,,assets/Dcace/ThunderKick/Game Icon/Head
 thunderkick_slot,340205,Esqueleto Explosivo¬¨√Ü: Feliz Navidead,,assets/Dcace/ThunderKick/Game Icon/Esqueleto Explosivo® Feliz Navidead.jpg
 thunderkick_slot,340206,Pink Elephants Trinity,,assets/Dcace/ThunderKick/Game Icon/Pink Elephants Trinity.jpg
 thunderkick_slot,340207,Pan's Arcadia,,assets/Dcace/ThunderKick/Game Icon/Pan's Arcadia.jpg
+thunderkick_slot,340208,Second Thunder,,assets/Dcace/ThunderKick/Game Icon/Second Thunder.jpg
 turboasia_slot,360001,CrashX,,assets/Dcace/TurboGames/Game Icon/360001_CrashX.png
 turboasia_slot,360002,Mines,,assets/Dcace/TurboGames/Game Icon/360002_Mines.jpeg
 turboasia_slot,360004,Dice Twice,,assets/Dcace/TurboGames/Game Icon/360004_Dice Twice.jpeg
@@ -5562,6 +5674,7 @@ turboasia_slot,360043,Chicken Route,,assets/Dcace/TurboGames/Game Icon/Chicken R
 turboasia_slot,360044,Balloon Doggo,,assets/Dcace/TurboGames/Game Icon/Balloon Doggo.png
 turboasia_slot,360045,Vortex Halloween,,assets/Dcace/TurboGames/Game Icon/Vortex Halloween.png
 turboasia_slot,360046,Vortex Safari,,assets/Dcace/TurboGames/Game Icon/Vortex Safari.png
+turboasia_slot,360047,Vortex 2,,assets/Dcace/TurboGames/Game Icon/Vortex 2.png
 turborest_slot,390001,CrashX,,assets/Dcace/TurboGames/Game Icon/360001_CrashX.png
 turborest_slot,390002,Mines,,assets/Dcace/TurboGames/Game Icon/360002_Mines.jpeg
 turborest_slot,390004,Dice Twice,,assets/Dcace/TurboGames/Game Icon/360004_Dice Twice.jpeg
@@ -5597,6 +5710,7 @@ turborest_slot,390043,Chicken Route,,assets/Dcace/TurboGames/Game Icon/Chicken R
 turborest_slot,390044,Balloon Doggo,,assets/Dcace/TurboGames/Game Icon/Balloon Doggo.png
 turborest_slot,390045,Vortex Halloween,,assets/Dcace/TurboGames/Game Icon/Vortex Halloween.png
 turborest_slot,390046,Vortex Safari,,assets/Dcace/TurboGames/Game Icon/Vortex Safari.png
+turborest_slot,390047,Vortex 2,,assets/Dcace/TurboGames/Game Icon/Vortex 2.png
 voltent_slot,330000,9 Coins‚Äö√ë¬¢ Grand Diamond Edition,,assets/Dcace/Voltent (Wazdan)/Game Icon/330000_9CoinsGrandDiamondEdition.jpg
 voltent_slot,330001,Sizzling Eggs‚Äö√ë¬¢ Extremely Light,,assets/Dcace/Voltent (Wazdan)/Game Icon/330001_SizzlingEggsExtremelyLight.jpg
 voltent_slot,330002,Hot Slot‚Äö√ë¬¢: 777 Coins Extremely Light,,assets/Dcace/Voltent (Wazdan)/Game Icon/330002_Hot Slot™ 777 Coins Extremely Light.jpg
@@ -6098,7 +6212,7 @@ yggdrasil_slot,880324,4K Ultra Gold,,assets/Dcace/Yggdrasil/Game Icon/880324_4K 
 yggdrasil_slot,880326,Hidden Egypt DoubleMax,,assets/Dcace/Yggdrasil/Game Icon/880326_Hidden Egypt DoubleMax(10526).jpg
 yggdrasil_slot,880329,Trolls Bridge 2,,assets/Dcace/Yggdrasil/Game Icon/880329_Trolls Bridge 2.jpg
 yggdrasil_slot,880330,Racing Lovers,,assets/Dcace/Yggdrasil/Game Icon/880330_Racing Lovers.png
-yggdrasil_slot,880337,SuperCash Drop,,
+yggdrasil_slot,880337,SuperCash Drop,,assets/Dcace/Yggdrasil/Game Icon/880192_SuperCash Drop.jpg
 yggdrasil_slot,880348,Gunpowder,,assets/Dcace/Yggdrasil/Game Icon/880348_Gunpowder.png
 yggdrasil_slot,880349,Goblin‚Äö√Ñ√¥s Bargain MultiMax,,assets/Dcace/Yggdrasil/Game Icon/880349_Goblin’s Bargain MultiMax.jpg
 yggdrasil_slot,880350,Mutant Trawlers,,assets/Dcace/Yggdrasil/Game Icon/880350_Mutant Trawlers(10500).jpg
@@ -6299,7 +6413,9 @@ yggdrasil_slot,880548,Big Game Fishing Christmas Catch,,assets/Dcace/Yggdrasil/G
 yggdrasil_slot,880549,10000 Wonders Big Bang,,assets/Dcace/Yggdrasil/Game Icon/10000 Wonders Big Bang.png
 yggdrasil_slot,880550,Fire Wilds,,assets/Dcace/Yggdrasil/Game Icon/Fire Wilds.png
 yggdrasil_slot,880551,Salty Showdown,,assets/Dcace/Yggdrasil/Game Icon/Salty Showdown.png
+yggdrasil_slot,880552,Pearl Reef Gigablox Multimax,,assets/Dcace/Yggdrasil/Game Icon/Pearl Reef Gigablox Multimax.png
 yggdrasil_slot,880553,Dream Diner Deluxe,,assets/Dcace/Yggdrasil/Game Icon/Dream Diner Deluxe.png
+yggdrasil_slot,880554,Jack‚Äôs Beanstalk Bonanza,,assets/Dcace/Yggdrasil/Game Icon/Jack’s Beanstalk Bonanza.png
 yggdrasil_slot,880555,Island Ices,,assets/Dcace/Yggdrasil/Game Icon/Island Ices.png
 yggdrasil_slot,880556,3 Wonders New Year Horse,,assets/Dcace/Yggdrasil/Game Icon/3 Wonders New Year Horse.png
 yggdrasil_slot,880557,Coins of Cleo,,assets/Dcace/Yggdrasil/Game Icon/Coins of Cleo.png
@@ -6309,8 +6425,13 @@ yggdrasil_slot,880560,3 Wonders Catch,,assets/Dcace/Yggdrasil/Game Icon/3 Wonder
 yggdrasil_slot,880561,Candy Crazed Pandas DoubleMax,,assets/Dcace/Yggdrasil/Game Icon/Candy Crazed Pandas DoubleMax.png
 yggdrasil_slot,880562,Bank of Blarney TopHit,,assets/Dcace/Yggdrasil/Game Icon/Bank of Blarney TopHit.png
 yggdrasil_slot,880563,Covert Chaos,,assets/Dcace/Yggdrasil/Game Icon/Covert Chaos.png
+yggdrasil_slot,880564,10000X Gold 2,,assets/Dcace/Yggdrasil/Game Icon/10000X Gold 2.png
+yggdrasil_slot,880565,Dr. Cranko‚Äôs Lab,,assets/Dcace/Yggdrasil/Game Icon/Dr. Cranko’s Lab.png
 yggdrasil_slot,880566,Devils Luck Hotfire Hold & Win,,assets/Dcace/Yggdrasil/Game Icon/Devils Luck Hotfire Hold & Win.png
+yggdrasil_slot,880567,Zeus God of Gaming,,assets/Dcace/Yggdrasil/Game Icon/Zeus God of Gaming.png
 yggdrasil_slot,880570,Headhunter,,assets/Dcace/Yggdrasil/Game Icon/Headhunter.png
+yggdrasil_slot,880571,CooCoo Cashoo,,assets/Dcace/Yggdrasil/Game Icon/CooCoo Cashoo.png
+yggdrasil_slot,880572,Leprecat‚Äôs Gold,,assets/Dcace/Yggdrasil/Game Icon/Leprecat’s Gold.png
 yolted_slot,430000,Bubble Trouble,,assets/Dcace/Yolted/Game Icon/430000_bubbletrouble.jpg
 yolted_slot,430001,Robo Ultra,,assets/Dcace/Yolted/Game Icon/430001_roboultra.jpg
 yolted_slot,430002,Section VIII: Rise of the Damned,,assets/Dcace/Yolted/Game Icon/430002_Section VIII Rise of the Damned.jpg
