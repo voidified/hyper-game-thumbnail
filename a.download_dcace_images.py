@@ -6,11 +6,16 @@ import time
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 
+FIXED_USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/145.0.0.0 Safari/537.36"
+)
+FIXED_REFERER = "https://share.dc-ace.com/"
+
 # python3 a.download_dcace_images.py \
 #   --urls-file "tmp.dcace.urls.txt" \
 #   --cookie 'cf_clearance=...' \
-#   --header 'User-Agent: Mozilla/5.0 ...' \
-#   --header 'Referer: https://share.dc-ace.com/' \
 #   --interval-seconds 1.0
 
 def parse_args() -> argparse.Namespace:
@@ -132,10 +137,14 @@ def url_to_local_path(url: str, assets_root: Path) -> Path:
 
 
 def build_headers(args: argparse.Namespace) -> list[str]:
-    headers = list(args.header)
+    headers = [
+        f"User-Agent: {FIXED_USER_AGENT}",
+        f"Referer: {FIXED_REFERER}",
+    ]
+    headers.extend(filter_disallowed_headers(args.header))
 
     if args.headers_file:
-        headers.extend(load_headers_file(Path(args.headers_file)))
+        headers.extend(filter_disallowed_headers(load_headers_file(Path(args.headers_file))))
 
     if args.cookie:
         headers.append(f"Cookie: {args.cookie}")
@@ -147,6 +156,20 @@ def build_headers(args: argparse.Namespace) -> list[str]:
             "Both --auth-header-name and --auth-header-value are required together"
         )
     return headers
+
+
+def filter_disallowed_headers(headers: list[str]) -> list[str]:
+    allowed: list[str] = []
+    for header in headers:
+        key = header.split(":", 1)[0].strip().lower()
+        if key in {"user-agent", "referer"}:
+            print(
+                f"[WARN] Ignoring custom header '{key}' because it is fixed in script.",
+                file=sys.stderr,
+            )
+            continue
+        allowed.append(header)
+    return allowed
 
 
 def load_headers_file(file_path: Path) -> list[str]:
