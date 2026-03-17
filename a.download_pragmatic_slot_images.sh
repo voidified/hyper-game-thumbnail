@@ -3,7 +3,7 @@ set -euo pipefail
 
 INPUT_FILE="${1:-pp_slot_images.txt}"
 OUTPUT_ROOT="${2:-assets/Others/Pragmatic}"
-INTERVAL_SECONDS=1
+INTERVAL_SECONDS=0.3
 REQUEST_COUNT=0
 
 if [[ ! -f "$INPUT_FILE" ]]; then

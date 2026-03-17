@@ -1,19 +1,375 @@
 provider,game_id,name,image_url,downloaded_file 
-avatarux_slot,140077,Big Catch Xmas,,assets/Dcace/Avatarux/Game Icon/Big Catch Xmas.png
-avatarux_slot,140078,Cosmic Jokers,,assets/Dcace/Avatarux/Game Icon/Cosmic Jokers.png
-avatarux_slot,140074,Crypto Bro,,assets/Dcace/Avatarux/Game Icon/Crypto Bro.png
-avatarux_slot,140076,Sphinx Treasure,,assets/Dcace/Avatarux/Game Icon/Sphinx Treasure.png
-avatarux_slot,140073,Carioca Vibes,,assets/Dcace/Avatarux/Game Icon/Carioca Vibes.png
-avatarux_slot,140075,Fruitillionaire,,assets/Dcace/Avatarux/Game Icon/Fruitillionaire.png
-bigtime_slot,250076,MONOPOLY Rush Hour,,assets/Dcace/Big Time Gaming/Game Icon/MONOPOLY Rush Hour.png
-evoplay_slot,110333,Three Trojan Horses,,assets/Dcace/Evoplay/Game Icon/Three Trojan Horses.jpg
-hacksaw_slot,201715,Monkey Frenzy 2: Boss is Here!,,assets/Dcace/Hacksaw/Game Icon/Monkey Frenzy 2 Boss is Here.png
-hacksaw_slot,201717,Dusk Princess,,assets/Dcace/Hacksaw/Game Icon/Dusk Princess.png
-hacksawlatam_slot,551712,Monkey Frenzy 2: Boss is Here!,,assets/Dcace/Hacksaw/Game Icon/Monkey Frenzy 2 Boss is Here.png
-hacksawlatam_slot,551714,Dusk Princess,,assets/Dcace/Hacksaw/Game Icon/Dusk Princess.png
-hacksawrow_slot,531712,Monkey Frenzy 2: Boss is Here!,,assets/Dcace/Hacksaw/Game Icon/Monkey Frenzy 2 Boss is Here.png
-hacksawrow_slot,531714,Dusk Princess,,assets/Dcace/Hacksaw/Game Icon/Dusk Princess.png
-octoplay_slot,510141,3 Fortune Beasts: Hold & Win,,assets/Dcace/Octoplay/Game ICON/3 Fortune Beasts Hold & Win.jpg
-octoplay_slot,510142,Eagle Gold: Hold & Win,,assets/Dcace/Octoplay/Game ICON/Eagle Gold Hold & Win.jpg
-octoplay_slot,510143,Golden L'Hoot,,assets/Dcace/Octoplay/Game ICON/Golden L'Hoot.jpg
-relax_slot,151110,Frankenstein Wild Surge‚Äã,,assets/Dcace/Relax/Game Icon/Frankenstein Wild Surge.jpg
+pragmatic_live,550,VIP Blackjack 5,,assets/Others/Pragmatic/550/550_200x200_NB.png
+pragmatic_live,403,Speed Baccarat 2,,assets/Others/Pragmatic/403/403_200x200_NB.png
+pragmatic_live,722,Priv√© Lounge 2,,assets/Others/Pragmatic/722/722_200x200_NB.png
+pragmatic_live,441,Korean Speed Baccarat 1,,assets/Others/Pragmatic/441/441_200x200_NB.png
+pragmatic_live,449,Korean Speed Baccarat 2,,assets/Others/Pragmatic/449/449_200x200_NB.png
+pragmatic_live,211,Lucky 6 Roulette,,assets/Others/Pragmatic/211/211_200x200_NB.png
+pragmatic_live,459,Korean Speed Baccarat 3,,assets/Others/Pragmatic/459/459_200x200_NB.png
+pragmatic_live,450,Indonesia Speed Baccarat 1,,assets/Others/Pragmatic/450/450_200x200_NB.png
+pragmatic_live,442,Mega Baccarat,,assets/Others/Pragmatic/442/442_200x200_NB.png
+pragmatic_live,206,Roulette Macao,,assets/Others/Pragmatic/206/206_200x200_NB.png
+pragmatic_live,451,Thai Speed Baccarat 1,,assets/Others/Pragmatic/451/451_200x200_NB.png
+pragmatic_live,227,Roulette 1,,assets/Others/Pragmatic/227/227_200x200_NB.png
+pragmatic_live,404,Baccarat 2,,assets/Others/Pragmatic/404/404_200x200_NB.png
+pragmatic_live,454,Priv√© Lounge Baccarat 1,,assets/Others/Pragmatic/454/454_200x200_NB.png
+pragmatic_live,2101,Mega Sic Bac,,assets/Others/Pragmatic/2101/2101_200x200_NB.png
+pragmatic_live,488,Japanese Speed Baccarat 1,,assets/Others/Pragmatic/488/488_200x200_NB.png
+pragmatic_live,481,Chinese Speed Baccarat 1,,assets/Others/Pragmatic/481/481_200x200_NB.png
+pragmatic_live,460,Korean Baccarat 1,,assets/Others/Pragmatic/460/460_200x200_NB.png
+pragmatic_live,476,Korean Speed Baccarat 5,,assets/Others/Pragmatic/476/476_200x200_NB.png
+pragmatic_live,477,Korean Turbo Baccarat 1,,assets/Others/Pragmatic/477/477_200x200_NB.png
+pragmatic_live,489,Japanese Speed Baccarat 2,,assets/Others/Pragmatic/489/489_200x200_NB.png
+pragmatic_live,490,Japanese Speed Baccarat 3,,assets/Others/Pragmatic/490/490_200x200_NB.png
+pragmatic_live,482,Chinese Speed Baccarat 2,,assets/Others/Pragmatic/482/482_200x200_NB.png
+pragmatic_live,483,Chinese Speed Baccarat 3,,assets/Others/Pragmatic/483/483_200x200_NB.png
+pragmatic_live,479,Vietnamese Speed Baccarat 1,,assets/Others/Pragmatic/479/479_200x200_NB.png
+pragmatic_live,434,Fortune 6 Baccarat,,assets/Others/Pragmatic/434/434_200x200_NB.png
+pragmatic_live,433,Super 8 Baccarat,,assets/Others/Pragmatic/433/433_200x200_NB.png
+pragmatic_live,455,Priv√© Lounge Baccarat 2,,assets/Others/Pragmatic/455/455_200x200_NB.png
+pragmatic_live,456,Priv√© Lounge Baccarat 3,,assets/Others/Pragmatic/456/456_200x200_NB.png
+pragmatic_live,554,Blackjack 51,,assets/Others/Pragmatic/554/554_200x200_NB.png
+pragmatic_live,458,Priv√© Lounge Baccarat 5,,assets/Others/Pragmatic/458/458_200x200_NB.png
+pragmatic_live,466,Priv√© Lounge Baccarat 6,,assets/Others/Pragmatic/466/466_200x200_NB.png
+pragmatic_live,467,Priv√© Lounge Baccarat 7,,assets/Others/Pragmatic/467/467_200x200_NB.png
+pragmatic_live,468,Priv√© Lounge Baccarat 8,,assets/Others/Pragmatic/468/468_200x200_NB.png
+pragmatic_live,412,Speed Baccarat 3,,assets/Others/Pragmatic/412/412_200x200_NB.png
+pragmatic_live,414,Speed Baccarat 5,,assets/Others/Pragmatic/414/414_200x200_NB.png
+pragmatic_live,415,Speed Baccarat 6,,assets/Others/Pragmatic/415/415_200x200_NB.png
+pragmatic_live,431,Speed Baccarat 7,,assets/Others/Pragmatic/431/431_200x200_NB.png
+pragmatic_live,432,Speed Baccarat 8,,assets/Others/Pragmatic/432/432_200x200_NB.png
+pragmatic_live,430,Speed Baccarat 9,,assets/Others/Pragmatic/430/430_200x200_NB.png
+pragmatic_live,428,Speed Baccarat 10,,assets/Others/Pragmatic/428/428_200x200_NB.png
+pragmatic_live,424f,Speed Baccarat 11,,assets/Others/Pragmatic/424f/424f_200x200_NB.png
+pragmatic_live,421f,Speed Baccarat 12,,assets/Others/Pragmatic/421f/421f_200x200_NB.png
+pragmatic_live,438f,Speed Baccarat 13,,assets/Others/Pragmatic/438f/438f_200x200_NB.png
+pragmatic_live,405,Speed Baccarat 18,,assets/Others/Pragmatic/405/405_200x200_NB.png
+pragmatic_live,427b,Speed Baccarat 15,,assets/Others/Pragmatic/427b/427b_200x200_NB.png
+pragmatic_live,435,Speed Baccarat 16,,assets/Others/Pragmatic/435/435_200x200_NB.png
+pragmatic_live,439,Speed Baccarat 17,,assets/Others/Pragmatic/439/439_200x200_NB.png
+pragmatic_live,422f,Baccarat 3,,assets/Others/Pragmatic/422f/422f_200x200_NB.png
+pragmatic_live,411,Baccarat 5,,assets/Others/Pragmatic/411/411_200x200_NB.png
+pragmatic_live,413,Baccarat 6,,assets/Others/Pragmatic/413/413_200x200_NB.png
+pragmatic_live,425,Baccarat 7,,assets/Others/Pragmatic/425/425_200x200_NB.png
+pragmatic_live,426b,Turbo Baccarat,,assets/Others/Pragmatic/426b/426b_200x200_NB.png
+pragmatic_live,436,Baccarat 9,,assets/Others/Pragmatic/436/436_200x200_NB.png
+pragmatic_live,266,Auto Roulette VIP,,assets/Others/Pragmatic/266/266_200x200_NB.png
+pragmatic_live,213,Korean Roulette,,assets/Others/Pragmatic/213/213_200x200_NB.png
+pragmatic_live,201,Roulette 2 Extra Time,,assets/Others/Pragmatic/201/201_200x200_NB.png
+pragmatic_live,237,Brazilian Roulette,,assets/Others/Pragmatic/237/237_200x200_NB.png
+pragmatic_live,222,German Roulette,,assets/Others/Pragmatic/222/222_200x200_NB.png
+pragmatic_live,224,Turkish Roulette,,assets/Others/Pragmatic/224/224_200x200_NB.png
+pragmatic_live,221,Russian Roulette,,assets/Others/Pragmatic/221/221_200x200_NB.png
+pragmatic_live,210,Auto Mega Roulette,,assets/Others/Pragmatic/210/210_200x200_NB.png
+pragmatic_live,226,Speed Auto Roulette,,assets/Others/Pragmatic/226/226_200x200_NB.png
+pragmatic_live,234,Roulette Latina,,assets/Others/Pragmatic/234/234_200x200_NB.png
+pragmatic_live,205,Speed Roulette 2,,assets/Others/Pragmatic/205/205_200x200_NB.png
+pragmatic_live,223,Italian Roulette,,assets/Others/Pragmatic/223/223_200x200_NB.png
+pragmatic_live,208,Turkish Mega Roulette,,assets/Others/Pragmatic/208/208_200x200_NB.png
+pragmatic_live,287,Mega Roulette - Brazilian,,assets/Others/Pragmatic/287/287_200x200_NB.png
+pragmatic_live,233,Romanian Roulette,,assets/Others/Pragmatic/233/233_200x200_NB.png
+pragmatic_live,1401,Dice City,,assets/Others/Pragmatic/1401/1401_200x200_NB.png
+pragmatic_live,711a,SicBo,,assets/Others/Pragmatic/711a/711a_200x200_NB.png
+pragmatic_live,4001,Football Blitz,,assets/Others/Pragmatic/4001/4001_200x200_NB.png
+pragmatic_live,721,Priv√© Lounge 1,,assets/Others/Pragmatic/721/721_200x200_NB.png
+pragmatic_live,546,VIP Blackjack 1,,assets/Others/Pragmatic/546/546_200x200_NB.png
+pragmatic_live,912,Bet Behind Pro Blackjack,,assets/Others/Pragmatic/912/912_200x200_NB.png
+pragmatic_live,530,Blackjack 26,,assets/Others/Pragmatic/530/530_200x200_NB.png
+pragmatic_live,542,Blackjack 34,,assets/Others/Pragmatic/542/542_200x200_NB.png
+pragmatic_live,568,Speed Blackjack 3,,assets/Others/Pragmatic/568/568_200x200_NB.png
+pragmatic_live,607,Speed Blackjack 11,,assets/Others/Pragmatic/607/607_200x200_NB.png
+pragmatic_live,3003,BlackjackX 3,,assets/Others/Pragmatic/3003/3003_200x200_NB.png
+pragmatic_live,566,Speed Blackjack 1,,assets/Others/Pragmatic/566/566_200x200_NB.png
+pragmatic_live,3001,BlackjackX 1,,assets/Others/Pragmatic/3001/3001_200x200_NB.png
+pragmatic_live,3133,Korean BlackjackX 1,,assets/Others/Pragmatic/3133/3133_200x200_NB.png
+pragmatic_live,3134,Korean BlackjackX 2,,assets/Others/Pragmatic/3134/3134_200x200_NB.png
+pragmatic_live,3135,Korean BlackjackX 3,,assets/Others/Pragmatic/3135/3135_200x200_NB.png
+pragmatic_live,663,VIP Blackjack 7,,assets/Others/Pragmatic/663/663_200x200_NB.png
+pragmatic_live,543,Blackjack 35,,assets/Others/Pragmatic/543/543_200x200_NB.png
+pragmatic_live,517,Blackjack 10,,assets/Others/Pragmatic/517/517_200x200_NB.png
+pragmatic_live,541,Blackjack 33,,assets/Others/Pragmatic/541/541_200x200_NB.png
+pragmatic_live,305,Blackjack 16,,assets/Others/Pragmatic/305/305_200x200_NB.png
+pragmatic_live,552,Blackjack 49,,assets/Others/Pragmatic/552/552_200x200_NB.png
+pragmatic_live,647,Speed Blackjack 30,,assets/Others/Pragmatic/647/647_200x200_NB.png
+pragmatic_live,551,Blackjack 48,,assets/Others/Pragmatic/551/551_200x200_NB.png
+pragmatic_live,523,Blackjack 19 - Azure,,assets/Others/Pragmatic/523/523_200x200_NB.png
+pragmatic_live,3005,BlackjackX 5,,assets/Others/Pragmatic/3005/3005_200x200_NB.png
+pragmatic_live,567,Speed Blackjack 2,,assets/Others/Pragmatic/567/567_200x200_NB.png
+pragmatic_live,3006,BlackjackX 6,,assets/Others/Pragmatic/3006/3006_200x200_NB.png
+pragmatic_live,591,Speed Blackjack 6,,assets/Others/Pragmatic/591/591_200x200_NB.png
+pragmatic_live,3002,BlackjackX 2,,assets/Others/Pragmatic/3002/3002_200x200_NB.png
+pragmatic_live,549,VIP Blackjack 4,,assets/Others/Pragmatic/549/549_200x200_NB.png
+pragmatic_live,548,VIP Blackjack 3,,assets/Others/Pragmatic/548/548_200x200_NB.png
+pragmatic_live,592,Speed Blackjack 7,,assets/Others/Pragmatic/592/592_200x200_NB.png
+pragmatic_live,3004,BlackjackX 4,,assets/Others/Pragmatic/3004/3004_200x200_NB.png
+pragmatic_live,604,Speed Blackjack 8,,assets/Others/Pragmatic/604/604_200x200_NB.png
+pragmatic_live,3008,BlackjackX 8,,assets/Others/Pragmatic/3008/3008_200x200_NB.png
+pragmatic_live,608,Speed Blackjack 12,,assets/Others/Pragmatic/608/608_200x200_NB.png
+pragmatic_live,3007,BlackjackX 7,,assets/Others/Pragmatic/3007/3007_200x200_NB.png
+pragmatic_live,525,Blackjack 21 - Azure,,assets/Others/Pragmatic/525/525_200x200_NB.png
+pragmatic_live,3014,BlackjackX 14,,assets/Others/Pragmatic/3014/3014_200x200_NB.png
+pragmatic_live,560,Blackjack 46,,assets/Others/Pragmatic/560/560_200x200_NB.png
+pragmatic_live,3015,BlackjackX 15,,assets/Others/Pragmatic/3015/3015_200x200_NB.png
+pragmatic_live,609,Speed Blackjack 14,,assets/Others/Pragmatic/609/609_200x200_NB.png
+pragmatic_live,528,Blackjack 24,,assets/Others/Pragmatic/528/528_200x200_NB.png
+pragmatic_live,553,Blackjack 50,,assets/Others/Pragmatic/553/553_200x200_NB.png
+pragmatic_live,516,Blackjack 9,,assets/Others/Pragmatic/516/516_200x200_NB.png
+pragmatic_live,569,Blackjack 77,,assets/Others/Pragmatic/569/569_200x200_NB.png
+pragmatic_live,529,Blackjack 25,,assets/Others/Pragmatic/529/529_200x200_NB.png
+pragmatic_live,536,Blackjack 30 - Azure,,assets/Others/Pragmatic/536/536_200x200_NB.png
+pragmatic_live,544,Blackjack 36,,assets/Others/Pragmatic/544/544_200x200_NB.png
+pragmatic_live,570,Blackjack 78,,assets/Others/Pragmatic/570/570_200x200_NB.png
+pragmatic_live,535,Blackjack 31 - Azure,,assets/Others/Pragmatic/535/535_200x200_NB.png
+pragmatic_live,540,Blackjack 32 - Azure,,assets/Others/Pragmatic/540/540_200x200_NB.png
+pragmatic_live,558,Blackjack 44,,assets/Others/Pragmatic/558/558_200x200_NB.png
+pragmatic_live,3016,BlackjackX 16,,assets/Others/Pragmatic/3016/3016_200x200_NB.png
+pragmatic_live,524,Blackjack 20 - Azure,,assets/Others/Pragmatic/524/524_200x200_NB.png
+pragmatic_live,3021,BlackjackX 21,,assets/Others/Pragmatic/3021/3021_200x200_NB.png
+pragmatic_live,539,Blackjack 27 - Azure,,assets/Others/Pragmatic/539/539_200x200_NB.png
+pragmatic_live,3009,BlackjackX 9,,assets/Others/Pragmatic/3009/3009_200x200_NB.png
+pragmatic_live,563,Blackjack 38,,assets/Others/Pragmatic/563/563_200x200_NB.png
+pragmatic_live,3010,BlackjackX 10,,assets/Others/Pragmatic/3010/3010_200x200_NB.png
+pragmatic_live,561,Blackjack 47,,assets/Others/Pragmatic/561/561_200x200_NB.png
+pragmatic_live,3024,BlackjackX 24,,assets/Others/Pragmatic/3024/3024_200x200_NB.png
+pragmatic_live,537,Blackjack 29 - Azure,,assets/Others/Pragmatic/537/537_200x200_NB.png
+pragmatic_live,3025,BlackjackX 25,,assets/Others/Pragmatic/3025/3025_200x200_NB.png
+pragmatic_live,527,Blackjack 23,,assets/Others/Pragmatic/527/527_200x200_NB.png
+pragmatic_live,304,Blackjack 15,,assets/Others/Pragmatic/304/304_200x200_NB.png
+pragmatic_live,605,Speed Blackjack 9,,assets/Others/Pragmatic/605/605_200x200_NB.png
+pragmatic_live,3017,BlackjackX 17,,assets/Others/Pragmatic/3017/3017_200x200_NB.png
+pragmatic_live,564,Blackjack 39,,assets/Others/Pragmatic/564/564_200x200_NB.png
+pragmatic_live,3018,BlackjackX 18,,assets/Others/Pragmatic/3018/3018_200x200_NB.png
+pragmatic_live,606,Speed Blackjack 10,,assets/Others/Pragmatic/606/606_200x200_NB.png
+pragmatic_live,3019,BlackjackX 19,,assets/Others/Pragmatic/3019/3019_200x200_NB.png
+pragmatic_live,565,Blackjack 40,,assets/Others/Pragmatic/565/565_200x200_NB.png
+pragmatic_live,3020,BlackjackX 20,,assets/Others/Pragmatic/3020/3020_200x200_NB.png
+pragmatic_live,594,Blackjack 52,,assets/Others/Pragmatic/594/594_200x200_NB.png
+pragmatic_live,3046,BlackjackX 11,,assets/Others/Pragmatic/3046/3046_200x200_NB.png
+pragmatic_live,595,Blackjack 53,,assets/Others/Pragmatic/595/595_200x200_NB.png
+pragmatic_live,3047,BlackjackX 12,,assets/Others/Pragmatic/3047/3047_200x200_NB.png
+pragmatic_live,596,Blackjack 54,,assets/Others/Pragmatic/596/596_200x200_NB.png
+pragmatic_live,3048,BlackjackX 13,,assets/Others/Pragmatic/3048/3048_200x200_NB.png
+pragmatic_live,597,Blackjack 55,,assets/Others/Pragmatic/597/597_200x200_NB.png
+pragmatic_live,3049,BlackjackX 22,,assets/Others/Pragmatic/3049/3049_200x200_NB.png
+pragmatic_live,593,Blackjack 56,,assets/Others/Pragmatic/593/593_200x200_NB.png
+pragmatic_live,559,Blackjack 45,,assets/Others/Pragmatic/559/559_200x200_NB.png
+pragmatic_live,3054,BlackjackX 29,,assets/Others/Pragmatic/3054/3054_200x200_NB.png
+pragmatic_live,555,Blackjack 41,,assets/Others/Pragmatic/555/555_200x200_NB.png
+pragmatic_live,3055,BlackjackX 30,,assets/Others/Pragmatic/3055/3055_200x200_NB.png
+pragmatic_live,556,Blackjack 42,,assets/Others/Pragmatic/556/556_200x200_NB.png
+pragmatic_live,557,Blackjack 43,,assets/Others/Pragmatic/557/557_200x200_NB.png
+pragmatic_live,538,Blackjack 28 - Azure,,assets/Others/Pragmatic/538/538_200x200_NB.png
+pragmatic_live,526,Blackjack 22,,assets/Others/Pragmatic/526/526_200x200_NB.png
+pragmatic_live,513,Blackjack 7,,assets/Others/Pragmatic/513/513_200x200_NB.png
+pragmatic_live,520,Blackjack 8,,assets/Others/Pragmatic/520/520_200x200_NB.png
+pragmatic_live,512,Blackjack 6,,assets/Others/Pragmatic/512/512_200x200_NB.png
+pragmatic_live,618,Blackjack 73,,assets/Others/Pragmatic/618/618_200x200_NB.png
+pragmatic_live,619,Blackjack 74,,assets/Others/Pragmatic/619/619_200x200_NB.png
+pragmatic_live,3050,BlackjackX 23,,assets/Others/Pragmatic/3050/3050_200x200_NB.png
+pragmatic_live,612,Blackjack 148,,assets/Others/Pragmatic/612/612_200x200_NB.png
+pragmatic_live,3051,BlackjackX 26,,assets/Others/Pragmatic/3051/3051_200x200_NB.png
+pragmatic_live,598,Blackjack 57,,assets/Others/Pragmatic/598/598_200x200_NB.png
+pragmatic_live,3052,BlackjackX 27,,assets/Others/Pragmatic/3052/3052_200x200_NB.png
+pragmatic_live,599,Blackjack 58,,assets/Others/Pragmatic/599/599_200x200_NB.png
+pragmatic_live,3426,24D Spin,,assets/Others/Pragmatic/3426/3426_200x200_NB.png
+pragmatic_live,950,American Roulette,,assets/Others/Pragmatic/950/950_200x200_NB.png
+pragmatic_live,650,Blackjack 109,,assets/Others/Pragmatic/650/650_200x200_NB.png
+pragmatic_live,651,Blackjack 110,,assets/Others/Pragmatic/651/651_200x200_NB.png
+pragmatic_live,652,Blackjack 111,,assets/Others/Pragmatic/652/652_200x200_NB.png
+pragmatic_live,325,Blackjack 112,,assets/Others/Pragmatic/325/325_200x200_NB.png
+pragmatic_live,326,Blackjack 113,,assets/Others/Pragmatic/326/326_200x200_NB.png
+pragmatic_live,327,Blackjack 114,,assets/Others/Pragmatic/327/327_200x200_NB.png
+pragmatic_live,667,Blackjack 115,,assets/Others/Pragmatic/667/667_200x200_NB.png
+pragmatic_live,668,Blackjack 116,,assets/Others/Pragmatic/668/668_200x200_NB.png
+pragmatic_live,669,Blackjack 117,,assets/Others/Pragmatic/669/669_200x200_NB.png
+pragmatic_live,670,Blackjack 118,,assets/Others/Pragmatic/670/670_200x200_NB.png
+pragmatic_live,726,Blackjack 119,,assets/Others/Pragmatic/726/726_200x200_NB.png
+pragmatic_live,346,Blackjack 120 - The Club,,assets/Others/Pragmatic/346/346_200x200_NB.png
+pragmatic_live,727,Blackjack 121,,assets/Others/Pragmatic/727/727_200x200_NB.png
+pragmatic_live,728,Blackjack 122,,assets/Others/Pragmatic/728/728_200x200_NB.png
+pragmatic_live,729,Blackjack 123,,assets/Others/Pragmatic/729/729_200x200_NB.png
+pragmatic_live,732,Blackjack 124,,assets/Others/Pragmatic/732/732_200x200_NB.png
+pragmatic_live,733,Blackjack 125,,assets/Others/Pragmatic/733/733_200x200_NB.png
+pragmatic_live,347,Blackjack 126,,assets/Others/Pragmatic/347/347_200x200_NB.png
+pragmatic_live,931,Blackjack 127,,assets/Others/Pragmatic/931/931_200x200_NB.png
+pragmatic_live,932,Blackjack 128,,assets/Others/Pragmatic/932/932_200x200_NB.png
+pragmatic_live,933,Blackjack 129,,assets/Others/Pragmatic/933/933_200x200_NB.png
+pragmatic_live,1155,Blackjack 130,,assets/Others/Pragmatic/1155/1155_200x200_NB.png
+pragmatic_live,1157,Blackjack 131,,assets/Others/Pragmatic/1157/1157_200x200_NB.png
+pragmatic_live,1153,Blackjack 132,,assets/Others/Pragmatic/1153/1153_200x200_NB.png
+pragmatic_live,1154,Blackjack 133,,assets/Others/Pragmatic/1154/1154_200x200_NB.png
+pragmatic_live,1156,Blackjack 134,,assets/Others/Pragmatic/1156/1156_200x200_NB.png
+pragmatic_live,329,Blackjack 141,,assets/Others/Pragmatic/329/329_200x200_NB.png
+pragmatic_live,331,Blackjack 142,,assets/Others/Pragmatic/331/331_200x200_NB.png
+pragmatic_live,11107,Blackjack 143,,assets/Others/Pragmatic/11107/11107_200x200_NB.png
+pragmatic_live,11108,Blackjack 144,,assets/Others/Pragmatic/11108/11108_200x200_NB.png
+pragmatic_live,11109,Blackjack 145,,assets/Others/Pragmatic/11109/11109_200x200_NB.png
+pragmatic_live,11110,Blackjack 146,,assets/Others/Pragmatic/11110/11110_200x200_NB.png
+pragmatic_live,11111,Blackjack 147,,assets/Others/Pragmatic/11111/11111_200x200_NB.png
+pragmatic_live,328,Blackjack 155,,assets/Others/Pragmatic/328/328_200x200_NB.png
+pragmatic_live,330,Blackjack 156,,assets/Others/Pragmatic/330/330_200x200_NB.png
+pragmatic_live,332,Blackjack 157,,assets/Others/Pragmatic/332/332_200x200_NB.png
+pragmatic_live,3053,BlackjackX 28,,assets/Others/Pragmatic/3053/3053_200x200_NB.png
+pragmatic_live,3231,BlackjackX 31,,assets/Others/Pragmatic/3231/3231_200x200_NB.png
+pragmatic_live,3232,BlackjackX 32,,assets/Others/Pragmatic/3232/3232_200x200_NB.png
+pragmatic_live,3233,BlackjackX 33,,assets/Others/Pragmatic/3233/3233_200x200_NB.png
+pragmatic_live,3234,BlackjackX 34,,assets/Others/Pragmatic/3234/3234_200x200_NB.png
+pragmatic_live,3235,BlackjackX 35,,assets/Others/Pragmatic/3235/3235_200x200_NB.png
+pragmatic_live,3238,BlackjackX 36,,assets/Others/Pragmatic/3238/3238_200x200_NB.png
+pragmatic_live,3239,BlackjackX 37,,assets/Others/Pragmatic/3239/3239_200x200_NB.png
+pragmatic_live,3240,BlackjackX 38,,assets/Others/Pragmatic/3240/3240_200x200_NB.png
+pragmatic_live,3241,BlackjackX 39,,assets/Others/Pragmatic/3241/3241_200x200_NB.png
+pragmatic_live,3242,BlackjackX 40,,assets/Others/Pragmatic/3242/3242_200x200_NB.png
+pragmatic_live,2701,Casino Hold‚Äôem,,assets/Others/Pragmatic/2701/2701_200x200_NB.png
+pragmatic_live,270,Fortune Roulette,,assets/Others/Pragmatic/270/270_200x200_NB.png
+pragmatic_live,28401,French Roulette la Partage,,assets/Others/Pragmatic/28401/28401_200x200_NB.png
+pragmatic_live,292,Immersive Roulette Deluxe,,assets/Others/Pragmatic/292/292_200x200_NB.png
+pragmatic_live,1160,Indonesian ONE Blackjack,,assets/Others/Pragmatic/1160/1160_200x200_NB.png
+pragmatic_live,2601,Jacks or Better Draw Poker,,assets/Others/Pragmatic/2601/2601_200x200_NB.png
+pragmatic_live,499,Korean Baccarat 2,,assets/Others/Pragmatic/499/499_200x200_NB.png
+pragmatic_live,1141,Korean Blackjack 1,,assets/Others/Pragmatic/1141/1141_200x200_NB.png
+pragmatic_live,1159,Korean ONE Blackjack,,assets/Others/Pragmatic/1159/1159_200x200_NB.png
+pragmatic_live,461,Korean Priv√© Lounge Baccarat 1,,assets/Others/Pragmatic/461/461_200x200_NB.png
+pragmatic_live,1140,Korean Speed Blackjack 1,,assets/Others/Pragmatic/1140/1140_200x200_NB.png
+pragmatic_live,173,LOBBY_LOCALISED,,assets/Others/Pragmatic/173/173_200x200_NB.png
+pragmatic_live,2901,MegaRoulette3000,,assets/Others/Pragmatic/2901/2901_200x200_NB.png
+pragmatic_live,169,Poker,,assets/Others/Pragmatic/169/169_200x200_NB.png
+pragmatic_live,4511,Priv√© Lounge Baccarat Squeeze 1,,assets/Others/Pragmatic/4511/4511_200x200_NB.png
+pragmatic_live,4512,Priv√© Lounge Baccarat Squeeze 2,,assets/Others/Pragmatic/4512/4512_200x200_NB.png
+pragmatic_live,1146,Priv√© Lounge Blackjack 11,,assets/Others/Pragmatic/1146/1146_200x200_NB.png
+pragmatic_live,1147,Priv√© Lounge Blackjack 12,,assets/Others/Pragmatic/1147/1147_200x200_NB.png
+pragmatic_live,1148,Priv√© Lounge Blackjack 13,,assets/Others/Pragmatic/1148/1148_200x200_NB.png
+pragmatic_live,1149,Priv√© Lounge Blackjack 14,,assets/Others/Pragmatic/1149/1149_200x200_NB.png
+pragmatic_live,28201,Priv√© Lounge Roulette,,assets/Others/Pragmatic/28201/28201_200x200_NB.png
+pragmatic_live,28301,Priv√© Lounge Roulette Deluxe,,assets/Others/Pragmatic/28301/28301_200x200_NB.png
+pragmatic_live,12501,Speed Roulette Latina,,assets/Others/Pragmatic/12501/12501_200x200_NB.png
+pragmatic_live,851,Squeeze Baccarat,,assets/Others/Pragmatic/851/851_200x200_NB.png
+pragmatic_live,452,Thai Speed Baccarat 2,,assets/Others/Pragmatic/452/452_200x200_NB.png
+pragmatic_live,480,Vietnamese Speed Baccarat 2,,assets/Others/Pragmatic/480/480_200x200_NB.png
+pragmatic_live,484,Vietnamese Speed Baccarat 3,,assets/Others/Pragmatic/484/484_200x200_NB.png
+pragmatic_live,613,Blackjack 149,,assets/Others/Pragmatic/613/613_200x200_NB.png
+pragmatic_live,600,Blackjack 59,,assets/Others/Pragmatic/600/600_200x200_NB.png
+pragmatic_live,620,Blackjack 64,,assets/Others/Pragmatic/620/620_200x200_NB.png
+pragmatic_live,521,Blackjack 17 - Azure,,assets/Others/Pragmatic/521/521_200x200_NB.png
+pragmatic_live,515,Blackjack 1,,assets/Others/Pragmatic/515/515_200x200_NB.png
+pragmatic_live,519,Blackjack 2,,assets/Others/Pragmatic/519/519_200x200_NB.png
+pragmatic_live,522,Blackjack 18 - Azure,,assets/Others/Pragmatic/522/522_200x200_NB.png
+pragmatic_live,562,Blackjack 37,,assets/Others/Pragmatic/562/562_200x200_NB.png
+pragmatic_live,614,Speed Blackjack 17,,assets/Others/Pragmatic/614/614_200x200_NB.png
+pragmatic_live,601,Blackjack 60,,assets/Others/Pragmatic/601/601_200x200_NB.png
+pragmatic_live,602,Blackjack 61,,assets/Others/Pragmatic/602/602_200x200_NB.png
+pragmatic_live,603,Blackjack 62,,assets/Others/Pragmatic/603/603_200x200_NB.png
+pragmatic_live,590,Blackjack 63,,assets/Others/Pragmatic/590/590_200x200_NB.png
+pragmatic_live,621,Blackjack 65,,assets/Others/Pragmatic/621/621_200x200_NB.png
+pragmatic_live,626,Blackjack 70,,assets/Others/Pragmatic/626/626_200x200_NB.png
+pragmatic_live,301,Blackjack 11,,assets/Others/Pragmatic/301/301_200x200_NB.png
+pragmatic_live,511,Blackjack 3,,assets/Others/Pragmatic/511/511_200x200_NB.png
+pragmatic_live,518,Blackjack 5,,assets/Others/Pragmatic/518/518_200x200_NB.png
+pragmatic_live,302,Blackjack 12,,assets/Others/Pragmatic/302/302_200x200_NB.png
+pragmatic_live,514,Blackjack 4,,assets/Others/Pragmatic/514/514_200x200_NB.png
+pragmatic_live,615,Speed Blackjack 18,,assets/Others/Pragmatic/615/615_200x200_NB.png
+pragmatic_live,616,Blackjack 71,,assets/Others/Pragmatic/616/616_200x200_NB.png
+pragmatic_live,617,Blackjack 72,,assets/Others/Pragmatic/617/617_200x200_NB.png
+pragmatic_live,658,Blackjack 150,,assets/Others/Pragmatic/658/658_200x200_NB.png
+pragmatic_live,659,Speed Blackjack 20,,assets/Others/Pragmatic/659/659_200x200_NB.png
+pragmatic_live,660,Speed Blackjack 21,,assets/Others/Pragmatic/660/660_200x200_NB.png
+pragmatic_live,661,Speed Blackjack 22,,assets/Others/Pragmatic/661/661_200x200_NB.png
+pragmatic_live,641,Speed Blackjack 24,,assets/Others/Pragmatic/641/641_200x200_NB.png
+pragmatic_live,642,Speed Blackjack 25,,assets/Others/Pragmatic/642/642_200x200_NB.png
+pragmatic_live,643,Speed Blackjack 26,,assets/Others/Pragmatic/643/643_200x200_NB.png
+pragmatic_live,644,Speed Blackjack 27,,assets/Others/Pragmatic/644/644_200x200_NB.png
+pragmatic_live,645,Blackjack 151,,assets/Others/Pragmatic/645/645_200x200_NB.png
+pragmatic_live,646,Blackjack 152,,assets/Others/Pragmatic/646/646_200x200_NB.png
+pragmatic_live,681,Speed Blackjack 31,,assets/Others/Pragmatic/681/681_200x200_NB.png
+pragmatic_live,682,Speed Blackjack 32,,assets/Others/Pragmatic/682/682_200x200_NB.png
+pragmatic_live,687,Blackjack 135,,assets/Others/Pragmatic/687/687_200x200_NB.png
+pragmatic_live,688,Speed Blackjack 34,,assets/Others/Pragmatic/688/688_200x200_NB.png
+pragmatic_live,686,Speed Blackjack 35,,assets/Others/Pragmatic/686/686_200x200_NB.png
+pragmatic_live,684,Blackjack 136,,assets/Others/Pragmatic/684/684_200x200_NB.png
+pragmatic_live,685,Blackjack 137,,assets/Others/Pragmatic/685/685_200x200_NB.png
+pragmatic_live,370,Speed Blackjack 38,,assets/Others/Pragmatic/370/370_200x200_NB.png
+pragmatic_live,371,Speed Blackjack 39,,assets/Others/Pragmatic/371/371_200x200_NB.png
+pragmatic_live,779,Speed Blackjack 40,,assets/Others/Pragmatic/779/779_200x200_NB.png
+pragmatic_live,780,Speed Blackjack 41,,assets/Others/Pragmatic/780/780_200x200_NB.png
+pragmatic_live,781,Speed Blackjack 42,,assets/Others/Pragmatic/781/781_200x200_NB.png
+pragmatic_live,691,Blackjack 138,,assets/Others/Pragmatic/691/691_200x200_NB.png
+pragmatic_live,692,Blackjack 139,,assets/Others/Pragmatic/692/692_200x200_NB.png
+pragmatic_live,693,Blackjack 140,,assets/Others/Pragmatic/693/693_200x200_NB.png
+pragmatic_live,788,Speed Blackjack 51,,assets/Others/Pragmatic/788/788_200x200_NB.png
+pragmatic_live,377,Speed Blackjack 55,,assets/Others/Pragmatic/377/377_200x200_NB.png
+pragmatic_live,378,Speed Blackjack 56,,assets/Others/Pragmatic/378/378_200x200_NB.png
+pragmatic_live,379,Speed Blackjack 57,,assets/Others/Pragmatic/379/379_200x200_NB.png
+pragmatic_live,380,Speed Blackjack 58,,assets/Others/Pragmatic/380/380_200x200_NB.png
+pragmatic_live,381,Speed Blackjack 59 - Emerald,,assets/Others/Pragmatic/381/381_200x200_NB.png
+pragmatic_live,690,Blackjack 153,,assets/Others/Pragmatic/690/690_200x200_NB.png
+pragmatic_live,695,Blackjack 154,,assets/Others/Pragmatic/695/695_200x200_NB.png
+pragmatic_live,770,Speed Blackjack 43,,assets/Others/Pragmatic/770/770_200x200_NB.png
+pragmatic_live,772,Speed Blackjack 44,,assets/Others/Pragmatic/772/772_200x200_NB.png
+pragmatic_live,773,Speed Blackjack 45,,assets/Others/Pragmatic/773/773_200x200_NB.png
+pragmatic_live,774,Speed Blackjack 46,,assets/Others/Pragmatic/774/774_200x200_NB.png
+pragmatic_live,775,Speed Blackjack 47,,assets/Others/Pragmatic/775/775_200x200_NB.png
+pragmatic_live,784,Speed Blackjack 52,,assets/Others/Pragmatic/784/784_200x200_NB.png
+pragmatic_live,785,Speed Blackjack 53,,assets/Others/Pragmatic/785/785_200x200_NB.png
+pragmatic_live,786,Speed Blackjack 54,,assets/Others/Pragmatic/786/786_200x200_NB.png
+pragmatic_live,906,Brazilian ONE Blackjack,,assets/Others/Pragmatic/906/906_200x200_NB.png
+pragmatic_live,904,Turkish ONE Blackjack,,assets/Others/Pragmatic/904/904_200x200_NB.png
+pragmatic_live,730,Blackjack 75,,assets/Others/Pragmatic/730/730_200x200_NB.png
+pragmatic_live,731,Blackjack 76,,assets/Others/Pragmatic/731/731_200x200_NB.png
+pragmatic_live,676,Blackjack 79,,assets/Others/Pragmatic/676/676_200x200_NB.png
+pragmatic_live,677,Blackjack 80,,assets/Others/Pragmatic/677/677_200x200_NB.png
+pragmatic_live,678,Blackjack 81,,assets/Others/Pragmatic/678/678_200x200_NB.png
+pragmatic_live,673,Blackjack 82,,assets/Others/Pragmatic/673/673_200x200_NB.png
+pragmatic_live,674,Blackjack 83,,assets/Others/Pragmatic/674/674_200x200_NB.png
+pragmatic_live,675,Blackjack 84,,assets/Others/Pragmatic/675/675_200x200_NB.png
+pragmatic_live,683,Blackjack 85,,assets/Others/Pragmatic/683/683_200x200_NB.png
+pragmatic_live,369,Blackjack 86,,assets/Others/Pragmatic/369/369_200x200_NB.png
+pragmatic_live,776,Blackjack 87,,assets/Others/Pragmatic/776/776_200x200_NB.png
+pragmatic_live,777,Blackjack 88,,assets/Others/Pragmatic/777/777_200x200_NB.png
+pragmatic_live,778,Blackjack 89,,assets/Others/Pragmatic/778/778_200x200_NB.png
+pragmatic_live,767,Blackjack 90,,assets/Others/Pragmatic/767/767_200x200_NB.png
+pragmatic_live,768,Blackjack 91,,assets/Others/Pragmatic/768/768_200x200_NB.png
+pragmatic_live,769,Blackjack 92,,assets/Others/Pragmatic/769/769_200x200_NB.png
+pragmatic_live,771,Blackjack 93,,assets/Others/Pragmatic/771/771_200x200_NB.png
+pragmatic_live,694,Blackjack 94,,assets/Others/Pragmatic/694/694_200x200_NB.png
+pragmatic_live,696,Blackjack 95,,assets/Others/Pragmatic/696/696_200x200_NB.png
+pragmatic_live,697,Blackjack 96,,assets/Others/Pragmatic/697/697_200x200_NB.png
+pragmatic_live,787,Blackjack 97,,assets/Others/Pragmatic/787/787_200x200_NB.png
+pragmatic_live,789,Blackjack 98,,assets/Others/Pragmatic/789/789_200x200_NB.png
+pragmatic_live,790,Blackjack 99,,assets/Others/Pragmatic/790/790_200x200_NB.png
+pragmatic_live,791,Blackjack 100,,assets/Others/Pragmatic/791/791_200x200_NB.png
+pragmatic_live,792,Blackjack 101,,assets/Others/Pragmatic/792/792_200x200_NB.png
+pragmatic_live,372,Blackjack 102,,assets/Others/Pragmatic/372/372_200x200_NB.png
+pragmatic_live,373,Blackjack 103,,assets/Others/Pragmatic/373/373_200x200_NB.png
+pragmatic_live,374,Blackjack 104,,assets/Others/Pragmatic/374/374_200x200_NB.png
+pragmatic_live,375,Blackjack 105,,assets/Others/Pragmatic/375/375_200x200_NB.png
+pragmatic_live,376,Blackjack 106,,assets/Others/Pragmatic/376/376_200x200_NB.png
+pragmatic_live,689,Blackjack 107,,assets/Others/Pragmatic/689/689_200x200_NB.png
+pragmatic_live,698,Blackjack 108,,assets/Others/Pragmatic/698/698_200x200_NB.png
+pragmatic_live,662,VIP Blackjack 6,,assets/Others/Pragmatic/662/662_200x200_NB.png
+pragmatic_live,547,VIP Blackjack 2,,assets/Others/Pragmatic/547/547_200x200_NB.png
+pragmatic_live,664,VIP Blackjack 8,,assets/Others/Pragmatic/664/664_200x200_NB.png
+pragmatic_live,622,VIP Blackjack 9,,assets/Others/Pragmatic/622/622_200x200_NB.png
+pragmatic_live,623,VIP Blackjack 10,,assets/Others/Pragmatic/623/623_200x200_NB.png
+pragmatic_live,624,VIP Blackjack 11,,assets/Others/Pragmatic/624/624_200x200_NB.png
+pragmatic_live,625,VIP Blackjack 12,,assets/Others/Pragmatic/625/625_200x200_NB.png
+pragmatic_live,671,Blackjack 159,,assets/Others/Pragmatic/671/671_200x200_NB.png
+pragmatic_live,672,Blackjack 160,,assets/Others/Pragmatic/672/672_200x200_NB.png
+pragmatic_live,723,Priv√© Lounge 3,,assets/Others/Pragmatic/723/723_200x200_NB.png
+pragmatic_live,724,Priv√© Lounge 4,,assets/Others/Pragmatic/724/724_200x200_NB.png
+pragmatic_live,725,Priv√© Lounge 5,,assets/Others/Pragmatic/725/725_200x200_NB.png
+pragmatic_live,747,Priv√© Lounge Blackjack 6,,assets/Others/Pragmatic/747/747_200x200_NB.png
+pragmatic_live,748,Priv√© Lounge Blackjack 7,,assets/Others/Pragmatic/748/748_200x200_NB.png
+pragmatic_live,749,Priv√© Lounge Blackjack 8,,assets/Others/Pragmatic/749/749_200x200_NB.png
+pragmatic_live,750,Priv√© Lounge Blackjack 9,,assets/Others/Pragmatic/750/750_200x200_NB.png
+pragmatic_live,751,Priv√© Lounge Blackjack 10,,assets/Others/Pragmatic/751/751_200x200_NB.png
+pragmatic_live,453,Thai Baccarat 1,,assets/Others/Pragmatic/453/453_200x200_NB.png
+pragmatic_live,2501,Crystal Roulette,,assets/Others/Pragmatic/2501/2501_200x200_NB.png
+pragmatic_slot,vs20bonzgold,Bonanza Gold,,assets/Others/Pragmatic/vs20bonzgold/vs20bonzgold_200x200_NB.png
+pragmatic_slot,vs40samurai3,Rise of Samurai 3,,assets/Others/Pragmatic/vs40samurai3/vs40samurai3_200x200_NB.png
+pragmatic_slot,vs20candvil,Candy Village,,assets/Others/Pragmatic/vs20candvil/vs20candvil_200x200_NB.png
+pragmatic_slot,vs20speark,King of Spear,,assets/Others/Pragmatic/vs20speark/vs20speark_200x200_NB.png
+pragmatic_slot,vs20supermania,Supermania,,assets/Others/Pragmatic/vs20supermania/vs20supermania_200x200_NB.png
+pragmatic_slot,vs10coffee,Coffee Wild,,assets/Others/Pragmatic/vs10coffee/vs10coffee_200x200_NB.png
+pragmatic_slot,vs25bullfiesta,Bull Fiesta,,assets/Others/Pragmatic/vs25bullfiesta/vs25bullfiesta_200x200_NB.png
+pragmatic_slot,vs5balidragon,Bali Dragon,,assets/Others/Pragmatic/vs5balidragon/vs5balidragon_200x200_NB.png
+sevenmojos_slot,280034,Turkish Roulette,,assets/Dcace/7 Mojos/Game Icons/280034_Turkish Roulette.png
