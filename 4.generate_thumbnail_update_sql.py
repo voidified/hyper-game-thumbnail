@@ -91,7 +91,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--platform-csv",
-        default="platform_games_export_2026-02-27_162847.csv",
+        default="platform_games_export_2026-03-17_153453.csv",
         help="Platform export CSV path",
     )
     parser.add_argument(
