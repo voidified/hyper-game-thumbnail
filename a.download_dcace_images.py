@@ -6,6 +6,12 @@ import time
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 
+# python3 a.download_dcace_images.py \
+#   --urls-file "tmp.dcace.urls.txt" \
+#   --cookie 'cf_clearance=...' \
+#   --header 'User-Agent: Mozilla/5.0 ...' \
+#   --header 'Referer: https://share.dc-ace.com/' \
+#   --interval-seconds 1.0
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
