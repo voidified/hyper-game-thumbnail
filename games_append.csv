@@ -1,19 +1,10 @@
-provider,game_id,name,image_url,downloaded_file 
-avatarux_slot,140077,Big Catch Xmas,,assets/Dcace/Avatarux/Game Icon/Big Catch Xmas.png
-avatarux_slot,140078,Cosmic Jokers,,assets/Dcace/Avatarux/Game Icon/Cosmic Jokers.png
-avatarux_slot,140074,Crypto Bro,,assets/Dcace/Avatarux/Game Icon/Crypto Bro.png
-avatarux_slot,140076,Sphinx Treasure,,assets/Dcace/Avatarux/Game Icon/Sphinx Treasure.png
-avatarux_slot,140073,Carioca Vibes,,assets/Dcace/Avatarux/Game Icon/Carioca Vibes.png
-avatarux_slot,140075,Fruitillionaire,,assets/Dcace/Avatarux/Game Icon/Fruitillionaire.png
-bigtime_slot,250076,MONOPOLY Rush Hour,,assets/Dcace/Big Time Gaming/Game Icon/MONOPOLY Rush Hour.png
-evoplay_slot,110333,Three Trojan Horses,,assets/Dcace/Evoplay/Game Icon/Three Trojan Horses.jpg
-hacksaw_slot,201715,Monkey Frenzy 2: Boss is Here!,,assets/Dcace/Hacksaw/Game Icon/Monkey Frenzy 2 Boss is Here.png
-hacksaw_slot,201717,Dusk Princess,,assets/Dcace/Hacksaw/Game Icon/Dusk Princess.png
-hacksawlatam_slot,551712,Monkey Frenzy 2: Boss is Here!,,assets/Dcace/Hacksaw/Game Icon/Monkey Frenzy 2 Boss is Here.png
-hacksawlatam_slot,551714,Dusk Princess,,assets/Dcace/Hacksaw/Game Icon/Dusk Princess.png
-hacksawrow_slot,531712,Monkey Frenzy 2: Boss is Here!,,assets/Dcace/Hacksaw/Game Icon/Monkey Frenzy 2 Boss is Here.png
-hacksawrow_slot,531714,Dusk Princess,,assets/Dcace/Hacksaw/Game Icon/Dusk Princess.png
-octoplay_slot,510141,3 Fortune Beasts: Hold & Win,,assets/Dcace/Octoplay/Game ICON/3 Fortune Beasts Hold & Win.jpg
-octoplay_slot,510142,Eagle Gold: Hold & Win,,assets/Dcace/Octoplay/Game ICON/Eagle Gold Hold & Win.jpg
-octoplay_slot,510143,Golden L'Hoot,,assets/Dcace/Octoplay/Game ICON/Golden L'Hoot.jpg
-relax_slot,151110,Frankenstein Wild Surge‚Äã,,assets/Dcace/Relax/Game Icon/Frankenstein Wild Surge.jpg
+provider,game_id,name,image_url,downloaded_file
+pragmatic_slot,vs10stmreels,Steamin' Reels,,assets/Others/Pragmatic/vs10stmreels/vs10stmreels_260x350_NB.png
+pragmatic_slot,vswaysbooboo,Furry Bonanza Megaways,,assets/Others/Pragmatic/vswaysbooboo/vswaysbooboo_260x350_NB.png
+pragmatic_slot,vs10dmreels,Happy Dragon,,assets/Others/Pragmatic/vs10dmreels/vs10dmreels_260x350_NB.png
+pragmatic_slot,vswaystrpgug,Triple Pot Diamond,,assets/Others/Pragmatic/vswaystrpgug/vswaystrpgug_260x350_NB.png
+pragmatic_slot,vs20payanyvol,Jelly Express,,assets/Others/Pragmatic/vs20payanyvol/vs20payanyvol_260x350_NB.png
+pragmatic_slot,vs20slightwdm,Idol Pop Fever,,assets/Others/Pragmatic/vs20slightwdm/vs20slightwdm_260x350_NB.png
+pragmatic_slot,vs20thunder,Inca Queen,,assets/Others/Pragmatic/vs20thunder/vs20thunder_260x350_NB.png
+pragmatic_slot,vs20clustersw,Snow Party,,assets/Others/Pragmatic/vs20clustersw/vs20clustersw_260x350_NB.png
+pragmatic_slot,vswayscypup,Cyber Pup Megaways,,assets/Others/Pragmatic/vswayscypup/vswayscypup_260x350_NB.png
